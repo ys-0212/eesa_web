@@ -1,0 +1,220 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where([data-theme='dark'], [data-theme='dark'] *));
+
+/* ---------- Theme tokens (measured: analysis/measurements/colors.json) ---------- */
+:root {
+  --page: #f5f2f1;
+  --ink: #06110e;
+  --accent: #2b40eb;
+  --accent-ink: #1f2da4;
+  --accent-soft: #9ab3eb;
+  --muted: #eeeae7;
+  --panel: #e2dfdc;
+  --disabled: #a0a29f;
+  --pink: #f3b0e3;
+  --chartreuse: #cbc308;
+  --teal: #0e4943;
+  --signal: #ff4b19;
+  --violet: #5046e4;
+  --rule: rgb(6 17 14 / 0.12);
+  --nav-pill: rgb(245 242 241 / 0.9);
+  --on-media: #f5f2f1;
+  color-scheme: light;
+}
+[data-theme='dark'] {
+  --page: #06110e;
+  --ink: #f5f2f1;
+  --accent-ink: #9ab3eb;
+  --muted: #18231f;
+  --panel: #18231f;
+  --rule: rgb(245 242 241 / 0.16);
+  --nav-pill: rgb(24 35 31 / 0.9);
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-page: var(--page);
+  --color-ink: var(--ink);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-soft: var(--accent-soft);
+  --color-muted: var(--muted);
+  --color-panel: var(--panel);
+  --color-disabled: var(--disabled);
+  --color-pink: var(--pink);
+  --color-chartreuse: var(--chartreuse);
+  --color-teal: var(--teal);
+  --color-signal: var(--signal);
+  --color-violet: var(--violet);
+  --color-rule: var(--rule);
+  --color-on-media: var(--on-media);
+  --font-serif: var(--font-display), 'Times New Roman', serif;
+  --font-sans: var(--font-body), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-code), ui-monospace, 'Courier New', monospace;
+  --font-script: var(--font-wordmark), cursive;
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* ---------- Fluid root (reference: 16px @1440, 15.13 @1024, 14.60 @768, 15.26 @390) ---------- */
+html {
+  font-size: calc(13px + 0.2083vw);
+  -webkit-text-size-adjust: 100%;
+}
+@media (max-width: 479px) {
+  html {
+    font-size: calc(13px + 0.578vw);
+  }
+}
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+body {
+  background: var(--page);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: clip;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Custom cursor hides the system pointer only on fine pointers once JS has mounted it. */
+html.has-custom-cursor,
+html.has-custom-cursor * {
+  cursor: none !important;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+[data-theme='dark'] :focus-visible {
+  outline-color: var(--accent-soft);
+}
+
+/* ---------- Layout: `padding-global` = 10vw ≥1280px, 5vw below ---------- */
+:root {
+  --gutter: 5vw;
+}
+@media (width >= 1280px) {
+  :root {
+    --gutter: 10vw;
+  }
+}
+@utility gutter {
+  padding-inline: var(--gutter);
+}
+
+/* ---------- Typography (measured: analysis/SPEC.md §2) ---------- */
+@utility t-h1 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 3.5rem;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  @media (width >= 480px) {
+    font-size: 5.25rem;
+  }
+}
+@utility t-display {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 3rem;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  @media (width >= 480px) {
+    font-size: 4.25rem;
+  }
+}
+@utility t-huge {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 4.5rem;
+  line-height: 0.9;
+  letter-spacing: -0.015em;
+  @media (width >= 480px) {
+    font-size: 9rem;
+  }
+}
+@utility t-lead {
+  font-size: 1.25rem;
+  line-height: 1.5;
+  @media (width >= 480px) {
+    font-size: 1.5rem;
+  }
+}
+@utility t-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  line-height: 1.64;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+@utility t-mono {
+  font-family: var(--font-mono);
+  font-size: 1rem;
+  line-height: 1;
+  text-transform: uppercase;
+}
+@utility t-card-title {
+  font-weight: 700;
+  font-size: 1.75rem;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+}
+
+/* ---------- Text reveal masks (A1) ---------- */
+.reveal-line-mask {
+  overflow: clip;
+  overflow-clip-margin: 0.12em;
+  padding-bottom: 0.04em;
+}
+html.js-reveal [data-reveal]:not(.is-revealed) {
+  visibility: hidden;
+}
+
+/* ---------- Location pin pulse (A6) ---------- */
+@keyframes pin-pulse {
+  0% {
+    transform: translate(-50%, 0) scale(0.6);
+    opacity: 0.7;
+  }
+  100% {
+    transform: translate(-50%, 0) scale(1.8);
+    opacity: 0;
+  }
+}
+.pin-pulse {
+  animation: pin-pulse 1.8s ease-out infinite;
+}
+
+/* ---------- Services drag track ---------- */
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

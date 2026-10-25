@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1200" width="1800" height="1200"><defs></defs>
+  <rect width="1800" height="1200" fill="#cbc308"/>
+  <path transform="translate(250 330) scale(2.2)" d="M0 0l110 38-46 18-22 52z" fill="#06110e"/>
+  <rect x="460" y="540" width="1500" height="460" rx="56" fill="#06110e"/>
+  <text x="560" y="730" font-family="'Space Mono','Courier New',monospace" font-size="132" font-weight="700" fill="#fff">AI-ready content</text>
+  <text x="560" y="900" font-family="'Space Mono','Courier New',monospace" font-size="132" font-weight="700" fill="#fff">checklist</text></svg>

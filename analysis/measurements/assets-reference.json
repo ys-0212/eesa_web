@@ -1,0 +1,1122 @@
+{
+ "dom": [
+  {
+   "section": "0:hero",
+   "tag": "IMG",
+   "cls": "frankie_pulse_image",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a68ece0d8ee2516f1597dcc_frankie-location.png",
+   "alt": "",
+   "natural": [
+    172,
+    232
+   ],
+   "box": [
+    28,
+    38
+   ],
+   "fit": "fill"
+  },
+  {
+   "section": "0:hero",
+   "tag": "IMG",
+   "cls": "icon-image-img w-variant-e995986c-1d77-a288-8791-0",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a4fb2c2e82a3be9ff85efc2_webflow.svg",
+   "alt": "",
+   "natural": [
+    24,
+    24
+   ],
+   "box": [
+    24,
+    24
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "0:hero",
+   "tag": "IMG",
+   "cls": "icon-image-img w-variant-e995986c-1d77-a288-8791-0",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a330b89a9c2356eab75a3e7_driblle.png",
+   "alt": "",
+   "natural": [
+    24,
+    24
+   ],
+   "box": [
+    24,
+    24
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "0:hero",
+   "tag": "IMG",
+   "cls": "icon-image-img w-variant-e995986c-1d77-a288-8791-0",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a2996723c87c3085623bc82_image.avif",
+   "alt": "",
+   "natural": [
+    65,
+    64
+   ],
+   "box": [
+    24,
+    24
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "0:hero",
+   "tag": "IMG",
+   "cls": "icon-image-img w-variant-e995986c-1d77-a288-8791-0",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a299672bded9ed717b2e22b_boxed%20icon%20(1).avif",
+   "alt": "",
+   "natural": [
+    98,
+    96
+   ],
+   "box": [
+    24,
+    24
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "1:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute square-3",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a9630a076626c5cd228b1f6_66e488e5487cc8143b4d4d5c_65a730721f912d7006cf33b5_Archtober%2520Festival%25204-min-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    1080
+   ],
+   "box": [
+    568,
+    468
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "1:u-section",
+   "tag": "IMG",
+   "cls": "logo-partnership text-reveal",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a962fc7376525e3e5593e6b_Greater%20-%20Partner%20Logo%20-%20Archtober%20(white).avif",
+   "alt": "Archtober logo",
+   "natural": [
+    500,
+    250
+   ],
+   "box": [
+    104,
+    52
+   ],
+   "fit": "fill"
+  },
+  {
+   "section": "1:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute square-3",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a964435cca22cd8f77317f7_greater%20-%20ofcolor-%20testimonial%20-%20thumbnail%20(3).avif",
+   "alt": "",
+   "natural": [
+    1440,
+    1513
+   ],
+   "box": [
+    568,
+    468
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "1:u-section",
+   "tag": "IMG",
+   "cls": "logo-partnership text-reveal",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a964080ea32133517f5581f_Greater%20-%20Partner%20Logo%20-%20OfColor%20(light).avif",
+   "alt": "Archtober logo",
+   "natural": [
+    500,
+    250
+   ],
+   "box": [
+    104,
+    52
+   ],
+   "fit": "fill"
+  },
+  {
+   "section": "3:u-section",
+   "tag": "IMG",
+   "cls": "image-100",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a9878a817cdb0e988db5140_Thumbnail_The%20secrets%20behind%20Google%27s%20AI%20optimization%20guide%20(1).jpg",
+   "alt": "",
+   "natural": [
+    1800,
+    1200
+   ],
+   "box": [
+    373,
+    249
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "3:u-section",
+   "tag": "IMG",
+   "cls": "image-100",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp",
+   "alt": "",
+   "natural": [
+    900,
+    900
+   ],
+   "box": [
+    24,
+    24
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "3:u-section",
+   "tag": "IMG",
+   "cls": "image-100",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a7f24a7185464a2838861c8_Thumbnail_%20Top%20Questions.jpg",
+   "alt": "",
+   "natural": [
+    1800,
+    1200
+   ],
+   "box": [
+    373,
+    249
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "3:u-section",
+   "tag": "IMG",
+   "cls": "image-100",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a7b8caf06204cbec09680d0_Dribbble_List_Thumbnail_Blue.jpg",
+   "alt": "",
+   "natural": [
+    1800,
+    1200
+   ],
+   "box": [
+    373,
+    249
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "3:u-section",
+   "tag": "IMG",
+   "cls": "image-100",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/69cd6e1b0f7212ac821cd3b1_Headshots%201.webp",
+   "alt": "",
+   "natural": [
+    900,
+    900
+   ],
+   "box": [
+    24,
+    24
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a0f438b197c74a8df577471_MVB.webp",
+   "alt": "",
+   "natural": [
+    636,
+    848
+   ],
+   "box": [
+    368,
+    505
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "plus-con",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+   "alt": "",
+   "natural": [
+    20,
+    20
+   ],
+   "box": [
+    20,
+    20
+   ],
+   "fit": "fill"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a39678f60766fd43cecdd41_Brand%20transformation.webp",
+   "alt": "",
+   "natural": [
+    636,
+    848
+   ],
+   "box": [
+    368,
+    505
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a0f445d75a220f70ca3b85d_Embedded%E2%80%A8brand%20team.webp",
+   "alt": "",
+   "natural": [
+    636,
+    848
+   ],
+   "box": [
+    368,
+    505
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a10caa154b2279dee3fcaed_Content%20%20OS.webp",
+   "alt": "",
+   "natural": [
+    636,
+    848
+   ],
+   "box": [
+    368,
+    505
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a10cb04fafe5b29f2d3500b_Promotional%20video.webp",
+   "alt": "",
+   "natural": null,
+   "box": [
+    368,
+    505
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a10cad628d7da70f475c541_Embedded%20%E2%80%A8content%20team.webp",
+   "alt": "",
+   "natural": null,
+   "box": [
+    368,
+    505
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a57dfd2fec8e231b861da11_Site%20migration%20(1).webp",
+   "alt": "",
+   "natural": null,
+   "box": [
+    368,
+    505
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a2ecceb172fd222e532fbc7_Component%20library.webp",
+   "alt": "",
+   "natural": null,
+   "box": [
+    368,
+    505
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a10cabdd5ee652abe5c13f9_Custom%20site.webp",
+   "alt": "",
+   "natural": null,
+   "box": [
+    368,
+    505
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/69a2253b9dcd14fd37663f2a_MVP.webp",
+   "alt": "",
+   "natural": null,
+   "box": [
+    368,
+    505
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a10cb3ef05eb34c066e568a_Transformation%20sprint.webp",
+   "alt": "",
+   "natural": null,
+   "box": [
+    368,
+    505
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "4:u-section",
+   "tag": "IMG",
+   "cls": "image-100 absolute",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a10cae9957c5b08b11bae94_Embedded%E2%80%A8product%20team.webp",
+   "alt": "",
+   "natural": null,
+   "box": [
+    368,
+    505
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f912240280b3a66d4d4c_blake.jpeg",
+   "alt": "",
+   "natural": [
+    1440,
+    1440
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a2ddf2d3ef2abcf5d971b58_BoomPop_logo_colored.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    808
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f92f5c174fdf9d033295_allie.png",
+   "alt": "",
+   "natural": [
+    1440,
+    1440
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab3023f3fefcff4ee23ff5f_Atomiq%20logo-p-1600.jpg",
+   "alt": "",
+   "natural": [
+    1440,
+    809
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2dbe5e3e9f02d5b218c30_Meghan%20(2).png",
+   "alt": "",
+   "natural": [
+    426,
+    426
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/699e4984d20fcb991b9024e2_Archtober_logo_colored-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    809
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f99d0f95d418dd3829b1_angeline.jpeg",
+   "alt": "",
+   "natural": [
+    1440,
+    1440
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/699e478de687d05aafff4e4c_Novellia_logo_colored-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    809
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab305ad489081c58cb915ac_ASL%20placeholder-p-1600.png",
+   "alt": "",
+   "natural": [
+    1440,
+    1440
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/699e4972806fa9b6e75a78aa_ASL_logo_colored-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    809
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab305c77cba16acc494bfa6_Rectangle%2034628916-p-1600.png",
+   "alt": "",
+   "natural": [
+    1440,
+    1440
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/699e490d11b9f5ebeffdaefd_VilleFerrano_logo_colored-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    809
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab301c837ca63c04bcb2449_emily.png",
+   "alt": "",
+   "natural": [
+    1440,
+    1440
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/699e48af015a77fe0018cd6b_Atelio_logo_colored-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    809
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab31d04049e026b02cc1ccf_yemi%20rose-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    1081
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/699e49321b76bf395d6db2de_OfColor_logo_colored-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    809
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2fb1f391c353aed154ca4_jodi.png",
+   "alt": "",
+   "natural": [
+    1440,
+    1440
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/699e47702422a2947e7fe6bc_Vikingcloud_logo_colored-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    809
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f986879da2a35f040d46_sheila.jpeg",
+   "alt": "",
+   "natural": [
+    1440,
+    1440
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/699e495f628bab158b26f2c5_RoadsToSuccess_logo_colored-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    809
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f9c33e27ba769ec8609a_jamie.jpeg",
+   "alt": "",
+   "natural": [
+    400,
+    400
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/699e4846d4c9023695f9fdc8_1014_logo_colored-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    809
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2fae4d381202a6285a67c_abhinav.jpeg",
+   "alt": "",
+   "natural": [
+    1440,
+    1440
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/699e483214a823d16ed8fa60_Alma_logo_colored-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    809
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "img-100 cover grayscale",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f8ccadb18e80eab7f9a7_1762742486578.jpeg",
+   "alt": "",
+   "natural": [
+    1440,
+    1440
+   ],
+   "box": [
+    310,
+    310
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "5:u-section",
+   "tag": "IMG",
+   "cls": "image-100--contain",
+   "src": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/699e4749c3c19eee0ada181a_Assemble_logo_colored-p-1600.webp",
+   "alt": "",
+   "natural": [
+    1440,
+    809
+   ],
+   "box": [
+    144,
+    72
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "7:u-section",
+   "tag": "IMG",
+   "cls": "badges",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a330befde5ead7ad2f6614f_e83c3a14cb3f4999ff18f6790a397e86_Webflow%20Enterprise.png",
+   "alt": "",
+   "natural": null,
+   "box": [
+    112,
+    112
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "7:u-section",
+   "tag": "IMG",
+   "cls": "badges",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a330bd93ad6ac8f4cc6f7d7_33a6ae9de76dd4b67d0dc329cded9e0c_Top%20Branding%20Agency%202.png",
+   "alt": "",
+   "natural": null,
+   "box": [
+    112,
+    112
+   ],
+   "fit": "cover"
+  },
+  {
+   "section": "7:u-section",
+   "tag": "IMG",
+   "cls": "custom-cursor",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a6905193bf594a183ff871b_Cursor%20Design%20(1).svg",
+   "alt": "",
+   "natural": [
+    67,
+    45
+   ],
+   "box": [
+    67,
+    45
+   ],
+   "fit": "fill"
+  },
+  {
+   "section": "nav",
+   "tag": "IMG",
+   "cls": "lighy-icon light",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6936c9ad0da5b3bc5bb97307_sunny.svg",
+   "alt": "",
+   "natural": [
+    20,
+    20
+   ],
+   "box": [
+    20,
+    20
+   ],
+   "fit": "fill"
+  },
+  {
+   "section": "nav",
+   "tag": "IMG",
+   "cls": "theme-icon",
+   "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a3172e54bb695ab8b74c46d_moon.svg",
+   "alt": "",
+   "natural": [
+    20,
+    20
+   ],
+   "box": [
+    20,
+    20
+   ],
+   "fit": "fill"
+  }
+ ],
+ "networkImagesMedia": [
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a7a20e2c1da14d5a4298973_greater-figma-cursor.png",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a68ece0d8ee2516f1597dcc_frankie-location.png",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a962fc7376525e3e5593e6b_Greater%20-%20Partner%20Logo%20-%20Archtober%20(white).avif",
+   "ct": "image/avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6936c9ad0da5b3bc5bb97307_sunny.svg",
+   "ct": "image/svg+xml"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a4fb2c2e82a3be9ff85efc2_webflow.svg",
+   "ct": "image/svg+xml"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/69cd6e1b0f7212ac821cd3b1_Headshots%201.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a3172e54bb695ab8b74c46d_moon.svg",
+   "ct": "image/svg+xml"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a330b89a9c2356eab75a3e7_driblle.png",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a9878a817cdb0e988db5140_Thumbnail_The%20secrets%20behind%20Google%27s%20AI%20optimization%20guide%20(1).jpg",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a7f24a7185464a2838861c8_Thumbnail_%20Top%20Questions.jpg",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a964435cca22cd8f77317f7_greater%20-%20ofcolor-%20testimonial%20-%20thumbnail%20(3).avif",
+   "ct": "image/avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a9630a076626c5cd228b1f6_66e488e5487cc8143b4d4d5c_65a730721f912d7006cf33b5_Archtober%2520Festival%25204-min-p-1600.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a964080ea32133517f5581f_Greater%20-%20Partner%20Logo%20-%20OfColor%20(light).avif",
+   "ct": "image/avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a299672bded9ed717b2e22b_boxed%20icon%20(1).avif",
+   "ct": "image/avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a2996723c87c3085623bc82_image.avif",
+   "ct": "image/avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a7b8caf06204cbec09680d0_Dribbble_List_Thumbnail_Blue.jpg",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a0f438b197c74a8df577471_MVB.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a0f445d75a220f70ca3b85d_Embedded%E2%80%A8brand%20team.webp",
+   "ct": "application/octet-stream"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a39678f60766fd43cecdd41_Brand%20transformation.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+   "ct": "image/svg+xml"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a10caa154b2279dee3fcaed_Content%20%20OS.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6ab2d1313539f5d5c109bb80_Screenshot%202026-09-22%20at%2020.04.12.png",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a6905193bf594a183ff871b_Cursor%20Design%20(1).svg",
+   "ct": "image/svg+xml"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a42c0869c4cc83a4a7e5f1b_Pantry_library_thumbnail.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a4ce68713782bc4e537b185_Mise_thumbnail.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a3eb21165cd294903f9cdf7_Pressmark_thumbnail.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a4ce72375feb8a7f1d1f870_Levaro_thumbnail.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a3d3617d91e1eee845cefb7_Thumbnail%2002%202%201.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a4bb5813d3f9685c81f6233_hero.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6abc3b27212dcaef79d5a102_Thumbnail.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a330d6943b4c7438ed8ce5a_VikingCloud_Redesign_GreaterStufio.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f912240280b3a66d4d4c_blake.jpeg",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2dbe5e3e9f02d5b218c30_Meghan%20(2).png",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f99d0f95d418dd3829b1_angeline.jpeg",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f92f5c174fdf9d033295_allie.png",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab301c837ca63c04bcb2449_emily.png",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2fae4d381202a6285a67c_abhinav.jpeg",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f9c33e27ba769ec8609a_jamie.jpeg",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f8ccadb18e80eab7f9a7_1762742486578.jpeg",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2fb1f391c353aed154ca4_jodi.png",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f986879da2a35f040d46_sheila.jpeg",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab31d04049e026b02cc1ccf_yemi%20rose-p-1600.webp",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab305c77cba16acc494bfa6_Rectangle%2034628916-p-1600.png",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab305ad489081c58cb915ac_ASL%20placeholder-p-1600.png",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://p.typekit.net/p.gif?s=1&k=ggw4uqd&ht=tk&h=www.greaterstudio.com&f=49646.49647.49648.49649.49650.49651.49652.49653.51646.51647.51648.51649.51650.51651.51652.51653.49654.51655.53151&a=182181040&js=1.21.0&app=typekit&e=js&_=1792848367560",
+   "ct": "image/gif"
+  },
+  {
+   "url": "https://cdn-cookieyes.com/assets/images/revisit.svg",
+   "ct": "image/svg+xml"
+  },
+  {
+   "url": "https://cdn-cookieyes.com/assets/images/close.svg",
+   "ct": "image/svg+xml"
+  }
+ ],
+ "fonts": [
+  "https://use.typekit.net/ggw4uqd.js",
+  "https://fonts.googleapis.com/css2?family=Redacted&display=swap",
+  "https://use.typekit.net/af/2c0cee/000000000000000077524f49/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3",
+  "https://use.typekit.net/af/df7eab/000000000000000077524f45/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3",
+  "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a2800aaa8f21a79240b74bb_PerfectlyNineties-Regular.woff",
+  "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a1615d251be606f0b51f3ca_SpaceMono-Regular.ttf",
+  "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6564ff3c85518c27d14d7f6f_53151.otf",
+  "https://use.typekit.net/af/c8b55b/000000000000000077524f44/31/l?subset_id=2&fvd=n3&v=3",
+  "https://use.typekit.net/af/d33214/000000000000000077524f4e/31/l?subset_id=2&fvd=n6&v=3",
+  "https://use.typekit.net/af/a71841/000000000000000077524f4f/31/l?subset_id=2&fvd=n2&v=3",
+  "https://use.typekit.net/af/610a9a/000000000000000077524f50/31/l?subset_id=2&fvd=n5&v=3",
+  "https://use.typekit.net/af/7c6b28/000000000000000077524f40/31/l?subset_id=2&fvd=n8&v=3",
+  "https://use.typekit.net/af/a6c600/000000000000000077524f42/31/l?subset_id=2&fvd=n9&v=3",
+  "https://use.typekit.net/af/43bcbf/000000000000000077524f3f/31/l?subset_id=2&fvd=i8&v=3",
+  "https://use.typekit.net/af/bfa47d/000000000000000077524f51/31/l?subset_id=2&fvd=i9&v=3",
+  "https://use.typekit.net/af/eb68ab/000000000000000077524f46/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3",
+  "https://use.typekit.net/af/24d02b/000000000000000077524f4c/31/l?subset_id=2&fvd=i2&v=3",
+  "https://use.typekit.net/af/cd85a9/000000000000000077524f47/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3",
+  "https://use.typekit.net/af/5d517a/000000000000000077524f4d/31/l?subset_id=2&fvd=i5&v=3",
+  "https://use.typekit.net/af/768025/000000000000000077524f4a/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3",
+  "https://use.typekit.net/af/0e9077/000000000000000077524f43/31/l?subset_id=2&fvd=i3&v=3",
+  "https://use.typekit.net/af/019781/000000000000000077524f48/31/l?subset_id=2&fvd=i6&v=3",
+  "https://use.typekit.net/af/b5ab6b/000000000000000077524f41/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3",
+  "https://p.typekit.net/p.gif?s=1&k=ggw4uqd&ht=tk&h=www.greaterstudio.com&f=49646.49647.49648.49649.49650.49651.49652.49653.51646.51647.51648.51649.51650.51651.51652.51653.49654.51655.53151&a=182181040&js=1.21.0&app=typekit&e=js&_=1792848367560"
+ ]
+}

@@ -1,0 +1,174 @@
+{
+  "390": {
+    "height": 844,
+    "shots": [
+      {
+        "i": 0,
+        "y": 0
+      },
+      {
+        "i": 1,
+        "y": 844
+      },
+      {
+        "i": 2,
+        "y": 1688
+      },
+      {
+        "i": 3,
+        "y": 2532
+      },
+      {
+        "i": 4,
+        "y": 3376
+      },
+      {
+        "i": 5,
+        "y": 4220
+      },
+      {
+        "i": 6,
+        "y": 5064
+      },
+      {
+        "i": 7,
+        "y": 5908
+      },
+      {
+        "i": 8,
+        "y": 6752
+      },
+      {
+        "i": 9,
+        "y": 7389
+      }
+    ],
+    "docHeight": 8233,
+    "errors": [
+      "TypeError: Cannot read properties of null (reading 'setAttribute')"
+    ]
+  },
+  "768": {
+    "height": 1024,
+    "shots": [
+      {
+        "i": 0,
+        "y": 0
+      },
+      {
+        "i": 1,
+        "y": 1024
+      },
+      {
+        "i": 2,
+        "y": 2048
+      },
+      {
+        "i": 3,
+        "y": 3072
+      },
+      {
+        "i": 4,
+        "y": 4096
+      },
+      {
+        "i": 5,
+        "y": 5120
+      },
+      {
+        "i": 6,
+        "y": 6144
+      },
+      {
+        "i": 7,
+        "y": 6556
+      }
+    ],
+    "docHeight": 7580,
+    "errors": [
+      "TypeError: Cannot read properties of null (reading 'setAttribute')"
+    ]
+  },
+  "1024": {
+    "height": 768,
+    "shots": [
+      {
+        "i": 0,
+        "y": 0
+      },
+      {
+        "i": 1,
+        "y": 806
+      },
+      {
+        "i": 2,
+        "y": 1613
+      },
+      {
+        "i": 3,
+        "y": 2419
+      },
+      {
+        "i": 4,
+        "y": 3226
+      },
+      {
+        "i": 5,
+        "y": 4032
+      },
+      {
+        "i": 6,
+        "y": 4838
+      },
+      {
+        "i": 7,
+        "y": 5645
+      },
+      {
+        "i": 8,
+        "y": 5755
+      }
+    ],
+    "docHeight": 6523,
+    "errors": [
+      "TypeError: Cannot read properties of null (reading 'setAttribute')"
+    ]
+  },
+  "1440": {
+    "height": 900,
+    "shots": [
+      {
+        "i": 0,
+        "y": 0
+      },
+      {
+        "i": 1,
+        "y": 907
+      },
+      {
+        "i": 2,
+        "y": 1814
+      },
+      {
+        "i": 3,
+        "y": 2722
+      },
+      {
+        "i": 4,
+        "y": 3629
+      },
+      {
+        "i": 5,
+        "y": 4536
+      },
+      {
+        "i": 6,
+        "y": 5338
+      }
+    ],
+    "docHeight": 6238,
+    "errors": [
+      "TypeError: Cannot read properties of null (reading 'setAttribute')"
+    ]
+  }
+}

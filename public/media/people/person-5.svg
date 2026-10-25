@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1440" width="1440" height="1440"><defs></defs>
+    <rect width="1440" height="1440" fill="rgb(140,140,140)"/>
+    <circle cx="720" cy="560" r="250" fill="rgb(80,80,80)"/>
+    <path d="M200 1440c60-380 280-560 520-560s460 180 520 560z" fill="rgb(60,60,60)"/>
+    <text x="720" y="640" text-anchor="middle" font-family="Figtree,Arial,Helvetica,sans-serif" font-size="220" font-weight="700" fill="rgb(180,180,180)">NB</text></svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1200" width="1800" height="1200"><defs></defs>
+  <rect width="1800" height="1200" fill="#2b40eb"/>
+  <path d="M-80 1060C400 760 1200 760 1880 1100" fill="none" stroke="#f5f2f1" stroke-width="40"/>
+  <path d="M-80 820C500 1120 1100 1160 1500 1240" fill="none" stroke="#f5f2f1" stroke-width="40"/>
+  <ellipse cx="1480" cy="1000" rx="270" ry="160" fill="#06110e" opacity=".45"/>
+  <circle cx="1560" cy="140" r="250" fill="#f3b0e3" stroke="#06110e" stroke-width="14"/>
+  <path d="M1330 120q230 80 460-40M1440-80q60 220 260 420M1380 300q140-160 360-80" fill="none" stroke="#06110e" stroke-width="12"/>
+  <text x="900" y="640" text-anchor="middle" font-family="Figtree,Arial,Helvetica,sans-serif" font-size="170" font-style="italic" font-weight="800" fill="#fff">Shortlist ✕ Studio</text></svg>

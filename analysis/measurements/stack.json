@@ -1,0 +1,2654 @@
+{
+  "title": "Home | Greater",
+  "htmlAttrs": {
+    "data-wf-domain": "www.greaterstudio.com",
+    "data-wf-page": "69aa06f3327d430aecbb3826",
+    "data-wf-site": "6564d0925f70cdc7742f6a08",
+    "data-wf-intellimize-customer-id": "117459154",
+    "lang": "en",
+    "data-wf-experiences": "417260608",
+    "class": "w-mod-js u-theme-light wf-articulatcf-n4-active wf-articulatcf-n7-active wf-peridotpevariable-n1-inactive wf-articulatcf-n3-active wf-articulatcf-n6-active wf-articulatcf-n2-active wf-articulatcf-n5-a"
+  },
+  "bodyAttrs": {
+    "class": "body lumos",
+    "style": ""
+  },
+  "metas": [
+    {
+      "http-equiv": "origin-trial",
+      "content": "A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRp"
+    },
+    {
+      "charset": "utf-8"
+    },
+    {
+      "content": "Strategic design partnership that evolves with you. We design through the lens of The Greater Way so your brands & experiences can thrive.",
+      "name": "description"
+    },
+    {
+      "content": "Home | Greater",
+      "property": "og:title"
+    },
+    {
+      "content": "Strategic design partnership that evolves with you. We design through the lens of The Greater Way so your brands & experiences can thrive.",
+      "property": "og:description"
+    },
+    {
+      "content": "Home | Greater",
+      "name": "twitter:title"
+    },
+    {
+      "content": "Strategic design partnership that evolves with you. We design through the lens of The Greater Way so your brands & experiences can thrive.",
+      "name": "twitter:description"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "content": "summary_large_image",
+      "name": "twitter:card"
+    },
+    {
+      "content": "width=device-width, initial-scale=1",
+      "name": "viewport"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://cdn.prod.website-files.com",
+      "rel": "preconnect",
+      "crossorigin": "anonymous"
+    },
+    {
+      "href": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/css/greater-website.shared.7a1b2e9dc.min.css",
+      "rel": "stylesheet",
+      "type": "text/css",
+      "integrity": "sha384-ehsuncY1pYULNSeyhBZg4MDv7YqFNoy6iqwmoqpaZfLcRpoPQbXyc1xv2+W8/koF",
+      "crossorigin": "anonymous"
+    },
+    {
+      "href": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/65804625568e15673aae98fa_greater-logo%20(1).svg",
+      "rel": "shortcut icon",
+      "type": "image/x-icon"
+    },
+    {
+      "href": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/658046bfbdc787a52610edfe_greater-logo256.svg",
+      "rel": "apple-touch-icon"
+    },
+    {
+      "href": "https://cdn.intellimize.co/snippet/117459154.js",
+      "rel": "preload",
+      "as": "script"
+    },
+    {
+      "href": "https://api.intellimize.co",
+      "rel": "preconnect",
+      "crossorigin": "true"
+    },
+    {
+      "href": "https://log.intellimize.co",
+      "rel": "preconnect",
+      "crossorigin": "true"
+    },
+    {
+      "href": "https://117459154.intellimizeio.com",
+      "rel": "preconnect"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://cdn.jsdelivr.net/gh/sygnaltech/webflow-util@5.3.19/dist/css/webflow-html.css"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    }
+  ],
+  "scripts": [
+    {
+      "src": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__en.js",
+      "type": "text/javascript",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://use.typekit.net/ggw4uqd.js",
+      "type": "text/javascript",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "",
+      "type": "text/javascript",
+      "id": "",
+      "len": 30,
+      "head": "try{Typekit.load();}catch(e){}"
+    },
+    {
+      "src": "",
+      "type": "text/javascript",
+      "id": "",
+      "len": 181,
+      "head": "!function(o,c){var n=c.documentElement,t=\" w-mod-\";n.className+=t+\"js\",(\"ontouchstart\"in o||o.DocumentTouch&&c instanceo"
+    },
+    {
+      "src": "",
+      "type": "text/javascript",
+      "id": "",
+      "len": 277,
+      "head": "if (localStorage.getItem('intellimize_data_tracking_type') !== 'optOut') { localStorage.removeItem('intellimize_opt_out_"
+    },
+    {
+      "src": "",
+      "type": "text/javascript",
+      "id": "",
+      "len": 71,
+      "head": "(function(e){var s={r:[]};e.wf={r:s.r,ready:t=>{s.r.push(t)}}})(window)"
+    },
+    {
+      "src": "",
+      "type": "text/javascript",
+      "id": "",
+      "len": 129,
+      "head": "(function(e){var s={p:[],r:[]};e.intellimize={p:s.p,r:s.r,push:function(t){s.p.push(t)},ready:function(t){s.r.push(t)}}}"
+    },
+    {
+      "src": "",
+      "type": "text/javascript",
+      "id": "",
+      "len": 165,
+      "head": "(function(t,p){var n=document.documentElement;n.className+=\" \"+p,setTimeout(function(){n.className=n.className.replace(R"
+    },
+    {
+      "src": "",
+      "type": "text/javascript",
+      "id": "",
+      "len": 329,
+      "head": "var wfClientScript=document.createElement(\"script\");wfClientScript.src=\"https://cdn.intellimize.co/snippet/117459154.js\""
+    },
+    {
+      "src": "https://cdn.intellimize.co/snippet/117459154.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://www.google.com/recaptcha/api.js",
+      "type": "text/javascript",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 2111,
+      "head": " \n\n  wf.ready(function(){\n    //console.log('✅ Webflow Optimize API is ready');\n\n    wf.onVariationRecorded(function(res"
+    },
+    {
+      "src": "https://cdn-cookieyes.com/client_data/f57b52ae6781f991b2445ef0b2350768/script.js",
+      "type": "text/javascript",
+      "id": "cookieyes",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdn-cookieyes.com/client_data/f57b52ae6781f991b2445ef0b2350768/banner.js",
+      "type": "",
+      "id": "cookieyes-banner",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 941,
+      "head": "\n\n  // Handle initial page load - check existing consent state via banner load\n  document.addEventListener(\"cookieyes_ba"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/lumosframework/scripts@v1.1.1/theme-toggle.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/lumosframework/scripts@v1.1.1/theme-collector.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/gsap@3.12.7/dist/gsap.min.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/sygnaltech/webflow-util@5.3.19/dist/nocode/webflow-html.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 93,
+      "head": "\n  partytown = {\n    lib: \"/partytown/\",\n    forward: [\"dataLayer.push\", \"fbq\", \"gtag\"]\n  };\n"
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 2412,
+      "head": "\n!(function(w,p,f,c){if(!window.crossOriginIsolated && !navigator.serviceWorker) return;c=w[p]=w[p]||{};c[f]=(c[f]||[])}"
+    },
+    {
+      "src": "",
+      "type": "text/partytown-x",
+      "id": "",
+      "len": 153,
+      "head": "\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n "
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/attributes.js",
+      "type": "module",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/attributes.js",
+      "type": "module",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-modal@1/modal.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/split-type@0.3.4/umd/index.min.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://unpkg.com/@splinetool/viewer@1.12.33/build/spline-viewer.js",
+      "type": "module",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 81,
+      "head": "\n  document.querySelector('.mobile-hero-image').setAttribute('loading', 'lazy');\n"
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 706,
+      "head": "\ndocument.addEventListener('DOMContentLoaded', function () {\n  var source = document.querySelector('#main-input');\n  var"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/@flowbase-co/boosters-countup@1.0.0/dist/countup.min.js",
+      "type": "text/javascript",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/studio-freight/lenis@0.2.28/bundled/lenis.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-a11y@1/a11y.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/CustomEase.min.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 5389,
+      "head": "\n(function(){\n  var CFG={\n    word:'partner',\n    headingSel:'[data-fig=\"heading\"]',\n    img:'https://cdn.prod.website-f"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 1032,
+      "head": "\nconst teamSlider = new Swiper(\".swiper.is-team\", {\n  // Core parameters\n  slidesPerView: 1.1,\n  spaceBetween: 24,\n  all"
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 4367,
+      "head": "\ndocument.addEventListener('DOMContentLoaded', () => {\n  const resourcesWrapper = document.querySelector('.resources-wra"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 6850,
+      "head": "\n(function () {\n\t\t'use strict';\n\t\tvar CFG = {\n\t\t\troot:    '[data-testimonials]',\n\t\t\ttrack:   '[data-tst-track]',\n\t\t\tslid"
+    },
+    {
+      "src": "https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 5566,
+      "head": "\n(function () {\n\tfunction init() {\n\t\t/* ====== CONFIG ====== */\n\t\tvar PANEL_W = 380;        /* panel width (world units "
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 1720,
+      "head": "\ndocument.addEventListener('DOMContentLoaded', function() {\n  const accordions = document.querySelectorAll('.accordion')"
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 1093,
+      "head": "\ndocument.addEventListener('DOMContentLoaded', () => {\n  const CFG = {\n    splitSelector: '[data-split]',   // or your e"
+    },
+    {
+      "src": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6564d0925f70cdc7742f6a08",
+      "type": "text/javascript",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.82b97c2c.a110fa45fbc285b8.js",
+      "type": "text/javascript",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "https://unpkg.com/split-type",
+      "type": "",
+      "id": "",
+      "len": 0,
+      "head": ""
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 1578,
+      "head": " \n      document.addEventListener('DOMContentLoaded', function () {\n          // Function to check if autoplay is suppor"
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 892,
+      "head": " \nif (window.innerWidth >= 992) {\n  // Lennis Smooth Scroll\n  // Added by Tolu - Tue March 4, 2026\n  var s = document.cr"
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 3265,
+      "head": " \n  if (window.innerWidth >= 993) {\n    gsap.registerPlugin(ScrollTrigger);\n    ScrollTrigger.config({ ignoreMobileResiz"
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 837,
+      "head": " type=\n  // Track and store the page URL that the form was submitted from\ndocument.addEventListener('DOMContentLoaded', "
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 817,
+      "head": "\ndocument.addEventListener('DOMContentLoaded', function () {\n  const CFG = {\n    sel: {\n      scrollTargets: '.inner-lin"
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 8385,
+      "head": "\nconst CFG = {\n  sel: {\n    page       : \".main-wrapper\",\n    panel      : \".side-nav\",\n    openBtn    : \".menu-toggle-h"
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 1243,
+      "head": "\n  /**\n   * Card accordion toggle\n   * ---------------------\n   * Each .card_overlay acts as an independent accordion tr"
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 2508,
+      "head": "\n/**\n   * Custom Cursor Animation\n   * Added by Tolu 08/25/26\n   *\n   */\n  document.addEventListener('DOMContentLoaded',"
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 346,
+      "head": "\n  document.addEventListener('DOMContentLoaded', function () {\n    document.querySelectorAll('[data-mirror-target]').for"
+    },
+    {
+      "src": "",
+      "type": "",
+      "id": "",
+      "len": 860,
+      "head": "\n  document.addEventListener('DOMContentLoaded', function () {\n    document.querySelectorAll('[data-require]').forEach(f"
+    }
+  ],
+  "styles": [
+    {
+      "len": 58,
+      "head": ".wf-force-outline-none[tabindex=\"-1\"]:focus{outline:none;}"
+    },
+    {
+      "len": 194,
+      "head": ".tk-articulat-cf{font-family:\"articulat-cf\",sans-serif;}.tk-articulat-heavy-cf{font-family:\"articulat-heavy-cf\",sans-serif;}.tk-peridot-pe-variable{font-family:"
+    },
+    {
+      "len": 9624,
+      "head": "@font-face{font-family:articulat-cf;src:url(https://use.typekit.net/af/a71841/000000000000000077524f4f/31/l?subset_id=2&fvd=n2&v=3) format(\"woff2\"),url(https://"
+    },
+    {
+      "len": 86,
+      "head": ".anti-flicker, .anti-flicker * {visibility: hidden !important; opacity: 0 !important;}"
+    },
+    {
+      "len": 100,
+      "head": "[data-wf-hidden-variation], [data-wf-hidden-variation] * {\n        display: none !important;\n      }"
+    },
+    {
+      "len": 954,
+      "head": "\n  /* --- Hide native scrollbar completely (zero layout space) --- */\n  html {\n    overflow-x: hidden;\n    scrollbar-width: none;             /* Firefox */\n    "
+    },
+    {
+      "len": 0,
+      "head": ""
+    },
+    {
+      "len": 518,
+      "head": "\n  /* Disable bounce effect at the top of the page */\n  body {\n    overscroll-behavior-y: none !important;\n  }\n  rich-text-image-div{\n    width: 100vw;\n  }\n  .w"
+    },
+    {
+      "len": 360,
+      "head": "\n  @media (min-width: 993px) {\n    [animate] .line,\n    [animation=\"text-reveal\"] .line {\n      overflow: hidden;\n      display: block;\n      padding-bottom: 0."
+    },
+    {
+      "len": 321,
+      "head": "\n\n.lm-input:-webkit-autofill,\n.lm-input:-webkit-autofill:hover,\n.lm-input:-webkit-autofill:focus {\n  -webkit-box-shadow: 0 0 0 1000px transparent inset;\n  trans"
+    },
+    {
+      "len": 73,
+      "head": "\n  .testimonial_item {\n    background-color: transparent !important;\n  }\n"
+    },
+    {
+      "len": 1020,
+      "head": "\n   /* ---- Cursor Related CSS ---- */\n  body {\n    cursor: none;\n  }\n\n  .custom-cursor {\n    position: fixed;\n    top: 0;\n    left: 0;\n    pointer-events: none"
+    },
+    {
+      "len": 720,
+      "head": "\n  .frankie-button {\n    opacity: 0;\n    visibility: hidden;\n    translate: 0 8px;\n    scale: 0.95;\n    transition:\n      opacity 0.35s cubic-bezier(0, 0, 0.58,"
+    },
+    {
+      "len": 0,
+      "head": ""
+    },
+    {
+      "len": 22256,
+      "head": ".cky-overlay{background:#000;opacity:.4;position:fixed;top:0;left:0;width:100%;height:100%;z-index:99999999}.cky-hide{display:none}.cky-btn-revisit-wrapper{disp"
+    },
+    {
+      "len": 4167,
+      "head": "\n\n/* Make text look crisper and more legible in all browsers */\nbody {\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n  font-smoot"
+    },
+    {
+      "len": 412,
+      "head": "\n@font-face {\n  font-display: swap;\n}\n\n/* Target Adobe Fonts specifically */\n.tk-* {\n  font-display: swap !important;\n}\n\n/* Alternative approach */\n* {\n  font-d"
+    },
+    {
+      "len": 420,
+      "head": "\n  html { font-size: calc(0.2500000000000001rem + 0.8333333333333333vw); }\n  @media screen and (max-width:1920px) { html { font-size: calc(0.2499999999999999rem"
+    },
+    {
+      "len": 355,
+      "head": "\n.lm-input.site-search:-webkit-autofill,\n.lm-input.site-search:-webkit-autofill:hover,\n.lm-input.site-search:-webkit-autofill:focus {\n  -webkit-box-shadow: 0 0 "
+    },
+    {
+      "len": 564,
+      "head": "\n.fig-cursor{position:absolute;top:0;left:0;z-index:30;pointer-events:none;opacity:0;will-change:transform}\n.fig-cursor img{display:block;width:9.5rem;height:au"
+    },
+    {
+      "len": 496,
+      "head": "\n  .outer_circle {\n    width: 0rem;\n    height: 0rem;\n    animation: circle-pulse 0.5s cubic-bezier(0, 0, 0.58, 1) infinite alternate;\n  }\n  @keyframes circle-p"
+    },
+    {
+      "len": 46,
+      "head": "\n[class*=\"tt-source-\"] {\n  font-size: 1rem;\n}\n"
+    },
+    {
+      "len": 609,
+      "head": "\n  .resources-wrapper {\n    position: relative;\n    cursor: grab;\n  }\n\n  .drag-button {\n    position: absolute;\n    left: 0;\n    top: 0;\n    transform: translat"
+    },
+    {
+      "len": 3933,
+      "head": "\n*, *::before, *::after { box-sizing: border-box; }\n\n\n.testimonial_arrow:focus-visible { outline: 1px solid var(--tst-accent); outline-offset: 3px; }\n.testimoni"
+    },
+    {
+      "len": 179,
+      "head": "\n.accordion-details {\n  max-height: 0;\n  overflow: hidden;\n  opacity: 0;\n  transition: max-height 0.4s ease, opacity 0.4s ease;\n}\n\n.plus-icon {\n  transition: op"
+    },
+    {
+      "len": 426,
+      "head": "\n  .inner-links,\n.menu-toggle-hero {\n  background-color: transparent;\n  backdrop-filter: blur(0px);\n  -webkit-backdrop-filter: blur(0px);\n  transition: backgrou"
+    }
+  ],
+  "globals": [
+    "gsap",
+    "ScrollTrigger",
+    "Lenis",
+    "Webflow",
+    "jQuery",
+    "$",
+    "Swiper",
+    "SplitType",
+    "THREE",
+    "partytown"
+  ],
+  "gsapInfo": {
+    "version": "3.12.2",
+    "plugins": [
+      "Linear",
+      "Power0",
+      "Quad",
+      "Power1",
+      "Cubic",
+      "Power2",
+      "Quart",
+      "Power3",
+      "Quint",
+      "Power4",
+      "Strong",
+      "Elastic",
+      "Bounce",
+      "Expo",
+      "Circ",
+      "Sine",
+      "Back",
+      "SteppedEase",
+      "TweenLite",
+      "TweenMax",
+      "TimelineMax",
+      "TimelineLite",
+      "AttrPlugin",
+      "EndArrayPlugin",
+      "RoundPropsPlugin",
+      "ModifiersPlugin",
+      "SnapPlugin",
+      "gsap",
+      "CSSPlugin",
+      "Observer",
+      "ScrollTrigger"
+    ],
+    "scrollTriggers": [
+      {
+        "trigger": "ut-type-headers xlarge",
+        "start": -647,
+        "end": 376,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type w-variant-ca65dd64-65ce-ee35-ef57-81d9650c210e w-richtext",
+        "start": -463,
+        "end": 505,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "eyebrow w-variant-c23cba4d-1c0c-3e7a-27bc-577944162c6f text-reveal",
+        "start": -62,
+        "end": 825,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-8b8bf7c6-f3ec-2a28-7afa-5e0d7a5ce674 text-reveal",
+        "start": 136,
+        "end": 1158,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-6631fd6a-dcca-04a0-9086-7fdf0b609783 text-reveal",
+        "start": 226,
+        "end": 1119,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-9e1474bb-17ad-8d4e-e3ba-9e6c4e0fd228 text-reveal",
+        "start": 274,
+        "end": 1154,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "eyebrow w-variant-c23cba4d-1c0c-3e7a-27bc-577944162c6f text-reveal",
+        "start": -62,
+        "end": 825,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-8b8bf7c6-f3ec-2a28-7afa-5e0d7a5ce674 text-reveal",
+        "start": 136,
+        "end": 1158,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-6631fd6a-dcca-04a0-9086-7fdf0b609783 text-reveal",
+        "start": 203,
+        "end": 1097,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-9e1474bb-17ad-8d4e-e3ba-9e6c4e0fd228 text-reveal",
+        "start": 251,
+        "end": 1154,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type w-variant-3eda3a16-b24d-def7-08d1-e62c183999af w-richtext",
+        "start": 440,
+        "end": 1372,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type w-richtext",
+        "start": 475,
+        "end": 1364,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type w-variant-3eda3a16-b24d-def7-08d1-e62c183999af w-richtext",
+        "start": 440,
+        "end": 1372,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type w-richtext",
+        "start": 475,
+        "end": 1364,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type w-variant-3eda3a16-b24d-def7-08d1-e62c183999af w-richtext",
+        "start": 582,
+        "end": 1514,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type w-richtext",
+        "start": 617,
+        "end": 1506,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type w-variant-3eda3a16-b24d-def7-08d1-e62c183999af w-richtext",
+        "start": 582,
+        "end": 1514,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type w-richtext",
+        "start": 617,
+        "end": 1506,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "eyebrow",
+        "start": 820,
+        "end": 1701,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers",
+        "start": 859,
+        "end": 1864,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type w-variant-ca65dd64-65ce-ee35-ef57-81d9650c210e w-richtext",
+        "start": 1011,
+        "end": 1943,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012",
+        "start": 1001,
+        "end": 1882,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 1475,
+        "end": 2435,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 1584,
+        "end": 2439,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 1475,
+        "end": 2435,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 1584,
+        "end": 2487,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 1475,
+        "end": 2470,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 1619,
+        "end": 2474,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "eyebrow",
+        "start": 1920,
+        "end": 2801,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers",
+        "start": 1959,
+        "end": 2963,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type w-variant-ca65dd64-65ce-ee35-ef57-81d9650c210e w-richtext",
+        "start": 2111,
+        "end": 3079,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 2711,
+        "end": 3607,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 2676,
+        "end": 3607,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 2676,
+        "end": 3607,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 2711,
+        "end": 3607,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 2676,
+        "end": 3607,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 2676,
+        "end": 3607,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 2711,
+        "end": 3607,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 2676,
+        "end": 3607,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 2711,
+        "end": 3607,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 2711,
+        "end": 3607,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 2676,
+        "end": 3607,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "start": 2676,
+        "end": 3607,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4118,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3381,
+        "end": 4263,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4190,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3405,
+        "end": 4260,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4046,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3381,
+        "end": 4263,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4154,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3405,
+        "end": 4260,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4082,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3381,
+        "end": 4263,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4010,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3381,
+        "end": 4263,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4082,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3381,
+        "end": 4263,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4154,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3381,
+        "end": 4263,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4010,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3405,
+        "end": 4260,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4010,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3405,
+        "end": 4260,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4226,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3405,
+        "end": 4260,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4046,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3405,
+        "end": 4260,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "start": 3042,
+        "end": 4010,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "start": 3405,
+        "end": 4260,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers huge text-align-center",
+        "start": 3485,
+        "end": 4628,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "ut-type-headers w-variant-821e1a86-5669-3ffd-2309-a8cb930cf316",
+        "start": 4208,
+        "end": 5111,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012 text-color-accent",
+        "start": 4520,
+        "end": 5401,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012 text-color-accent",
+        "start": 4520,
+        "end": 5401,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012 text-color-accent",
+        "start": 4520,
+        "end": 5401,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012 text-color-accent",
+        "start": 4520,
+        "end": 5401,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012 text-color-accent",
+        "start": 4760,
+        "end": 5641,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012 text-color-accent",
+        "start": 4760,
+        "end": 5641,
+        "pin": false,
+        "scrub": null,
+        "startVar": "top 95%",
+        "endVar": ""
+      }
+    ]
+  },
+  "fonts": [
+    {
+      "family": "webflow-icons",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Perfectlynineties",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Perfectlynineties",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Perfectlynineties",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Perfectlynineties",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Perfectlynineties",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Greater Marker",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Spacemono",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Spacemono",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Playwriteustrad Variablefont Wght",
+      "weight": "100 400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Peridot PE Variable",
+      "weight": "100 950",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Handkick Demo",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "200",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "300",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "500",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "600",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "700",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "800",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "900",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "800",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "700",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "900",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "200",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "300",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "600",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "400",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-cf",
+      "weight": "500",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-heavy-cf",
+      "weight": "900",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "articulat-heavy-cf",
+      "weight": "900",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "peridot-pe-variable",
+      "weight": "100 950",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Redacted",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Redacted",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "swiper-icons",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    }
+  ],
+  "docHeight": 6238,
+  "bodyClasses": "body lumos",
+  "topLevel": [
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "cky-hide cky-overlay",
+      "h": 0
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "cky-btn-revisit-wrapper cky-revisit-hide cky-revisit-bottom-left",
+      "h": 0
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "cky-consent-container cky-box-bottom-left",
+      "h": 224
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "cky-modal",
+      "h": 711
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "global-styles w-embed",
+      "h": 0
+    },
+    {
+      "tag": "NAV",
+      "id": "",
+      "cls": "navigation-wrapper top-nav",
+      "h": 144
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "page-wrapper viewport",
+      "h": 6238
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "fig-box",
+      "h": 81
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "fig-cursor",
+      "h": 45
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "tooltip-injector w-embed w-script",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "STYLE",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "h": 0
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "scroll-thumb",
+      "h": 128
+    },
+    {
+      "tag": "IFRAME",
+      "id": "",
+      "cls": "",
+      "h": 0
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.greaterstudio.com/",
+      "status": 200,
+      "type": "document",
+      "ct": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/css/greater-website.shared.7a1b2e9dc.min.css",
+      "status": 200,
+      "type": "stylesheet",
+      "ct": "text/css"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.82b97c2c.a110fa45fbc285b8.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/attributes.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@flowbase-co/boosters-countup@1.0.0/dist/countup.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6564d0925f70cdc7742f6a08",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/sygnaltech/webflow-util@5.3.19/dist/css/webflow-html.css",
+      "status": 200,
+      "type": "stylesheet",
+      "ct": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "status": 200,
+      "type": "stylesheet",
+      "ct": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/CustomEase.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/client_data/f57b52ae6781f991b2445ef0b2350768/script.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/split-type@0.3.4/umd/index.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/gsap@3.12.7/dist/gsap.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://unpkg.com/split-type",
+      "status": 302,
+      "type": "script",
+      "ct": "text/plain;charset=UTF-8"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://unpkg.com/split-type@0.3.4/umd/index.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.intellimize.co/snippet/117459154.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript;charset=utf-8"
+    },
+    {
+      "url": "https://use.typekit.net/ggw4uqd.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript;charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/lumosframework/scripts@v1.1.1/theme-toggle.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/lumosframework/scripts@v1.1.1/theme-collector.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://log.cookieyes.com/api/v1/log",
+      "status": 200,
+      "type": "ping",
+      "ct": ""
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Redacted&display=swap",
+      "status": 200,
+      "type": "stylesheet",
+      "ct": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a7a20e2c1da14d5a4298973_greater-figma-cursor.png",
+      "status": 200,
+      "type": "image",
+      "ct": "image/png"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-J3PPETVR.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-WIALCYDY.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://unpkg.com/@splinetool/viewer@1.12.33/build/spline-viewer.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-L4B2V5MO.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-ZI7TAH2K.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-CB6LZ537.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-ADKL4AJZ.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-OF4NI3Y7.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-VDEO3AAR.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-N2ZCN6XY.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-XRTLPMPO.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-GGDEANQW.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes@2/dist/chunk-K46K3RI5.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/client_data/f57b52ae6781f991b2445ef0b2350768/banner.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript"
+    },
+    {
+      "url": "https://api.intellimize.co/context-v2/117459154",
+      "status": 200,
+      "type": "fetch",
+      "ct": "application/json"
+    },
+    {
+      "url": "https://use.typekit.net/af/2c0cee/000000000000000077524f49/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a68ece0d8ee2516f1597dcc_frankie-location.png",
+      "status": 200,
+      "type": "image",
+      "ct": "image/png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a962fc7376525e3e5593e6b_Greater%20-%20Partner%20Logo%20-%20Archtober%20(white).avif",
+      "status": 200,
+      "type": "image",
+      "ct": "image/avif"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6936c9ad0da5b3bc5bb97307_sunny.svg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a4fb2c2e82a3be9ff85efc2_webflow.svg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/69cd6e1b0f7212ac821cd3b1_Headshots%201.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a3172e54bb695ab8b74c46d_moon.svg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a330b89a9c2356eab75a3e7_driblle.png",
+      "status": 200,
+      "type": "image",
+      "ct": "image/png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a9878a817cdb0e988db5140_Thumbnail_The%20secrets%20behind%20Google%27s%20AI%20optimization%20guide%20(1).jpg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a7f24a7185464a2838861c8_Thumbnail_%20Top%20Questions.jpg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/jpeg"
+    },
+    {
+      "url": "https://use.typekit.net/af/df7eab/000000000000000077524f45/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a964435cca22cd8f77317f7_greater%20-%20ofcolor-%20testimonial%20-%20thumbnail%20(3).avif",
+      "status": 200,
+      "type": "image",
+      "ct": "image/avif"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a9630a076626c5cd228b1f6_66e488e5487cc8143b4d4d5c_65a730721f912d7006cf33b5_Archtober%2520Festival%25204-min-p-1600.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a964080ea32133517f5581f_Greater%20-%20Partner%20Logo%20-%20OfColor%20(light).avif",
+      "status": 200,
+      "type": "image",
+      "ct": "image/avif"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a299672bded9ed717b2e22b_boxed%20icon%20(1).avif",
+      "status": 200,
+      "type": "image",
+      "ct": "image/avif"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a2996723c87c3085623bc82_image.avif",
+      "status": 200,
+      "type": "image",
+      "ct": "image/avif"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a7b8caf06204cbec09680d0_Dribbble_List_Thumbnail_Blue.jpg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a0f438b197c74a8df577471_MVB.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a0f445d75a220f70ca3b85d_Embedded%E2%80%A8brand%20team.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "application/octet-stream"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a39678f60766fd43cecdd41_Brand%20transformation.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a10caa154b2279dee3fcaed_Content%20%20OS.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6ab2d1313539f5d5c109bb80_Screenshot%202026-09-22%20at%2020.04.12.png",
+      "status": 200,
+      "type": "image",
+      "ct": "image/png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a2800aaa8f21a79240b74bb_PerfectlyNineties-Regular.woff",
+      "status": 200,
+      "type": "font",
+      "ct": "font/woff"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a1615d251be606f0b51f3ca_SpaceMono-Regular.ttf",
+      "status": 200,
+      "type": "font",
+      "ct": "font/ttf"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__en.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a6905193bf594a183ff871b_Cursor%20Design%20(1).svg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/svg+xml"
+    },
+    {
+      "url": "https://api.intellimize.co/prediction/117459154",
+      "status": 200,
+      "type": "fetch",
+      "ct": "application/json"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.65add74e46fe5245.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.2aaad8b9b407aaec.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.ad6dcd2fc75b294c.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.c819fa848578b09e.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.5959ac50b3c857f1.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.64873797e35e968c.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.496d56dd8c063ec0.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.2f8fd4260fe41f39.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.22b66e874d42861f.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.e8e7e6855b442808.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.db80639074bc0296.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.dac51c455b7e76af.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/studio-freight/lenis@0.2.28/bundled/lenis.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.36b8fb49256177c8.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.58f76f2901951073.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/sygnaltech/webflow-util@5.3.19/dist/nocode/webflow-html.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6564ff3c85518c27d14d7f6f_53151.otf",
+      "status": 200,
+      "type": "font",
+      "ct": "application/x-font-otf"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a42c0869c4cc83a4a7e5f1b_Pantry_library_thumbnail.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a4ce68713782bc4e537b185_Mise_thumbnail.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a3eb21165cd294903f9cdf7_Pressmark_thumbnail.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a4ce72375feb8a7f1d1f870_Levaro_thumbnail.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a3d3617d91e1eee845cefb7_Thumbnail%2002%202%201.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a4bb5813d3f9685c81f6233_hero.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6abc3b27212dcaef79d5a102_Thumbnail.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6a330d6943b4c7438ed8ce5a_VikingCloud_Redesign_GreaterStufio.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://use.typekit.net/af/c8b55b/000000000000000077524f44/31/l?subset_id=2&fvd=n3&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://use.typekit.net/af/d33214/000000000000000077524f4e/31/l?subset_id=2&fvd=n6&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://use.typekit.net/af/a71841/000000000000000077524f4f/31/l?subset_id=2&fvd=n2&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-modal@1/modal.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/js/greater-website.achunk.4ad05255550e8245.js",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/client_data/f57b52ae6781f991b2445ef0b2350768/SFX1YI1V.json",
+      "status": 200,
+      "type": "fetch",
+      "ct": "application/json"
+    },
+    {
+      "url": "https://use.typekit.net/af/610a9a/000000000000000077524f50/31/l?subset_id=2&fvd=n5&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://use.typekit.net/af/7c6b28/000000000000000077524f40/31/l?subset_id=2&fvd=n8&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://use.typekit.net/af/a6c600/000000000000000077524f42/31/l?subset_id=2&fvd=n9&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/css/greater-website.shared.7a1b2e9dc.min.css",
+      "status": 200,
+      "type": "fetch",
+      "ct": "text/css"
+    },
+    {
+      "url": "https://use.typekit.net/af/43bcbf/000000000000000077524f3f/31/l?subset_id=2&fvd=i8&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://use.typekit.net/af/bfa47d/000000000000000077524f51/31/l?subset_id=2&fvd=i9&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://use.typekit.net/af/eb68ab/000000000000000077524f46/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://use.typekit.net/af/24d02b/000000000000000077524f4c/31/l?subset_id=2&fvd=i2&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f912240280b3a66d4d4c_blake.jpeg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/jpeg"
+    },
+    {
+      "url": "https://use.typekit.net/af/cd85a9/000000000000000077524f47/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2dbe5e3e9f02d5b218c30_Meghan%20(2).png",
+      "status": 200,
+      "type": "image",
+      "ct": "image/png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f99d0f95d418dd3829b1_angeline.jpeg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f92f5c174fdf9d033295_allie.png",
+      "status": 200,
+      "type": "image",
+      "ct": "image/png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab301c837ca63c04bcb2449_emily.png",
+      "status": 200,
+      "type": "image",
+      "ct": "image/png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2fae4d381202a6285a67c_abhinav.jpeg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f9c33e27ba769ec8609a_jamie.jpeg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f8ccadb18e80eab7f9a7_1762742486578.jpeg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2fb1f391c353aed154ca4_jodi.png",
+      "status": 200,
+      "type": "image",
+      "ct": "image/png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab2f986879da2a35f040d46_sheila.jpeg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/jpeg"
+    },
+    {
+      "url": "https://use.typekit.net/af/5d517a/000000000000000077524f4d/31/l?subset_id=2&fvd=i5&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://use.typekit.net/af/768025/000000000000000077524f4a/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://use.typekit.net/af/0e9077/000000000000000077524f43/31/l?subset_id=2&fvd=i3&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://use.typekit.net/af/019781/000000000000000077524f48/31/l?subset_id=2&fvd=i6&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://use.typekit.net/af/b5ab6b/000000000000000077524f41/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3",
+      "status": 200,
+      "type": "font",
+      "ct": "application/font-woff2"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab31d04049e026b02cc1ccf_yemi%20rose-p-1600.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab305c77cba16acc494bfa6_Rectangle%2034628916-p-1600.png",
+      "status": 200,
+      "type": "image",
+      "ct": "image/png"
+    },
+    {
+      "url": "https://log.intellimize.co/clientlogger",
+      "status": 200,
+      "type": "ping",
+      "ct": "application/json"
+    },
+    {
+      "url": "https://log.intellimize.co/logger",
+      "status": 200,
+      "type": "ping",
+      "ct": "application/json"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65676a33b1e990dd47caebae/6ab305ad489081c58cb915ac_ASL%20placeholder-p-1600.png",
+      "status": 200,
+      "type": "image",
+      "ct": "image/png"
+    },
+    {
+      "url": "https://log.intellimize.co/logger",
+      "status": 200,
+      "type": "ping",
+      "ct": "application/json"
+    },
+    {
+      "url": "https://www.greaterstudio.com/partytown/partytown-sandbox-sw.html?1792848367566",
+      "status": 200,
+      "type": "document",
+      "ct": "text/html"
+    },
+    {
+      "url": "https://p.typekit.net/p.gif?s=1&k=ggw4uqd&ht=tk&h=www.greaterstudio.com&f=49646.49647.49648.49649.49650.49651.49652.49653.51646.51647.51648.51649.51650.51651.51652.51653.49654.51655.53151&a=182181040&js=1.21.0&app=typekit&e=js&_=1792848367560",
+      "status": 200,
+      "type": "image",
+      "ct": "image/gif"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/client_data/f57b52ae6781f991b2445ef0b2350768/config/qPrG1-o-.json",
+      "status": 200,
+      "type": "fetch",
+      "ct": "application/json"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/client_data/f57b52ae6781f991b2445ef0b2350768/translations/vadR4fqD.json",
+      "status": 200,
+      "type": "fetch",
+      "ct": "application/json"
+    },
+    {
+      "url": "blob:https://www.greaterstudio.com/e458842c-4a6a-407c-a35e-2896ecc04afd",
+      "status": 200,
+      "type": "script",
+      "ct": "text/javascript"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/client_data/f57b52ae6781f991b2445ef0b2350768/audit-table/J04LDfGt.json",
+      "status": 200,
+      "type": "fetch",
+      "ct": "application/json"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-animation@1/animation.esm.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/assets/images/revisit.svg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/assets/images/close.svg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-a11y@1/a11y.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 453 453" width="453" height="453"><defs></defs>
+  <path d="M66 40h321v260l-160 120L66 300z" fill="#fff" stroke="#06110e" stroke-width="10" stroke-linejoin="round"/>
+  <rect x="40" y="160" width="373" height="80" fill="#06110e"/>
+  <text x="226" y="214" text-anchor="middle" font-family="Figtree,Arial,Helvetica,sans-serif" font-size="44" font-weight="800" fill="#fff">Select</text>
+  <text x="226" y="300" text-anchor="middle" font-family="'Space Mono','Courier New',monospace" font-size="34" font-weight="700" fill="#06110e">STUDIO</text>
+  <circle cx="226" cy="100" r="26" fill="none" stroke="#06110e" stroke-width="10"/></svg>

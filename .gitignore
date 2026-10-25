@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# testing
+test-results/
+playwright-report/
+blob-report/
+
+# recon browser profiles / scratch
+analysis/.cdp-profile/
+analysis/.parent-nm-count.txt
+analysis/recordings/tmp/
+
+# env / os
+.env*
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,44 @@
+{
+  "name": "greaterstudio-clone",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Next.js recreation of the Greater Studio landing-page layout and motion, with replaceable content and media.",
+  "scripts": {
+    "dev": "next dev -p 3100",
+    "build": "next build",
+    "start": "next start -p 3100",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "capture:reference": "node scripts/shared/capture.mjs https://www.greaterstudio.com/ analysis/screenshots/reference",
+    "capture:local": "node scripts/shared/capture.mjs http://localhost:3100/ analysis/screenshots/local",
+    "diff": "node scripts/compare/diff.mjs",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "gsap": "3.15.0",
+    "lenis": "1.3.27",
+    "next": "16.4.3",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "peerDependencies": {
+    "@playwright/test": "1.64.1"
+  },
+  "peerDependenciesMeta": {
+    "@playwright/test": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "pixelmatch": "8.0.0",
+    "pngjs": "7.0.0",
+    "tailwindcss": "4.3.3",
+    "typescript": "^5"
+  }
+}

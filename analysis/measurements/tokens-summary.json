@@ -1,0 +1,1732 @@
+{
+ "390": {
+  "doc": 8233,
+  "body": "articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgb(245, 242, 241)",
+  "nav": {
+   "box": {
+    "x": 0,
+    "y": 2,
+    "w": 390,
+    "h": 107
+   },
+   "links": [
+    "|20,33 122x46|articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r0px",
+    "CONTACT|215,36 113x38|Spacemono 15.2552px/15.2552px w400 lsnormal uppercase rgb(245, 242, 241)|bg rgb(43, 64, 235) pad 0px 22.8828px r3.81381px",
+    "|332,36 38x38|articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r3.81381px"
+   ]
+  },
+  "sections": [
+   {
+    "cls": "hero",
+    "box": {
+     "x": 0,
+     "y": 137,
+     "w": 390,
+     "h": 730
+    },
+    "pad": "0px 0px 0px 0px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H1 \"Your search for a design partner ends he\" 20,183 351x160 :: Perfectlynineties 53.3933px/53.3933px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [
+     "\"Greater builds the brand and experience \" 20,358 351x143 :: articulat-cf 19.069px/28.6036px w400 lsnormal none rgb(6, 17, 14)",
+     "\"WEBFLOW ENTERPRISE PARTNER\" 113,565 194x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)",
+     "\"DRIBBBLE SELECT AGENCY\" 128,603 164x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)",
+     "\"AIROPS CERTIFIED\" 151,641 119x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)",
+     "\"CLAUDE CODE AGENCY\" 143,679 134x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)"
+    ],
+    "links": [],
+    "media": [
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 83,563 23x23 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a4fb2c2e82a3be9ff85efc2_webflow.svg",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 98,601 23x23 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a330b89a9c2356eab75a3e7_driblle.png",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 120,639 23x23 fit cover r0px 65,64  6564d0925f70cdc7742f6a08/6a2996723c87c3085623bc82_image.avif",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 113,678 23x23 fit cover r0px 98,96  dc7742f6a08/6a299672bded9ed717b2e22b_boxed%20icon%20(1).avif"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 867,
+     "w": 390,
+     "h": 1309
+    },
+    "pad": "0px 19.5px 0px 19.5px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"Katie and Meghan on their favorite meeti\" 35,1036 321x69 :: articulat-cf 22.8828px/22.8828px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"+114.2%\" 35,1128 321x23 :: articulat-cf 22.8828px/22.8828px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Yemi on the ninjas who got him into Tech\" 35,1403 321x69 :: articulat-cf 22.8828px/22.8828px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"497%\" 35,1495 321x23 :: articulat-cf 22.8828px/22.8828px w700 lsnormal none rgb(245, 242, 241)"
+    ],
+    "paras": [
+     "\"$800M+\" 20,1646 336x34 :: articulat-cf 28.6036px/33.1801px w400 lsnormal none rgb(6, 17, 14)",
+     "\"raised by our client partners\" 20,1696 232x29 :: articulat-cf 19.069px/28.6036px w400 lsnormal none rgb(6, 17, 14)",
+     "\"10+\" 20,1771 336x34 :: articulat-cf 28.6036px/33.1801px w400 lsnormal none rgb(6, 17, 14)",
+     "\"years growing brands\" 20,1821 181x29 :: articulat-cf 19.069px/28.6036px w400 lsnormal none rgb(6, 17, 14)",
+     "\"48+\" 20,1896 336x34 :: articulat-cf 28.6036px/33.1801px w400 lsnormal none rgb(6, 17, 14)",
+     "\"months of median partnership\" 20,1945 252x29 :: articulat-cf 19.069px/28.6036px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "links": [
+     "A \"ACTIVE | SINCE 2020 Katie and \" 20,867 351x351 :: articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r7.62761px",
+     "A \"ACQUIRED | 4 YEAR PARTNERSHIP \" 20,1234 351x351 :: articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r7.62761px"
+    ],
+    "media": [
+     "IMG.image-100 absolute square-3 20,867 351x362 fit cover r0px 390,292  1f912d7006cf33b5_Archtober%2520Festival%25204-min-p-500.webp",
+     "IMG.logo-partnership text-reveal 35,987 99x50 fit fill r0px 500,250  _Greater%20-%20Partner%20Logo%20-%20Archtober%20(white).avif",
+     "IMG.image-100 absolute square-3 20,1234 351x362 fit cover r0px 390,410  0-%20ofcolor-%20testimonial%20-%20thumbnail%20(3)-p-500.avif",
+     "IMG.logo-partnership text-reveal 35,1354 99x50 fit fill r0px 500,250  1f_Greater%20-%20Partner%20Logo%20-%20OfColor%20(light).avif"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 2176,
+     "w": 390,
+     "h": 532
+    },
+    "pad": "0px 19.5px 0px 19.5px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"World moving too fast? Uncertain of next\" 20,2259 351x137 :: Perfectlynineties 45.7657px/45.7657px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [
+     "\"Ideas and research from our team so you \" 20,2412 351x114 :: articulat-cf 19.069px/28.6036px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "links": [],
+    "media": []
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 2708,
+     "w": 390,
+     "h": 1667
+    },
+    "pad": "0px 19.5px 0px 19.5px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"The secrets behind Google’s AI Optimizat\" 20,3043 336x100 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(6, 17, 14)",
+     "H2 \"Top questions you should ask before hiri\" 20,3535 336x100 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(6, 17, 14)",
+     "H2 \"Greater named in two of Dribbble's 2026 \" 20,4073 336x100 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [
+     "\"ARTICLE\" 28,3008 52x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)",
+     "\"SEPTEMBER 2, 2026\" 97,3008 127x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)",
+     "\"SANDRA CHAVEZ-FERNANDEZ MORALES\" 50,3164 231x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)",
+     "\"ARTICLE\" 28,3500 52x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)",
+     "\"AUGUST 21, 2026\" 97,3500 112x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)",
+     "\"SANDRA CHAVEZ-FERNANDEZ MORALES\" 50,3702 231x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)"
+    ],
+    "links": [
+     "A \"\" 20,2754 351x462 :: articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"\" 20,3246 351x507 :: articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"\" 20,3784 351x462 :: articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"VIEW MORE +\" 20,4291 351x38 :: Spacemono 15.2552px/15.2552px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r3.81381px"
+    ],
+    "media": [
+     "IMG.image-100 20,2754 351x234 fit cover r0px 1800,1200  %20behind%20Google%27s%20AI%20optimization%20guide%20(1).jpg",
+     "IMG.image-100 20,3162 23x23 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp",
+     "IMG.image-100 20,3246 351x234 fit cover r0px 1800,1200  ae/6a7f24a7185464a2838861c8_Thumbnail_%20Top%20Questions.jpg",
+     "IMG.image-100 20,3700 23x23 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp",
+     "IMG.image-100 20,3784 351x234 fit cover r0px 1800,1200  ae/6a7b8caf06204cbec09680d0_Dribbble_List_Thumbnail_Blue.jpg",
+     "IMG.image-100 20,4192 23x23 fit cover r0px 900,900  b1e990dd47caebae/69cd6e1b0f7212ac821cd3b1_Headshots%201.webp"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 4375,
+     "w": 390,
+     "h": 908
+    },
+    "pad": "0px 19.5px 0px 19.5px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"Strategic design partnership that evolve\" 20,4458 351x137 :: Perfectlynineties 45.7657px/45.7657px w400 lsnormal none rgb(6, 17, 14)",
+     "H2 \"MVB\" 50,5173 203x33 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Brand Transformation\" 391,5140 203x67 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Embedded Brand Team\" 732,5140 203x67 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Content OS\" 1073,5173 203x33 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Promotional Videos\" 1414,5140 203x67 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Embedded Content Team\" 1755,5140 203x67 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Site Migration\" 2095,5173 203x33 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Component Libraries\" 2436,5140 203x67 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Custom Site\" 2777,5173 203x33 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"MVP\" 3118,5173 203x33 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Transformation Sprint\" 3459,5140 203x67 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Embedded Product Team\" 3800,5140 203x67 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)"
+    ],
+    "paras": [
+     "\"Specialized creative services to help yo\" 20,4610 351x143 :: articulat-cf 19.069px/28.6036px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "links": [],
+    "media": [
+     "IMG.image-100 absolute 20,4802 317x435 fit cover r0px 636,848  m/65676a33b1e990dd47caebae/6a0f438b197c74a8df577471_MVB.webp",
+     "IMG.plus-con 277,5178 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 360,4802 317x435 fit cover r0px 636,848  7caebae/6a39678f60766fd43cecdd41_Brand%20transformation.webp",
+     "IMG.plus-con 618,5178 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 701,4802 317x435 fit cover r0px   /6a0f445d75a220f70ca3b85d_Embedded%E2%80%A8brand%20team.webp",
+     "IMG.plus-con 959,5178 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 1042,4802 317x435 fit cover r0px   e990dd47caebae/6a10caa154b2279dee3fcaed_Content%20%20OS.webp",
+     "IMG.plus-con 1300,5178 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 1383,4802 317x435 fit cover r0px   dd47caebae/6a10cb04fafe5b29f2d3500b_Promotional%20video.webp",
+     "IMG.plus-con 1641,5178 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 1724,4802 317x435 fit cover r0px   cad628d7da70f475c541_Embedded%20%E2%80%A8content%20team.webp",
+     "IMG.plus-con 1982,5178 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 2065,4802 317x435 fit cover r0px   7caebae/6a57dfd2fec8e231b861da11_Site%20migration%20(1).webp",
+     "IMG.plus-con 2323,5178 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 5283,
+     "w": 390,
+     "h": 984
+    },
+    "pad": "0px 19.5px 0px 19.5px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [],
+    "paras": [
+     "\"BLAKE\" 20,5837 41x16 :: Spacemono 13.3483px/16.018px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\",\" 60,5837 8x16 :: Spacemono 13.3483px/16.018px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"CO-FOUNDER, CHIEF PRODUCT & DESIGN OFFIC\" 20,5856 267x32 :: Spacemono 13.3483px/16.018px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"|\" 296,5872 8x16 :: Spacemono 13.3483px/16.018px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"BOOMPOP\" 313,5872 57x16 :: Spacemono 13.3483px/16.018px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"ALLISON HARRIS\" 20,5951 114x16 :: Spacemono 13.3483px/16.018px w400 lsnormal uppercase rgb(6, 17, 14)"
+    ],
+    "links": [],
+    "media": [
+     "IMG.image-100--contain 20,5934 137x69 fit cover r0px 390,219  bae/6a2ddf2d3ef2abcf5d971b58_BoomPop_logo_colored-p-500.webp",
+     "IMG.image-100--contain 20,6033 137x69 fit cover r0px 390,219  0dd47caebae/6ab3023f3fefcff4ee23ff5f_Atomiq%20logo-p-500.jpg",
+     "IMG.image-100--contain 20,5820 137x69 fit cover r0px 390,219  e/699e4984d20fcb991b9024e2_Archtober_logo_colored-p-500.webp",
+     "IMG.image-100--contain 20,6004 137x69 fit cover r0px 390,219  ae/699e478de687d05aafff4e4c_Novellia_logo_colored-p-500.webp",
+     "IMG.image-100--contain 20,5864 137x69 fit cover r0px 390,219  7caebae/699e4972806fa9b6e75a78aa_ASL_logo_colored-p-500.webp",
+     "IMG.image-100--contain 20,5718 137x69 fit cover r0px 390,219  99e490d11b9f5ebeffdaefd_VilleFerrano_logo_colored-p-500.webp",
+     "IMG.image-100--contain 20,5861 137x69 fit cover r0px 390,219  ebae/699e48af015a77fe0018cd6b_Atelio_logo_colored-p-500.webp",
+     "IMG.image-100--contain 20,6004 137x69 fit cover r0px 390,219  bae/699e49321b76bf395d6db2de_OfColor_logo_colored-p-500.webp",
+     "IMG.image-100--contain 20,5746 137x69 fit cover r0px 390,219  699e47702422a2947e7fe6bc_Vikingcloud_logo_colored-p-500.webp",
+     "IMG.image-100--contain 20,5718 137x69 fit cover r0px 390,219  e495f628bab158b26f2c5_RoadsToSuccess_logo_colored-p-500.webp",
+     "IMG.image-100--contain 20,6118 137x69 fit cover r0px 390,219  caebae/699e4846d4c9023695f9fdc8_1014_logo_colored-p-500.webp",
+     "IMG.image-100--contain 20,5804 137x69 fit cover r0px 390,219  caebae/699e483214a823d16ed8fa60_Alma_logo_colored-p-500.webp",
+     "IMG.image-100--contain 20,5689 137x69 fit cover r0px 390,219  ae/699e4749c3c19eee0ada181a_Assemble_logo_colored-p-500.webp"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 6267,
+     "w": 390,
+     "h": 589
+    },
+    "pad": "0px 19.5px 0px 19.5px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"Rise above into forever.\" 20,6313 351x124 :: Perfectlynineties 68.6485px/61.7837px w400 lsnormal none rgb(6, 17, 14)",
+     "H2 \"Let's talk about your next project.\" 20,6635 351x61 :: articulat-cf 30.5105px/30.5105px w700 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [],
+    "links": [
+     "A \"CONTACT US\" 20,6726 351x38 :: Spacemono 15.2552px/15.2552px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r3.81381px"
+    ],
+    "media": [
+     "CANVAS.ring3d-canvas 0,6391 390x300 fit fill r0px   "
+    ]
+   },
+   {
+    "cls": "u-section section footer",
+    "box": {
+     "x": 0,
+     "y": 6856,
+     "w": 390,
+     "h": 1377
+    },
+    "pad": "0px 0px 0px 0px",
+    "bg": "rgb(245, 242, 241)",
+    "headings": [],
+    "paras": [],
+    "links": [
+     "A \"BEFORE & AFTER\" 20,7113 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"PARTNERSHIP\" 20,7148 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"ABOUT US\" 20,7236 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"STUDIO HOURS\" 20,7271 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"MVB\" 20,7359 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"WEB DESIGN SYSTEM\" 20,7394 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"CRO\" 20,7430 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"SITE MIGRATION\" 20,7465 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"WEBFLOW DEVELOPMENT\" 20,7500 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"RESEARCH\" 20,7588 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"FAQS\" 20,7623 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"SITE LOG\" 20,7658 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px"
+    ],
+    "media": [
+     "IMG.badges 20,7999 107x107 fit cover r0px 453,453  4f_e83c3a14cb3f4999ff18f6790a397e86_Webflow%20Enterprise.png",
+     "IMG.badges 142,7999 107x107 fit cover r0px 453,453  ae9de76dd4b67d0dc329cded9e0c_Top%20Branding%20Agency%202.png",
+     "IMG.frankie 255,8129 76x104 fit fill r0px 105,143  a187f214686c3a56099d5ad_Frankie%20look%20up%20left-p-500.png",
+     "svg. 0,8151 390x82 fit fill r0px   "
+    ]
+   }
+  ]
+ },
+ "768": {
+  "doc": 7580,
+  "body": "articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgb(245, 242, 241)",
+  "nav": {
+   "box": {
+    "x": 0,
+    "y": 2,
+    "w": 768,
+    "h": 131
+   },
+   "links": [
+    "|38,46 136x43|articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r0px",
+    "|653,49 37x37|articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(0, 0, 0)|bg rgb(238, 234, 231) pad 9.12591px 9.12591px r3.65036px",
+    "|693,49 37x37|articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r3.65036px"
+   ]
+  },
+  "sections": [
+   {
+    "cls": "hero",
+    "box": {
+     "x": 0,
+     "y": 131,
+     "w": 768,
+     "h": 558
+    },
+    "pad": "0px 0px 0px 0px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H1 \"Your search for a design partner ends he\" 38,190 691x153 :: Perfectlynineties 76.6576px/76.6576px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [
+     "\"Greater builds the brand and experience \" 38,358 691x99 :: articulat-cf 21.9022px/32.8533px w400 lsnormal none rgb(6, 17, 14)",
+     "\"WEBFLOW ENTERPRISE PARTNER\" 66,515 171x36 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)",
+     "\"DRIBBBLE SELECT AGENCY\" 278,515 144x36 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)",
+     "\"AIROPS CERTIFIED\" 465,515 105x36 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)",
+     "\"CLAUDE CODE AGENCY\" 612,515 118x36 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)"
+    ],
+    "links": [
+     "A \"\" 683,306 31x35 :: Spacemono 14.6015px/14.6015px w400 lsnormal uppercase rgb(31, 45, 164) bg rgba(255, 255, 255, 0) r3.65036px",
+     "A \"\" 630,305 33x41 :: Perfectlynineties 14.6015px/14.6015px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px"
+    ],
+    "media": [
+     "IMG.frankie_pulse_image 633,297 26x34 fit fill r0px 172,232  70cdc7742f6a08/6a68ece0d8ee2516f1597dcc_frankie-location.png",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 38,522 20x22 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a4fb2c2e82a3be9ff85efc2_webflow.svg",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 251,522 20x22 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a330b89a9c2356eab75a3e7_driblle.png",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 437,522 20x22 fit cover r0px 65,64  6564d0925f70cdc7742f6a08/6a2996723c87c3085623bc82_image.avif",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 584,522 20x22 fit cover r0px 98,96  dc7742f6a08/6a299672bded9ed717b2e22b_boxed%20icon%20(1).avif"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 689,
+     "w": 768,
+     "h": 1998
+    },
+    "pad": "0px 38.4px 0px 38.4px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"Katie and Meghan on their favorite meeti\" 82,1249 392x88 :: articulat-cf 29.2029px/29.2029px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"+114.2%\" 490,1272 196x29 :: articulat-cf 29.2029px/29.2029px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Yemi on the ninjas who got him into Tech\" 82,1956 392x88 :: articulat-cf 29.2029px/29.2029px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"497%\" 490,1980 196x29 :: articulat-cf 29.2029px/29.2029px w700 lsnormal none rgb(245, 242, 241)"
+    ],
+    "paras": [
+     "\"$800M+\" 38,2175 324x61 :: articulat-cf 51.1051px/59.2819px w400 lsnormal none rgb(6, 17, 14)",
+     "\"raised by our client partners\" 391,2202 222x27 :: articulat-cf 18.2518px/27.3777px w400 lsnormal none rgb(6, 17, 14)",
+     "\"10+\" 38,2296 324x61 :: articulat-cf 51.1051px/59.2819px w400 lsnormal none rgb(6, 17, 14)",
+     "\"years growing brands\" 391,2323 174x27 :: articulat-cf 18.2518px/27.3777px w400 lsnormal none rgb(6, 17, 14)",
+     "\"48+\" 38,2417 324x61 :: articulat-cf 51.1051px/59.2819px w400 lsnormal none rgb(6, 17, 14)",
+     "\"months of median partnership\" 391,2443 241x27 :: articulat-cf 18.2518px/27.3777px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "links": [
+     "A \"ACTIVE | SINCE 2020 Katie and \" 38,689 691x691 :: articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r7.30073px",
+     "A \"ACQUIRED | 4 YEAR PARTNERSHIP \" 38,1396 691x691 :: articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r7.30073px"
+    ],
+    "media": [
+     "IMG.image-100 absolute square-3 38,689 691x712 fit cover r0px 768,576  1f912d7006cf33b5_Archtober%2520Festival%25204-min-p-800.webp",
+     "IMG.logo-partnership text-reveal 82,1202 95x47 fit fill r0px 500,250  _Greater%20-%20Partner%20Logo%20-%20Archtober%20(white).avif",
+     "IMG.image-100 absolute square-3 38,1396 691x712 fit cover r0px 768,807  0-%20ofcolor-%20testimonial%20-%20thumbnail%20(3)-p-800.avif",
+     "IMG.logo-partnership text-reveal 82,1909 95x47 fit fill r0px 500,250  1f_Greater%20-%20Partner%20Logo%20-%20OfColor%20(light).avif"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 2687,
+     "w": 768,
+     "h": 422
+    },
+    "pad": "0px 38.4px 0px 38.4px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"World moving too fast? Uncertain of next\" 38,2781 691x124 :: Perfectlynineties 62.0562px/62.0562px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [
+     "\"Ideas and research from our team so you \" 38,2920 691x66 :: articulat-cf 21.9022px/32.8533px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "links": [],
+    "media": []
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 3109,
+     "w": 768,
+     "h": 1171
+    },
+    "pad": "0px 38.4px 0px 38.4px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"The secrets behind Google’s AI Optimizat\" 38,3445 324x96 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(6, 17, 14)",
+     "H2 \"Top questions you should ask before hiri\" 391,3445 324x96 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(6, 17, 14)",
+     "H2 \"Greater named in two of Dribbble's 2026 \" 38,3976 324x96 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [
+     "\"ARTICLE\" 47,3412 50x18 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)",
+     "\"SEPTEMBER 2, 2026\" 112,3412 121x18 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)",
+     "\"SANDRA CHAVEZ-FERNANDEZ MORALES\" 68,3561 221x18 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)",
+     "\"ARTICLE\" 400,3412 50x18 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)",
+     "\"AUGUST 21, 2026\" 465,3412 107x18 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)",
+     "\"SANDRA CHAVEZ-FERNANDEZ MORALES\" 420,3605 221x18 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)"
+    ],
+    "links": [
+     "A \"\" 38,3167 338x443 :: articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"\" 391,3167 338x487 :: articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"\" 38,3698 338x443 :: articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"VIEW MORE +\" 312,4185 144x37 :: Spacemono 14.6015px/14.6015px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r3.65036px"
+    ],
+    "media": [
+     "IMG.image-100 38,3167 338x226 fit cover r0px 1800,1200  %20behind%20Google%27s%20AI%20optimization%20guide%20(1).jpg",
+     "IMG.image-100 38,3559 22x22 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp",
+     "IMG.image-100 391,3167 338x226 fit cover r0px 1800,1200  ae/6a7f24a7185464a2838861c8_Thumbnail_%20Top%20Questions.jpg",
+     "IMG.image-100 391,3603 22x22 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp",
+     "IMG.image-100 38,3698 338x226 fit cover r0px 1800,1200  ae/6a7b8caf06204cbec09680d0_Dribbble_List_Thumbnail_Blue.jpg",
+     "IMG.image-100 38,4090 22x22 fit cover r0px 900,900  b1e990dd47caebae/69cd6e1b0f7212ac821cd3b1_Headshots%201.webp"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 4280,
+     "w": 768,
+     "h": 748
+    },
+    "pad": "0px 38.4px 0px 38.4px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"Strategic design partnership that evolve\" 38,4374 691x124 :: Perfectlynineties 62.0562px/62.0562px w400 lsnormal none rgb(6, 17, 14)",
+     "H2 \"MVB\" 68,4909 105x32 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Brand Transformation\" 306,4877 156x64 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Embedded Brand Team\" 544,4845 127x96 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Content OS\" 783,4877 105x64 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Promotional Videos\" 1021,4877 142x64 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Embedded Content Team\" 1259,4845 127x96 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Site Migration\" 1498,4877 111x64 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Component Libraries\" 1736,4877 138x64 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Custom Site\" 1974,4877 105x64 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"MVP\" 2213,4909 105x32 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Transformation Sprint\" 2451,4877 156x64 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Embedded Product Team\" 2689,4845 127x96 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)"
+    ],
+    "paras": [
+     "\"Specialized creative services to help yo\" 38,4513 691x99 :: articulat-cf 21.9022px/32.8533px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "links": [],
+    "media": [
+     "IMG.image-100 absolute 38,4676 214x294 fit cover r0px 636,848  m/65676a33b1e990dd47caebae/6a0f438b197c74a8df577471_MVB.webp",
+     "IMG.plus-con 196,4913 18x18 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 277,4676 214x294 fit cover r0px 636,848  7caebae/6a39678f60766fd43cecdd41_Brand%20transformation.webp",
+     "IMG.plus-con 486,4913 18x18 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 515,4676 214x294 fit cover r0px 636,848  /6a0f445d75a220f70ca3b85d_Embedded%E2%80%A8brand%20team.webp",
+     "IMG.plus-con 695,4913 18x18 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 753,4676 214x294 fit cover r0px 636,848  e990dd47caebae/6a10caa154b2279dee3fcaed_Content%20%20OS.webp",
+     "IMG.plus-con 911,4913 18x18 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 992,4676 214x294 fit cover r0px   dd47caebae/6a10cb04fafe5b29f2d3500b_Promotional%20video.webp",
+     "IMG.plus-con 1187,4913 18x18 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 1230,4676 214x294 fit cover r0px   cad628d7da70f475c541_Embedded%20%E2%80%A8content%20team.webp",
+     "IMG.plus-con 1410,4913 18x18 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 1468,4676 214x294 fit cover r0px   7caebae/6a57dfd2fec8e231b861da11_Site%20migration%20(1).webp",
+     "IMG.plus-con 1632,4913 18x18 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 5028,
+     "w": 768,
+     "h": 685
+    },
+    "pad": "0px 38.4px 0px 38.4px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [],
+    "paras": [
+     "\"BLAKE\" 38,5369 39x15 :: Spacemono 12.7763px/15.3315px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\",\" 77,5369 8x15 :: Spacemono 12.7763px/15.3315px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"CO-FOUNDER, CHIEF PRODUCT & DESIGN OFFIC\" 38,5387 328x15 :: Spacemono 12.7763px/15.3315px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"|\" 376,5387 8x15 :: Spacemono 12.7763px/15.3315px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"BOOMPOP\" 393,5387 55x15 :: Spacemono 12.7763px/15.3315px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"ALLISON HARRIS\" 38,5423 109x15 :: Spacemono 12.7763px/15.3315px w400 lsnormal uppercase rgb(6, 17, 14)"
+    ],
+    "links": [],
+    "media": [
+     "IMG.image-100--contain 38,5447 131x66 fit cover r0px 768,431  bae/6a2ddf2d3ef2abcf5d971b58_BoomPop_logo_colored-p-800.webp",
+     "IMG.image-100--contain 38,5501 131x66 fit cover r0px 768,431  0dd47caebae/6ab3023f3fefcff4ee23ff5f_Atomiq%20logo-p-800.jpg",
+     "IMG.image-100--contain 38,5419 131x66 fit cover r0px 768,431  e/699e4984d20fcb991b9024e2_Archtober_logo_colored-p-800.webp",
+     "IMG.image-100--contain 38,5501 131x66 fit cover r0px 768,431  ae/699e478de687d05aafff4e4c_Novellia_logo_colored-p-800.webp",
+     "IMG.image-100--contain 38,5419 131x66 fit cover r0px 768,431  7caebae/699e4972806fa9b6e75a78aa_ASL_logo_colored-p-800.webp",
+     "IMG.image-100--contain 38,5392 131x66 fit cover r0px 768,431  99e490d11b9f5ebeffdaefd_VilleFerrano_logo_colored-p-800.webp",
+     "IMG.image-100--contain 38,5447 131x66 fit cover r0px 768,431  ebae/699e48af015a77fe0018cd6b_Atelio_logo_colored-p-800.webp",
+     "IMG.image-100--contain 38,5501 131x66 fit cover r0px 768,431  bae/699e49321b76bf395d6db2de_OfColor_logo_colored-p-800.webp",
+     "IMG.image-100--contain 38,5392 131x66 fit cover r0px 768,431  699e47702422a2947e7fe6bc_Vikingcloud_logo_colored-p-800.webp",
+     "IMG.image-100--contain 38,5364 131x66 fit cover r0px 768,431  e495f628bab158b26f2c5_RoadsToSuccess_logo_colored-p-800.webp",
+     "IMG.image-100--contain 38,5556 131x66 fit cover r0px 768,431  caebae/699e4846d4c9023695f9fdc8_1014_logo_colored-p-800.webp",
+     "IMG.image-100--contain 38,5419 131x66 fit cover r0px 768,431  caebae/699e483214a823d16ed8fa60_Alma_logo_colored-p-800.webp",
+     "IMG.image-100--contain 38,5364 131x66 fit cover r0px 768,431  ae/699e4749c3c19eee0ada181a_Assemble_logo_colored-p-800.webp"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 5713,
+     "w": 768,
+     "h": 860
+    },
+    "pad": "0px 38.4px 0px 38.4px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"Rise above into forever.\" 38,5771 691x210 :: Perfectlynineties 116.812px/105.13px w400 lsnormal none rgb(6, 17, 14)",
+     "H2 \"Let's talk about your next project.\" 49,6347 669x44 :: articulat-cf 43.8044px/43.8044px w700 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [],
+    "links": [
+     "A \"CONTACT US\" 316,6420 135x37 :: Spacemono 14.6015px/14.6015px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r3.65036px"
+    ],
+    "media": [
+     "CANVAS.ring3d-canvas 58,6038 651x326 fit fill r0px   "
+    ]
+   },
+   {
+    "cls": "u-section section footer",
+    "box": {
+     "x": 0,
+     "y": 6573,
+     "w": 768,
+     "h": 1007
+    },
+    "pad": "0px 0px 0px 0px",
+    "bg": "rgb(245, 242, 241)",
+    "headings": [],
+    "paras": [],
+    "links": [
+     "A \"BEFORE & AFTER\" 38,6783 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"PARTNERSHIP\" 38,6817 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"ABOUT US\" 274,6783 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"STUDIO HOURS\" 274,6817 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"MVB\" 509,6783 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"WEB DESIGN SYSTEM\" 509,6817 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"CRO\" 509,6850 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"SITE MIGRATION\" 509,6884 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"WEBFLOW DEVELOPMENT\" 509,6918 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"RESEARCH\" 38,7002 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"FAQS\" 38,7035 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"SITE LOG\" 38,7069 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px"
+    ],
+    "media": [
+     "IMG.badges 38,7258 102x102 fit cover r0px 453,453  4f_e83c3a14cb3f4999ff18f6790a397e86_Webflow%20Enterprise.png",
+     "IMG.badges 155,7258 102x102 fit cover r0px 453,453  ae9de76dd4b67d0dc329cded9e0c_Top%20Branding%20Agency%202.png",
+     "IMG.frankie 521,7400 131x180 fit fill r0px 105,143  a187f214686c3a56099d5ad_Frankie%20look%20up%20left-p-500.png",
+     "svg. 0,7419 768x161 fit fill r0px   "
+    ]
+   }
+  ]
+ },
+ "1024": {
+  "doc": 6523,
+  "body": "articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgb(245, 242, 241)",
+  "nav": {
+   "box": {
+    "x": 0,
+    "y": 2,
+    "w": 1024,
+    "h": 136
+   },
+   "links": [
+    "|51,47 141x45|articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r0px",
+    "RESEARCH|559,51 74x38|Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(6, 17, 14)|bg rgba(255, 255, 255, 0) pad 0px 0px r3.78356px",
+    "WORK|663,51 37x38|Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(6, 17, 14)|bg rgba(255, 255, 255, 0) pad 0px 0px r3.78356px",
+    "B&A|731,51 28x38|Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(6, 17, 14)|bg rgba(255, 255, 255, 0) pad 0px 0px r3.78356px",
+    "CONTACT|777,51 112x38|Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(245, 242, 241)|bg rgb(43, 64, 235) pad 0px 22.7014px r3.78356px",
+    "|893,51 38x38|articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0)|bg rgb(238, 234, 231) pad 9.4589px 9.4589px r3.78356px",
+    "|935,51 38x38|articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r3.78356px"
+   ]
+  },
+  "sections": [
+   {
+    "cls": "hero",
+    "box": {
+     "x": 0,
+     "y": 136,
+     "w": 1024,
+     "h": 568
+    },
+    "pad": "0px 0px 0px 0px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H1 \"Your search for a design partner ends he\" 159,197 707x159 :: Perfectlynineties 79.4547px/79.4547px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [
+     "\"Greater builds the brand and experience \" 99,371 827x102 :: articulat-cf 22.7014px/34.052px w400 lsnormal none rgb(6, 17, 14)",
+     "\"WEBFLOW ENTERPRISE PARTNER\" 156,540 192x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)",
+     "\"DRIBBBLE SELECT AGENCY\" 393,540 163x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)",
+     "\"AIROPS CERTIFIED\" 602,540 118x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)",
+     "\"CLAUDE CODE AGENCY\" 765,540 133x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)"
+    ],
+    "links": [
+     "A \"\" 822,317 32x36 :: Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(31, 45, 164) bg rgba(255, 255, 255, 0) r3.78356px",
+     "A \"\" 767,316 34x42 :: Perfectlynineties 15.1342px/15.1342px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px"
+    ],
+    "media": [
+     "IMG.frankie_pulse_image 770,308 26x36 fit fill r0px 172,232  70cdc7742f6a08/6a68ece0d8ee2516f1597dcc_frankie-location.png",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 125,538 23x23 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a4fb2c2e82a3be9ff85efc2_webflow.svg",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 363,538 23x23 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a330b89a9c2356eab75a3e7_driblle.png",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 571,538 23x23 fit cover r0px 65,64  6564d0925f70cdc7742f6a08/6a2996723c87c3085623bc82_image.avif",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 735,538 23x23 fit cover r0px 98,96  dc7742f6a08/6a299672bded9ed717b2e22b_boxed%20icon%20(1).avif"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 704,
+     "w": 1024,
+     "h": 754
+    },
+    "pad": "0px 51.2px 0px 51.2px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"Katie and Meghan on their favorite meeti\" 97,874 231x188 :: articulat-cf 30.2685px/30.2685px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"+114.2%\" 343,968 115x36 :: articulat-cf 30.2685px/30.2685px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Yemi on the ninjas who got him into Tech\" 565,874 231x188 :: articulat-cf 30.2685px/30.2685px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"497%\" 812,968 115x36 :: articulat-cf 30.2685px/30.2685px w700 lsnormal none rgb(245, 242, 241)"
+    ],
+    "paras": [
+     "\"$800M+\" 51,1157 206x63 :: articulat-cf 52.9698px/61.445px w400 lsnormal none rgb(6, 17, 14)",
+     "\"raised by our client partners\" 287,1163 217x57 :: articulat-cf 18.9178px/28.3767px w400 lsnormal none rgb(6, 17, 14)",
+     "\"10+\" 520,1157 85x63 :: articulat-cf 52.9698px/61.445px w400 lsnormal none rgb(6, 17, 14)",
+     "\"years growing brands\" 754,1192 180x28 :: articulat-cf 18.9178px/28.3767px w400 lsnormal none rgb(6, 17, 14)",
+     "\"48+\" 51,1293 92x63 :: articulat-cf 52.9698px/61.445px w400 lsnormal none rgb(6, 17, 14)",
+     "\"months of median partnership\" 285,1299 219x57 :: articulat-cf 18.9178px/28.3767px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "links": [
+     "A \"ACTIVE | SINCE 2020 Katie and \" 51,704 453x362 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r7.56712px",
+     "A \"ACQUIRED | 4 YEAR PARTNERSHIP \" 520,704 453x362 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r7.56712px"
+    ],
+    "media": [
+     "IMG.image-100 absolute square-3 51,704 453x373 fit cover r0px 1024,768  f912d7006cf33b5_Archtober%2520Festival%25204-min-p-1080.webp",
+     "IMG.logo-partnership text-reveal 97,825 98x49 fit fill r0px 500,250  _Greater%20-%20Partner%20Logo%20-%20Archtober%20(white).avif",
+     "IMG.image-100 absolute square-3 520,704 453x373 fit cover r0px 1024,1076  -%20ofcolor-%20testimonial%20-%20thumbnail%20(3)-p-1080.avif",
+     "IMG.logo-partnership text-reveal 565,825 98x49 fit fill r0px 500,250  1f_Greater%20-%20Partner%20Logo%20-%20OfColor%20(light).avif"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 1459,
+     "w": 1024,
+     "h": 427
+    },
+    "pad": "0px 51.2px 0px 51.2px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"World moving too fast? Uncertain of next\" 51,1556 559x206 :: Perfectlynineties 64.3205px/64.3205px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [
+     "\"Ideas and research from our team so you \" 51,1764 559x102 :: articulat-cf 22.7014px/34.052px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "links": [],
+    "media": []
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 1886,
+     "w": 1024,
+     "h": 1285
+    },
+    "pad": "0px 51.2px 0px 51.2px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"The secrets behind Google’s AI Optimizat\" 51,2303 438x66 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(6, 17, 14)",
+     "H2 \"Top questions you should ask before hiri\" 520,2303 438x66 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(6, 17, 14)",
+     "H2 \"Greater named in two of Dribbble's 2026 \" 51,2889 438x66 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [
+     "\"ARTICLE\" 60,2269 52x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)",
+     "\"SEPTEMBER 2, 2026\" 128,2269 126x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)",
+     "\"SANDRA CHAVEZ-FERNANDEZ MORALES\" 81,2391 229x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)",
+     "\"ARTICLE\" 528,2269 52x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)",
+     "\"AUGUST 21, 2026\" 596,2269 111x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)",
+     "\"SANDRA CHAVEZ-FERNANDEZ MORALES\" 550,2436 229x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)"
+    ],
+    "links": [
+     "A \"\" 51,1947 453x495 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"\" 520,1947 453x540 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"\" 51,2532 453x495 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"VIEW MORE +\" 437,3072 149x38 :: Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r3.78356px"
+    ],
+    "media": [
+     "IMG.image-100 51,1947 453x302 fit cover r0px 1800,1200  %20behind%20Google%27s%20AI%20optimization%20guide%20(1).jpg",
+     "IMG.image-100 51,2388 23x23 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp",
+     "IMG.image-100 520,1947 453x302 fit cover r0px 1800,1200  ae/6a7f24a7185464a2838861c8_Thumbnail_%20Top%20Questions.jpg",
+     "IMG.image-100 520,2434 23x23 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp",
+     "IMG.image-100 51,2532 453x302 fit cover r0px 1800,1200  ae/6a7b8caf06204cbec09680d0_Dribbble_List_Thumbnail_Blue.jpg",
+     "IMG.image-100 51,2974 23x23 fit cover r0px 900,900  b1e990dd47caebae/69cd6e1b0f7212ac821cd3b1_Headshots%201.webp"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 3171,
+     "w": 1024,
+     "h": 956
+    },
+    "pad": "0px 51.2px 0px 51.2px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"Strategic design partnership that evolve\" 51,3268 559x206 :: Perfectlynineties 64.3205px/64.3205px w400 lsnormal none rgb(6, 17, 14)",
+     "H2 \"MVB\" 81,4003 178x38 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Brand Transformation\" 397,3970 186x71 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Embedded Brand Team\" 712,3970 178x71 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Content OS\" 1027,4003 178x38 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Promotional Videos\" 1343,3970 178x71 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Embedded Content Team\" 1658,3970 178x71 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Site Migration\" 1973,4003 178x38 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Component Libraries\" 2289,3970 178x71 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Custom Site\" 2604,4003 178x38 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"MVP\" 2919,4003 178x38 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Transformation Sprint\" 3235,3970 186x71 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Embedded Product Team\" 3550,3970 178x71 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)"
+    ],
+    "paras": [
+     "\"Specialized creative services to help yo\" 51,3612 559x136 :: articulat-cf 22.7014px/34.052px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "links": [],
+    "media": [
+     "IMG.image-100 absolute 51,3666 291x400 fit cover r0px 636,848  m/65676a33b1e990dd47caebae/6a0f438b197c74a8df577471_MVB.webp",
+     "IMG.plus-con 284,4007 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 367,3666 291x400 fit cover r0px 636,848  7caebae/6a39678f60766fd43cecdd41_Brand%20transformation.webp",
+     "IMG.plus-con 608,4007 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 682,3666 291x400 fit cover r0px 636,848  /6a0f445d75a220f70ca3b85d_Embedded%E2%80%A8brand%20team.webp",
+     "IMG.plus-con 915,4007 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 997,3666 291x400 fit cover r0px 636,848  e990dd47caebae/6a10caa154b2279dee3fcaed_Content%20%20OS.webp",
+     "IMG.plus-con 1230,4007 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 1313,3666 291x400 fit cover r0px   dd47caebae/6a10cb04fafe5b29f2d3500b_Promotional%20video.webp",
+     "IMG.plus-con 1545,4007 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 1628,3666 291x400 fit cover r0px   cad628d7da70f475c541_Embedded%20%E2%80%A8content%20team.webp",
+     "IMG.plus-con 1861,4007 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 1943,3666 291x400 fit cover r0px   7caebae/6a57dfd2fec8e231b861da11_Site%20migration%20(1).webp",
+     "IMG.plus-con 2176,4007 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 4127,
+     "w": 1024,
+     "h": 615
+    },
+    "pad": "0px 51.2px 0px 51.2px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [],
+    "paras": [
+     "\"BLAKE\" 314,4691 41x16 :: Spacemono 13.2425px/15.8909px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\",\" 354,4691 8x16 :: Spacemono 13.2425px/15.8909px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"CO-FOUNDER, CHIEF PRODUCT & DESIGN OFFIC\" 314,4711 340x16 :: Spacemono 13.2425px/15.8909px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"|\" 663,4711 8x16 :: Spacemono 13.2425px/15.8909px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"BOOMPOP\" 681,4711 57x16 :: Spacemono 13.2425px/15.8909px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"ALLISON HARRIS\" 314,4691 113x16 :: Spacemono 13.2425px/15.8909px w400 lsnormal uppercase rgb(6, 17, 14)"
+    ],
+    "links": [
+     "BUTTON \"\" 890,4232 38x38 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(110, 110, 110) bg rgb(160, 162, 159) r3.78356px",
+     "BUTTON \"\" 935,4232 38x38 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgb(154, 179, 235) r3.78356px"
+    ],
+    "media": [
+     "IMG.img-100 cover grayscale 51,4316 247x247 fit cover r0px 1024,1024  65676a33b1e990dd47caebae/6ab2f912240280b3a66d4d4c_blake.jpeg",
+     "IMG.image-100--contain 66,4480 136x68 fit cover r0px 1024,575  ae/6a2ddf2d3ef2abcf5d971b58_BoomPop_logo_colored-p-1080.webp",
+     "IMG.img-100 cover grayscale 51,4316 247x247 fit cover r0px 1024,1024  /65676a33b1e990dd47caebae/6ab2f92f5c174fdf9d033295_allie.png",
+     "IMG.image-100--contain 66,4480 136x68 fit cover r0px 1024,575  dd47caebae/6ab3023f3fefcff4ee23ff5f_Atomiq%20logo-p-1080.jpg",
+     "IMG.img-100 cover grayscale 51,4316 247x247 fit cover r0px 426,426  33b1e990dd47caebae/6ab2dbe5e3e9f02d5b218c30_Meghan%20(2).png",
+     "IMG.image-100--contain 66,4480 136x68 fit cover r0px 1024,575  /699e4984d20fcb991b9024e2_Archtober_logo_colored-p-1080.webp",
+     "IMG.img-100 cover grayscale 51,4316 247x247 fit cover r0px 1024,1024  76a33b1e990dd47caebae/6ab2f99d0f95d418dd3829b1_angeline.jpeg",
+     "IMG.image-100--contain 66,4480 136x68 fit cover r0px 1024,575  e/699e478de687d05aafff4e4c_Novellia_logo_colored-p-1080.webp",
+     "IMG.img-100 cover grayscale 51,4316 247x247 fit cover r0px 1024,1024  caebae/6ab305ad489081c58cb915ac_ASL%20placeholder-p-1080.png",
+     "IMG.image-100--contain 66,4480 136x68 fit cover r0px 1024,575  caebae/699e4972806fa9b6e75a78aa_ASL_logo_colored-p-1080.webp",
+     "IMG.img-100 cover grayscale 51,4316 247x247 fit cover r0px 1024,1024  bae/6ab305c77cba16acc494bfa6_Rectangle%2034628916-p-1080.png",
+     "IMG.image-100--contain 66,4480 136x68 fit cover r0px 1024,575  9e490d11b9f5ebeffdaefd_VilleFerrano_logo_colored-p-1080.webp",
+     "IMG.img-100 cover grayscale 51,4316 247x247 fit cover r0px 1024,1024  /65676a33b1e990dd47caebae/6ab301c837ca63c04bcb2449_emily.png",
+     "IMG.image-100--contain 66,4480 136x68 fit cover r0px 1024,575  bae/699e48af015a77fe0018cd6b_Atelio_logo_colored-p-1080.webp"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 4742,
+     "w": 1024,
+     "h": 919
+    },
+    "pad": "0px 51.2px 0px 51.2px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"Rise above into forever.\" 51,4802 922x272 :: Perfectlynineties 136.208px/122.587px w400 lsnormal none rgb(6, 17, 14)",
+     "H2 \"Let's talk about your next project.\" 165,5426 694x45 :: articulat-cf 45.4027px/45.4027px w700 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [],
+    "links": [
+     "A \"CONTACT US\" 442,5502 140x38 :: Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r3.78356px"
+    ],
+    "media": [
+     "CANVAS.ring3d-canvas 61,5036 903x451 fit fill r0px   "
+    ]
+   },
+   {
+    "cls": "u-section section footer",
+    "box": {
+     "x": 0,
+     "y": 5660,
+     "w": 1024,
+     "h": 863
+    },
+    "pad": "0px 0px 0px 0px",
+    "bg": "rgb(245, 242, 241)",
+    "headings": [],
+    "paras": [],
+    "links": [
+     "A \"\" 51,5881 106x106 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"\" 172,5881 106x106 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"BEFORE & AFTER\" 495,5758 136x20 :: Spacemono 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"PARTNERSHIP\" 495,5793 136x20 :: Spacemono 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"ABOUT US\" 646,5758 135x20 :: Spacemono 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"STUDIO HOURS\" 646,5793 135x20 :: Spacemono 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"MVB\" 796,5758 177x20 :: Spacemono 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"WEB DESIGN SYSTEM\" 796,5793 177x20 :: Spacemono 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"CRO\" 796,5828 177x20 :: Spacemono 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"SITE MIGRATION\" 796,5863 177x20 :: Spacemono 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"WEBFLOW DEVELOPMENT\" 796,5898 177x20 :: Spacemono 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"RESEARCH\" 495,5985 136x20 :: Spacemono 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px"
+    ],
+    "media": [
+     "IMG.badges 51,5881 106x106 fit cover r0px   4f_e83c3a14cb3f4999ff18f6790a397e86_Webflow%20Enterprise.png",
+     "IMG.badges 172,5881 106x106 fit cover r0px   ae9de76dd4b67d0dc329cded9e0c_Top%20Branding%20Agency%202.png",
+     "svg. 0,6279 1024x215 fit fill r0px   ",
+     "IMG.custom-cursor 0,0 67x45 fit fill r0px 67,45  7742f6a08/6a6905193bf594a183ff871b_Cursor%20Design%20(1).svg"
+    ]
+   }
+  ]
+ },
+ "1440": {
+  "doc": 6238,
+  "body": "articulat-cf 16px/24px w400 lsnormal none rgb(6, 17, 14) bg rgb(245, 242, 241)",
+  "nav": {
+   "box": {
+    "x": 0,
+    "y": 2,
+    "w": 1440,
+    "h": 144
+   },
+   "links": [
+    "|144,50 149x48|articulat-cf 16px/24px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r0px",
+    "RESEARCH|859,54 78x40|Spacemono 16px/16px w400 lsnormal uppercase rgb(6, 17, 14)|bg rgba(255, 255, 255, 0) pad 0px 0px r4px",
+    "WORK|969,54 39x40|Spacemono 16px/16px w400 lsnormal uppercase rgb(6, 17, 14)|bg rgba(255, 255, 255, 0) pad 0px 0px r4px",
+    "B&A|1040,54 29x40|Spacemono 16px/16px w400 lsnormal uppercase rgb(6, 17, 14)|bg rgba(255, 255, 255, 0) pad 0px 0px r4px",
+    "CONTACT|1089,54 119x40|Spacemono 16px/16px w400 lsnormal uppercase rgb(245, 242, 241)|bg rgb(43, 64, 235) pad 0px 24px r4px",
+    "|1212,54 40x40|articulat-cf 16px/24px w400 lsnormal none rgb(0, 0, 0)|bg rgb(238, 234, 231) pad 10px 10px r4px",
+    "|1256,54 40x40|articulat-cf 16px/24px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r4px"
+   ]
+  },
+  "sections": [
+   {
+    "cls": "hero",
+    "box": {
+     "x": 80,
+     "y": 144,
+     "w": 1280,
+     "h": 601
+    },
+    "pad": "0px 0px 0px 0px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H1 \"Your search for a design partner ends he\" 346,208 747x168 :: Perfectlynineties 84px/84px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [
+     "\"Greater builds the brand and experience \" 283,392 874x108 :: articulat-cf 24px/36px w400 lsnormal none rgb(6, 17, 14)",
+     "\"WEBFLOW ENTERPRISE PARTNER\" 343,571 203x20 :: Spacemono 12px/19.68px w400 ls0.48px uppercase rgb(6, 17, 14)",
+     "\"DRIBBBLE SELECT AGENCY\" 595,571 172x20 :: Spacemono 12px/19.68px w400 ls0.48px uppercase rgb(6, 17, 14)",
+     "\"AIROPS CERTIFIED\" 815,571 125x20 :: Spacemono 12px/19.68px w400 ls0.48px uppercase rgb(6, 17, 14)",
+     "\"CLAUDE CODE AGENCY\" 988,571 141x20 :: Spacemono 12px/19.68px w400 ls0.48px uppercase rgb(6, 17, 14)"
+    ],
+    "links": [
+     "A \"\" 1048,335 34x38 :: Spacemono 16px/16px w400 lsnormal uppercase rgb(31, 45, 164) bg rgba(255, 255, 255, 0) r4px",
+     "A \"\" 989,334 36x45 :: Perfectlynineties 16px/16px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px"
+    ],
+    "media": [
+     "IMG.frankie_pulse_image 993,325 28x38 fit fill r0px 172,232  70cdc7742f6a08/6a68ece0d8ee2516f1597dcc_frankie-location.png",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 311,569 24x24 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a4fb2c2e82a3be9ff85efc2_webflow.svg",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 563,569 24x24 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a330b89a9c2356eab75a3e7_driblle.png",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 783,569 24x24 fit cover r0px 65,64  6564d0925f70cdc7742f6a08/6a2996723c87c3085623bc82_image.avif",
+     "IMG.icon-image-img w-variant-e995986c-1d77-a 956,569 24x24 fit cover r0px 98,96  dc7742f6a08/6a299672bded9ed717b2e22b_boxed%20icon%20(1).avif"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 745,
+     "w": 1440,
+     "h": 867
+    },
+    "pad": "0px 144px 0px 144px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"Katie and Meghan on their favorite meeti\" 192,991 304x166 :: articulat-cf 32px/32px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"+114.2%\" 512,1081 152x38 :: articulat-cf 32px/32px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Yemi on the ninjas who got him into Tech\" 776,991 304x166 :: articulat-cf 32px/32px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"497%\" 1096,1058 152x38 :: articulat-cf 32px/32px w700 lsnormal none rgb(245, 242, 241)"
+    ],
+    "paras": [
+     "\"$800M+\" 144,1295 218x66 :: articulat-cf 56px/64.96px w400 lsnormal none rgb(6, 17, 14)",
+     "\"raised by our client partners\" 436,1330 244x30 :: articulat-cf 20px/30px w400 lsnormal none rgb(6, 17, 14)",
+     "\"10+\" 728,1295 90x66 :: articulat-cf 56px/64.96px w400 lsnormal none rgb(6, 17, 14)",
+     "\"years growing brands\" 1020,1330 190x30 :: articulat-cf 20px/30px w400 lsnormal none rgb(6, 17, 14)",
+     "\"48+\" 144,1437 98x66 :: articulat-cf 56px/64.96px w400 lsnormal none rgb(6, 17, 14)",
+     "\"months of median partnership\" 436,1472 265x30 :: articulat-cf 20px/30px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "links": [
+     "A \"ACTIVE | SINCE 2020 Katie and \" 144,745 568x454 :: articulat-cf 16px/24px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r8px",
+     "A \"ACQUIRED | 4 YEAR PARTNERSHIP \" 728,745 568x454 :: articulat-cf 16px/24px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r8px"
+    ],
+    "media": [
+     "IMG.image-100 absolute square-3 144,745 568x468 fit cover r0px 1440,1080  f912d7006cf33b5_Archtober%2520Festival%25204-min-p-1600.webp",
+     "IMG.logo-partnership text-reveal 192,939 104x52 fit fill r0px 500,250  _Greater%20-%20Partner%20Logo%20-%20Archtober%20(white).avif",
+     "IMG.image-100 absolute square-3 728,745 568x468 fit cover r0px 1440,1513  ater%20-%20ofcolor-%20testimonial%20-%20thumbnail%20(3).avif",
+     "IMG.logo-partnership text-reveal 776,939 104x52 fit fill r0px 500,250  1f_Greater%20-%20Partner%20Logo%20-%20OfColor%20(light).avif"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 1611,
+     "w": 1440,
+     "h": 348
+    },
+    "pad": "0px 144px 0px 144px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"World moving too fast? Uncertain of next\" 144,1714 709x150 :: Perfectlynineties 68px/68px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [
+     "\"Ideas and research from our team so you \" 144,1866 709x72 :: articulat-cf 24px/36px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "links": [],
+    "media": []
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 1959,
+     "w": 1440,
+     "h": 752
+    },
+    "pad": "0px 144px 0px 144px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"The secrets behind Google’s AI Optimizat\" 144,2330 357x105 :: articulat-cf 28px/35px w700 lsnormal none rgb(6, 17, 14)",
+     "H2 \"Top questions you should ask before hiri\" 533,2330 357x105 :: articulat-cf 28px/35px w700 lsnormal none rgb(6, 17, 14)",
+     "H2 \"Greater named in two of Dribbble's 2026 \" 923,2330 357x140 :: articulat-cf 28px/35px w700 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [
+     "\"ARTICLE\" 153,2293 55x20 :: Spacemono 12px/19.68px w400 ls0.48px uppercase rgb(6, 17, 14)",
+     "\"SEPTEMBER 2, 2026\" 225,2293 133x20 :: Spacemono 12px/19.68px w400 ls0.48px uppercase rgb(6, 17, 14)",
+     "\"SANDRA CHAVEZ-FERNANDEZ MORALES\" 176,2457 243x20 :: Spacemono 12px/19.68px w400 ls0.48px uppercase rgb(6, 17, 14)",
+     "\"ARTICLE\" 542,2293 55x20 :: Spacemono 12px/19.68px w400 ls0.48px uppercase rgb(6, 17, 14)",
+     "\"AUGUST 21, 2026\" 614,2293 117x20 :: Spacemono 12px/19.68px w400 ls0.48px uppercase rgb(6, 17, 14)",
+     "\"SANDRA CHAVEZ-FERNANDEZ MORALES\" 565,2505 243x20 :: Spacemono 12px/19.68px w400 ls0.48px uppercase rgb(6, 17, 14)"
+    ],
+    "links": [
+     "A \"\" 144,2023 373x488 :: articulat-cf 16px/24px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"\" 533,2023 373x536 :: articulat-cf 16px/24px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"\" 923,2023 373x523 :: articulat-cf 16px/24px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"VIEW MORE +\" 641,2607 158x40 :: Spacemono 16px/16px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r4px"
+    ],
+    "media": [
+     "IMG.image-100 144,2023 373x249 fit cover r0px 1800,1200  %20behind%20Google%27s%20AI%20optimization%20guide%20(1).jpg",
+     "IMG.image-100 144,2455 24x24 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp",
+     "IMG.image-100 533,2023 373x249 fit cover r0px 1800,1200  ae/6a7f24a7185464a2838861c8_Thumbnail_%20Top%20Questions.jpg",
+     "IMG.image-100 533,2503 24x24 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp",
+     "IMG.image-100 923,2023 373x249 fit cover r0px 1800,1200  ae/6a7b8caf06204cbec09680d0_Dribbble_List_Thumbnail_Blue.jpg",
+     "IMG.image-100 923,2490 24x24 fit cover r0px 900,900  b1e990dd47caebae/69cd6e1b0f7212ac821cd3b1_Headshots%201.webp"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 2711,
+     "w": 1440,
+     "h": 986
+    },
+    "pad": "0px 144px 0px 144px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"Strategic design partnership that evolve\" 144,2814 709x150 :: Perfectlynineties 68px/68px w400 lsnormal none rgb(6, 17, 14)",
+     "H2 \"MVB\" 176,3566 248x41 :: articulat-cf 28px/35px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Brand Transformation\" 568,3531 248x76 :: articulat-cf 28px/35px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Embedded Brand Team\" 960,3531 248x76 :: articulat-cf 28px/35px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Content OS\" 1352,3566 248x41 :: articulat-cf 28px/35px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Promotional Videos\" 1744,3531 248x76 :: articulat-cf 28px/35px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Embedded Content Team\" 2136,3531 248x76 :: articulat-cf 28px/35px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Site Migration\" 2528,3566 248x41 :: articulat-cf 28px/35px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Component Libraries\" 2920,3531 248x76 :: articulat-cf 28px/35px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Custom Site\" 3312,3566 248x41 :: articulat-cf 28px/35px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"MVP\" 3704,3566 248x41 :: articulat-cf 28px/35px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Transformation Sprint\" 4096,3531 248x76 :: articulat-cf 28px/35px w700 lsnormal none rgb(245, 242, 241)",
+     "H2 \"Embedded Product Team\" 4488,3531 248x76 :: articulat-cf 28px/35px w700 lsnormal none rgb(245, 242, 241)"
+    ],
+    "paras": [
+     "\"Specialized creative services to help yo\" 144,3074 709x108 :: articulat-cf 24px/36px w400 lsnormal none rgb(6, 17, 14)"
+    ],
+    "links": [],
+    "media": [
+     "IMG.image-100 absolute 144,3128 368x505 fit cover r0px 636,848  m/65676a33b1e990dd47caebae/6a0f438b197c74a8df577471_MVB.webp",
+     "IMG.plus-con 450,3571 20x20 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 536,3128 368x505 fit cover r0px 636,848  7caebae/6a39678f60766fd43cecdd41_Brand%20transformation.webp",
+     "IMG.plus-con 842,3571 20x20 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 928,3128 368x505 fit cover r0px 636,848  /6a0f445d75a220f70ca3b85d_Embedded%E2%80%A8brand%20team.webp",
+     "IMG.plus-con 1234,3571 20x20 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 1320,3128 368x505 fit cover r0px 636,848  e990dd47caebae/6a10caa154b2279dee3fcaed_Content%20%20OS.webp",
+     "IMG.plus-con 1626,3571 20x20 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 1712,3128 368x505 fit cover r0px   dd47caebae/6a10cb04fafe5b29f2d3500b_Promotional%20video.webp",
+     "IMG.plus-con 2018,3571 20x20 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 2104,3128 368x505 fit cover r0px   cad628d7da70f475c541_Embedded%20%E2%80%A8content%20team.webp",
+     "IMG.plus-con 2410,3571 20x20 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg",
+     "IMG.image-100 absolute 2496,3128 368x505 fit cover r0px   7caebae/6a57dfd2fec8e231b861da11_Site%20migration%20(1).webp",
+     "IMG.plus-con 2802,3571 20x20 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 3697,
+     "w": 1440,
+     "h": 579
+    },
+    "pad": "0px 144px 0px 144px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [],
+    "paras": [
+     "\"BLAKE\" 470,4223 43x17 :: Spacemono 14px/16.8px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\",\" 513,4223 9x17 :: Spacemono 14px/16.8px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"CO-FOUNDER, CHIEF PRODUCT & DESIGN OFFIC\" 470,4243 360x17 :: Spacemono 14px/16.8px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"|\" 840,4243 9x17 :: Spacemono 14px/16.8px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"BOOMPOP\" 858,4243 60x17 :: Spacemono 14px/16.8px w400 lsnormal uppercase rgb(6, 17, 14)",
+     "\"ALLISON HARRIS\" 470,4223 120x17 :: Spacemono 14px/16.8px w400 lsnormal uppercase rgb(6, 17, 14)"
+    ],
+    "links": [
+     "BUTTON \"\" 1208,3809 40x40 :: articulat-cf 16px/24px w400 lsnormal none rgb(110, 110, 110) bg rgb(160, 162, 159) r4px",
+     "BUTTON \"\" 1256,3809 40x40 :: articulat-cf 16px/24px w400 lsnormal none rgb(6, 17, 14) bg rgb(154, 179, 235) r4px"
+    ],
+    "media": [
+     "IMG.img-100 cover grayscale 144,3897 310x310 fit cover r0px 1440,1440  65676a33b1e990dd47caebae/6ab2f912240280b3a66d4d4c_blake.jpeg",
+     "IMG.image-100--contain 160,4119 144x72 fit cover r0px 1440,808  d47caebae/6a2ddf2d3ef2abcf5d971b58_BoomPop_logo_colored.webp",
+     "IMG.img-100 cover grayscale 144,3897 310x310 fit cover r0px 1440,1440  /65676a33b1e990dd47caebae/6ab2f92f5c174fdf9d033295_allie.png",
+     "IMG.image-100--contain 160,4119 144x72 fit cover r0px 1440,809  dd47caebae/6ab3023f3fefcff4ee23ff5f_Atomiq%20logo-p-1600.jpg",
+     "IMG.img-100 cover grayscale 144,3897 310x310 fit cover r0px 426,426  33b1e990dd47caebae/6ab2dbe5e3e9f02d5b218c30_Meghan%20(2).png",
+     "IMG.image-100--contain 160,4119 144x72 fit cover r0px 1440,809  /699e4984d20fcb991b9024e2_Archtober_logo_colored-p-1600.webp",
+     "IMG.img-100 cover grayscale 144,3897 310x310 fit cover r0px 1440,1440  76a33b1e990dd47caebae/6ab2f99d0f95d418dd3829b1_angeline.jpeg",
+     "IMG.image-100--contain 160,4119 144x72 fit cover r0px 1440,809  e/699e478de687d05aafff4e4c_Novellia_logo_colored-p-1600.webp",
+     "IMG.img-100 cover grayscale 144,3897 310x310 fit cover r0px 1440,1440  caebae/6ab305ad489081c58cb915ac_ASL%20placeholder-p-1600.png",
+     "IMG.image-100--contain 160,4119 144x72 fit cover r0px 1440,809  caebae/699e4972806fa9b6e75a78aa_ASL_logo_colored-p-1600.webp",
+     "IMG.img-100 cover grayscale 144,3897 310x310 fit cover r0px 1440,1440  bae/6ab305c77cba16acc494bfa6_Rectangle%2034628916-p-1600.png",
+     "IMG.image-100--contain 160,4119 144x72 fit cover r0px 1440,809  9e490d11b9f5ebeffdaefd_VilleFerrano_logo_colored-p-1600.webp",
+     "IMG.img-100 cover grayscale 144,3897 310x310 fit cover r0px 1440,1440  /65676a33b1e990dd47caebae/6ab301c837ca63c04bcb2449_emily.png",
+     "IMG.image-100--contain 160,4119 144x72 fit cover r0px 1440,809  bae/699e48af015a77fe0018cd6b_Atelio_logo_colored-p-1600.webp"
+    ]
+   },
+   {
+    "cls": "u-section padding-global",
+    "box": {
+     "x": 0,
+     "y": 4276,
+     "w": 1440,
+     "h": 1035
+    },
+    "pad": "0px 144px 0px 144px",
+    "bg": "rgba(0, 0, 0, 0)",
+    "headings": [
+     "H2 \"Rise above into forever.\" 144,4340 1152x288 :: Perfectlynineties 144px/129.6px w400 lsnormal none rgb(6, 17, 14)",
+     "H2 \"Let's talk about your next project.\" 353,5063 733x48 :: articulat-cf 48px/48px w700 lsnormal none rgb(6, 17, 14)"
+    ],
+    "paras": [],
+    "links": [
+     "A \"CONTACT US\" 646,5143 148x40 :: Spacemono 16px/16px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r4px"
+    ],
+    "media": [
+     "CANVAS.ring3d-canvas 64,4530 1312x656 fit fill r0px   "
+    ]
+   },
+   {
+    "cls": "u-section section footer",
+    "box": {
+     "x": 0,
+     "y": 5311,
+     "w": 1440,
+     "h": 926
+    },
+    "pad": "0px 0px 0px 0px",
+    "bg": "rgb(245, 242, 241)",
+    "headings": [],
+    "paras": [],
+    "links": [
+     "A \"\" 144,5545 112x112 :: articulat-cf 16px/24px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"\" 272,5545 112x112 :: articulat-cf 16px/24px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px",
+     "A \"BEFORE & AFTER\" 677,5414 196x21 :: Spacemono 16px/24px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"PARTNERSHIP\" 677,5451 196x21 :: Spacemono 16px/24px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"ABOUT US\" 889,5414 196x21 :: Spacemono 16px/24px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"STUDIO HOURS\" 889,5451 196x21 :: Spacemono 16px/24px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"MVB\" 1100,5414 196x21 :: Spacemono 16px/24px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"WEB DESIGN SYSTEM\" 1100,5451 196x21 :: Spacemono 16px/24px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"CRO\" 1100,5488 196x21 :: Spacemono 16px/24px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"SITE MIGRATION\" 1100,5525 196x21 :: Spacemono 16px/24px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"WEBFLOW DEVELOPMENT\" 1100,5562 196x21 :: Spacemono 16px/24px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px",
+     "A \"RESEARCH\" 677,5654 196x21 :: Spacemono 16px/24px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px"
+    ],
+    "media": [
+     "IMG.badges 144,5545 112x112 fit cover r0px   4f_e83c3a14cb3f4999ff18f6790a397e86_Webflow%20Enterprise.png",
+     "IMG.badges 272,5545 112x112 fit cover r0px   ae9de76dd4b67d0dc329cded9e0c_Top%20Branding%20Agency%202.png",
+     "svg. 0,5935 1440x302 fit fill r0px   ",
+     "IMG.custom-cursor 0,0 67x45 fit fill r0px 67,45  7742f6a08/6a6905193bf594a183ff871b_Cursor%20Design%20(1).svg"
+    ]
+   }
+  ]
+ },
+ "rootVars": {
+  "--lumos---border-width--main": ".094rem",
+  "--lumos---button-size--medium": "3rem",
+  "--lumos_button-style---background": "#c6fb50",
+  "--lumos_trigger---on": "1",
+  "--lumos_button-style---background-hover": "#1f1d1e",
+  "--lumos_trigger---off": "0",
+  "--lumos_button-style---text": "#1f1d1e",
+  "--lumos_button-style---text-hover": "#ebebeb",
+  "--lumos_button-style---border": "#c6fb50",
+  "--lumos_button-style---border-hover": "#1f1d1e",
+  "--lumos---button-size--large": "5rem",
+  "--lumos---radius--round": "100vw",
+  "--lumos_gap---size": "clamp(1*1rem,((1 - ((2 - 1)/(90 - 20)*20))*1rem + ((2 - 1)/(90 - 20))*100vw),2*1rem)",
+  "--lumos_column-count---value": "1",
+  "--lumos_theme---background-skeleton": "color-mix(in lab,currentcolor 10%,transparent)",
+  "--lumos_spacing---space--5": "clamp(1.75*1rem,((1.75 - ((2 - 1.75)/(90 - 20)*20))*1rem + ((2 - 1.75)/(90 - 20))*100vw),2*1rem)",
+  "--lumos_spacing---space--3": "clamp(.875*1rem,((.875 - ((1 - .875)/(90 - 20)*20))*1rem + ((1 - .875)/(90 - 20))*100vw),1*1rem)",
+  "--lumos_text-style---margin-bottom": "clamp(1.25*1rem,((1.25 - ((1.5 - 1.25)/(90 - 20)*20))*1rem + ((1.5 - 1.25)/(90 - 20))*100vw),1.5*1rem)",
+  "--lumos_text-style---font-family": "system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen,Ubuntu,Cantarell,\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+  "--lumos_text-style---font-size": "clamp(1*1rem,((1 - ((1.125 - 1)/(90 - 20)*20))*1rem + ((1.125 - 1)/(90 - 20))*100vw),1.125*1rem)",
+  "--lumos_text-style---line-height": "1.5",
+  "--lumos_text-style---font-weight": "400",
+  "--lumos_text-style---letter-spacing": "0em",
+  "--lumos_text-style---text-wrap": "pretty",
+  "--lumos_spacing---space--6": "clamp(2*1rem,((2 - ((2.5 - 2)/(90 - 20)*20))*1rem + ((2.5 - 2)/(90 - 20))*100vw),2.5*1rem)",
+  "--lumos_spacing---space--2": "clamp(.625*1rem,((.625 - ((.75 - .625)/(90 - 20)*20))*1rem + ((.75 - .625)/(90 - 20))*100vw),.75*1rem)",
+  "--lumos_theme---background": "#ebebeb",
+  "--lumos_theme---text": "#1f1d1e",
+  "--lumos_spacing---section-space--none": "0px",
+  "--lumos_spacing---section-space--small": "clamp(3*1rem,((3 - ((5 - 3)/(90 - 20)*20))*1rem + ((5 - 3)/(90 - 20))*100vw),5*1rem)",
+  "--lumos_spacing---section-space--main": "clamp(4*1rem,((4 - ((7 - 4)/(90 - 20)*20))*1rem + ((7 - 4)/(90 - 20))*100vw),7*1rem)",
+  "--lumos_spacing---section-space--large": "clamp(5.5*1rem,((5.5 - ((10 - 5.5)/(90 - 20)*20))*1rem + ((10 - 5.5)/(90 - 20))*100vw),10*1rem)",
+  "--lumos---site--margin": "clamp(1*1rem,((1 - ((3 - 1)/(90 - 20)*20))*1rem + ((3 - 1)/(90 - 20))*100vw),3*1rem)",
+  "--lumos_spacing---section-space--page-top": "clamp(10*1rem,((10 - ((14 - 10)/(90 - 20)*20))*1rem + ((14 - 10)/(90 - 20))*100vw),14*1rem)",
+  "--lumos---max-width--main": "calc(90*1rem)",
+  "--lumos_spacing---space--8": "clamp(2.5*1rem,((2.5 - ((4 - 2.5)/(90 - 20)*20))*1rem + ((4 - 2.5)/(90 - 20))*100vw),4*1rem)",
+  "--lumos_text-style---margin-top": "clamp(1.25*1rem,((1.25 - ((1.5 - 1.25)/(90 - 20)*20))*1rem + ((1.5 - 1.25)/(90 - 20))*100vw),1.5*1rem)",
+  "--lumos_text-style---trim-top": ".33em",
+  "--lumos_text-style---trim-bottom": ".38em",
+  "--lumos_spacing---space--7": "clamp(2.25*1rem,((2.25 - ((3 - 2.25)/(90 - 20)*20))*1rem + ((3 - 2.25)/(90 - 20))*100vw),3*1rem)",
+  "--lumos_theme---text-link--border": "color-mix(in srgb,#1f1d1e/**/20%,transparent)",
+  "--lumos_theme---text-link--text": "#1f1d1e",
+  "--lumos_theme---text-link--text-hover": "#1f1d1e",
+  "--lumos_theme---text-link--border-hover": "#1f1d1e",
+  "--lumos---site--gutter": "clamp(1*1rem,((1 - ((2 - 1)/(90 - 20)*20))*1rem + ((2 - 1)/(90 - 20))*100vw),2*1rem)",
+  "--lumos---radius--main": "1rem",
+  "--lumos_theme---background-2": "white",
+  "--lumos---site--column-count": "12",
+  "--lumos---site--column-width": "calc((min(calc(90*1rem),100% - clamp(1*1rem,((1 - ((3 - 1)/(90 - 20)*20))*1rem + ((3 - 1)/(90 - 20))*100vw),3*1rem)*2) - (clamp(1*1rem,((1 - ((2 - 1)/(90 - 20)*20))*1rem + ((2 - 1)/(90 - 20))*100vw),2*1rem)*(12 - 1)))/12)",
+  "--lumos_responsive---large": "1",
+  "--lumos_responsive---medium": "0",
+  "--lumos_responsive---small": "0",
+  "--lumos_responsive---xsmall": "0",
+  "--lumos---max-width--small": "50rem",
+  "--lumos_state---false": "0",
+  "--lumos_theme---border": "color-mix(in srgb,#1f1d1e/**/20%,transparent)",
+  "--lumos_spacing---space--4": "clamp(1.25*1rem,((1.25 - ((1.5 - 1.25)/(90 - 20)*20))*1rem + ((1.5 - 1.25)/(90 - 20))*100vw),1.5*1rem)",
+  "--lumos---focus--offset-inner": "calc(.125rem*-1)",
+  "--lumos_spacing---space--1": "clamp(.375*1rem,((.375 - ((.5 - .375)/(90 - 20)*20))*1rem + ((.5 - .375)/(90 - 20))*100vw),.5*1rem)",
+  "--lumos_typography---font-size--text-large": "clamp(1.125*1rem,((1.125 - ((1.25 - 1.125)/(90 - 20)*20))*1rem + ((1.25 - 1.125)/(90 - 20))*100vw),1.25*1rem)",
+  "--lumos_typography---font--primary-bold": "700",
+  "--lumos---swatch--transparent": "transparent",
+  "--lumos---radius--small": ".5rem",
+  "--lumos_state---true": "1",
+  "--lumos---max-width--full": "100%",
+  "--_spacing-sizing---spacing--card-paddings--regular": "1rem",
+  "--_spacing-sizing---spacing--card-paddings--none": "0rem",
+  "--_theme---text-colors--text": "#06110e",
+  "--_spacing-sizing---spacing--sections--global-padding": "5vw",
+  "--_theme---tertiary-stroke<deleted|variable-50a85783-a49b-26e7-c94d-d6ee8bbc150e>": "#06110e",
+  "--sizes--small": ".875rem",
+  "--spacing-xxl<deleted|variable-ee21bb8d-42d9-7065-7bab-f5c2e8d9df8b>": "8rem",
+  "--_spacing-sizing---container--full-width": "100%",
+  "--_spacing-sizing---max-width--container": "80rem",
+  "--_theme---background": "#f5f2f1",
+  "--dark--background<deleted|variable-37bfec31-081c-2ce5-5a5f-04dbeb323df7>": "#1f1f1f",
+  "--dark--text": "#fff",
+  "--_theme---surface--background": "#f5f2f1",
+  "--dark--secondary-text<deleted|variable-8920dce6-1397-fd35-3d54-1fc1254c857c>": "#fff9",
+  "--_spacing-sizing---spacing--card-paddings--15vw": "15vw",
+  "--spacing-zero<deleted|variable-86220196-d564-fafa-208c-c9678972f577>": "0rem",
+  "--_spacing-sizing---container--full-height": "100%",
+  "--spacing-s<deleted|variable-b6018c6b-495e-fb79-fe21-f07536a15dc4>": "1rem",
+  "--_theme---surface--transparent": "#fff0",
+  "--_typography---fonts--space-mono": "Spacemono,Arial,sans-serif",
+  "--_typography---paragraph--small": ".875rem",
+  "--_typography---font-weight--regular": "400",
+  "--_spacer-block---spacing--2xsmall<deleted|variable-b5f6fcda-d256-7349-57a4-d79003d40c87>": ".25rem",
+  "--_spacing-sizing---spacing--paddings--regular": "1rem",
+  "--_primitives---color--gum": "#f3b0e3",
+  "--_primitives---color--night": "#06110e",
+  "--lumos_typography---font-size--text-small": "clamp(.875*1rem,((.875 - ((1 - .875)/(90 - 20)*20))*1rem + ((1 - .875)/(90 - 20))*100vw),1*1rem)",
+  "--_typography---line-height--150": "1.5",
+  "--_theme---text-colors--secondary-text": "#343434",
+  "--_theme---text-colors--accent-text": "#1f2da4",
+  "--lime<deleted|variable-c6e6fcd4-1267-04df-3363-5c83314aedf0>": "#ade900",
+  "--_font-sizes---fonts--heading-medium<deleted|variable-473b44ab-b31b-1907-8e08-d03674132979>": "3rem",
+  "--_spacing-sizing---section-spacing--medium": "4rem",
+  "--_spacing-sizing---spacing--large": "3rem",
+  "--dark--card-container<deleted|variable-5b663968-edf1-c60d-cbd7-0f1f8432e3ec>": "#ffffff0d",
+  "--lumos_typography---line-height--large": "1.3",
+  "--dark--overlay<deleted|variable-9f13e55e-27da-f770-791a-a9156f15e77a>": "#1f1f1fcc",
+  "--_spacing-sizing---spacing--gaps--2xsmall": ".25rem",
+  "--_spacing-sizing---spacing--gaps--medium": "2rem",
+  "--_spacing-sizing---spacing--paddings--medium": "1.5rem",
+  "--_typography---fonts--perfectly-nineties": "Perfectlynineties,Arial,sans-serif",
+  "--_typography---rich-text-styles--heading-2": "3rem",
+  "--_typography---line-height--125": "1.25",
+  "--_spacing-sizing---spacing--paddings--small": ".5rem",
+  "--_spacing-sizing---spacing--gaps--small": "1rem",
+  "--_typography---fonts--articulat-cf": "articulat-cf,sans-serif",
+  "--_typography---rich-text-styles--heading-3": "2rem",
+  "--_spacing-sizing---spacing--small": "1rem",
+  "--_typography---rich-text-styles--heading-4": "1.75rem",
+  "--_primitives---units--1rem": "1rem",
+  "--_typography---rich-text-styles--heading-5": "1.5rem",
+  "--_typography---rich-text-styles--heading-6": "1.25rem",
+  "--_theme---surface--accent": "#cbc308",
+  "--_spacing-sizing---spacing--medium": "2rem",
+  "--grey<deleted|variable-f3fb65a6-709a-ee00-1fb2-98f8b3d45fd6>": "#6f6f6f",
+  "--_theme---theme--cards--background--default": "#eeeae7",
+  "--_theme---tab-hover": "#e2dfdc",
+  "--radius--radius-base": ".5rem",
+  "--_spacing-sizing---section-spacing--large": "6rem",
+  "--_theme---border": "#e2dfdc",
+  "--surface<deleted|variable-7f1ff99a-40db-690d-a3c3-dddfcd836c19>": "#0f0f0f",
+  "--_spacing-sizing---spacing--offset--regular": "1rem",
+  "--_spacer-block---spacing--large<deleted|variable-f39bc9e2-5297-c767-2bd7-700fe6155a82>": "3rem",
+  "--lumos_typography---line-height--huge": "1.5",
+  "--_theme---surface--neutral": "#6e6e6e",
+  "--_ui-styles---radius--xsmall": ".25rem",
+  "--_typography---landing-page-headings--xlarge": "5.25rem",
+  "--lumos_typography---line-height--small": "1",
+  "--lumos_typography---font--primary-regular": "400",
+  "--_theme---filter-chip--background-default": "#1c201f1a",
+  "--dark--secondary-button-bg<deleted|variable-baf26bdc-fd27-1eba-b4b9-f0fcb50c3082>": "#ffffff1a",
+  "--_theme---accordion--on-action--default": "#06110e",
+  "--dark--border<deleted|variable-03686061-60a5-9da8-9507-2024eeffcf68>": "#fff6",
+  "--_theme---toc-overlay": "#fffc",
+  "--_typography---line-height--100": "1",
+  "--_spacing-sizing---spacing--gaps--none": "0rem",
+  "--_typography---paragraph--tiny": ".75rem",
+  "--_theme---primary-button-stroke<deleted|variable-3c7d9529-c39e-0671-da6f-81eb21aa4124>": "#06110e",
+  "--_theme---primary-button-background<deleted|variable-69a1cdf0-357b-5157-dc5d-75493f85a0ac>": "#06110e",
+  "--_primitives---body": "articulat-cf,sans-serif",
+  "--_theme---on-action<deleted|variable-e453b1c4-c7fb-8b30-e051-e10751f54fba>": "#eeeae7",
+  "--_typography---paragraph--base": "1rem",
+  "--sizes--medium-tall": "1.25rem",
+  "--_spacing-sizing---spacing--gaps--large": "3rem",
+  "--_theme---accordion--border--default": "#a0a29f",
+  "--_theme---buttons--primary--on-action--default": "#f5f2f1",
+  "--_theme---buttons--primary--on-action--hover": "#f5f2f1",
+  "--_theme---button--secondary--on-action--default": "#06110e",
+  "--_theme---button--ghost--on-action--default": "#06110e",
+  "--_theme---button--ghost--on-action--hover": "#1f2da4",
+  "--_spacer-block---spacing--small<deleted|variable-2348b58d-6152-c846-fbf3-8ede9281ecde>": "1rem",
+  "--_spacing-sizing---max-width--fig-4-col": "54.625rem",
+  "--_spacing-sizing---spacing--offset--large": "3rem",
+  "--_spacing-sizing---spacing--card-paddings--medium": "2rem",
+  "--_theme---surface--surface-2": "#e2dfdc",
+  "--_theme---surface--surface-1": "#eeeae7",
+  "--_spacing-sizing---spacing--paddings--xsmall": ".25rem",
+  "--_theme---tab-background": "#eeeae7",
+  "--_theme---tab-selected": "#b2c59d",
+  "--_spacing-sizing---spacing--paddings--large": "2rem",
+  "--_primitives---color--talc": "#f5f2f1",
+  "--_spacing-sizing---min-width--half-width": "50%",
+  "--_primitives---units--75rem": ".75rem",
+  "--sizes--3xsmall": ".25rem",
+  "--sizes--2xsmall": ".5rem",
+  "--_theme---surface--surface-3": "#a0a29f",
+  "--_spacing-sizing---radius--xsmall": ".25rem",
+  "--_primitives---color--fog": "#a0a29f",
+  "--_theme---click-indicatior--border-default": "#0e4943",
+  "--_theme---click-indicatior--tag-bg<deleted|variable-8e6af44e-b068-c477-3f15-58e5be235893>": "#ffffff1a",
+  "--_spacing-sizing---spacing--gaps--xsmall": ".5rem",
+  "--sizes--medium-xtall": "1.5rem",
+  "--_spacing-sizing---min-height--2-5rem": "2.5rem",
+  "--_primitives---color--ash": "#e2dfdc",
+  "--_spacing-sizing---spacing--card-paddings--0-2em": ".2em",
+  "--_theme---dark-button-bg<deleted|variable-7fd4e4e4-b9ed-b977-70ab-3cf7e1c7f9e3>": "#eeeae7",
+  "--sizes--base": "1rem",
+  "--_primitives---color--stone-light": "#f5f2f1",
+  "--_typography---paragraph--margin-top--paragraph-small": "1rem",
+  "--_typography---paragraph--medium": "1.25rem",
+  "--_typography---display-styles--huge": "15.25rem",
+  "--_typography---display-styles--small": "6.25rem",
+  "--_typography---landing-page-headings--large": "4.25rem",
+  "--_typography---landing-page-headings--medium": "3rem",
+  "--_typography---landing-page-headings--small": "2.5rem",
+  "--_typography---paragraph--margin-top--paragraph-large": "1rem",
+  "--_typography---paragraph--large": "1.5rem",
+  "--_typography---paragraph--margin-top--paragraph-medium": ".5rem",
+  "--_typography---paragraph--margin-top--paragraph-base": ".5rem",
+  "--_typography---landing-page-headings--xsmall": "2rem",
+  "--_typography---landing-page-headings--xxsmall": "1.75rem",
+  "--_spacer-block---spacing--medium<deleted|variable-d524ea51-266b-068b-ca50-51e8bca86b1a>": "2rem",
+  "--_spacer-block---spacing--xlarge<deleted|variable-0eeae6d7-83ec-3359-1a61-0374a9ad2b5b>": "4rem",
+  "--_spacer-block---spacing--3xlarge<deleted|variable-d43f8124-d6e1-e096-3688-1795bdbeaf61>": "6rem",
+  "--_typography---paragraph--huge": "3.75rem",
+  "--_typography---paragraph--xlarge": "2rem",
+  "--white": "white",
+  "--_primitives---units--1-75rem": "1.75rem",
+  "--_primitives---units--1-25rem": "1.25rem",
+  "--_spacing-sizing---spacing--card-paddings--0-2": "-.2em",
+  "--sizes--4xlarge": "6rem",
+  "--_typography---display-styles--regular": "4.75rem",
+  "--_spacing-sizing---radius--small": ".5rem",
+  "--_primitives---color--stone": "#eeeae7",
+  "--_theme---filter-toggle": "#1c201f1a",
+  "--_theme---button--secondary--border--default": "#9ab3eb",
+  "--_theme---button--secondary--background--default": "#9ab3eb",
+  "--_spacing-sizing---section-spacing--small": "3rem",
+  "--sizes--xlarge": "3rem",
+  "--_theme---toggle-switch--background--selected": "#eeeae7",
+  "--_theme---light-icon": "100",
+  "--_theme---dark-icon": "0",
+  "--sizes--large": "2.5rem",
+  "--_theme---secondary-button-stroke<deleted|variable-95e45cce-f697-1ecd-0ed8-4139139086ed>": "#e2dfdc",
+  "--_theme---secondary-button-background<deleted|variable-ad4365c1-972d-7fec-3733-244141632c26>": "#eeeae7",
+  "--_theme---button--ghost--border--pressed": "#2b40eb",
+  "--_theme---progress-bar--background": "#eeeae7",
+  "--_theme---button--secondary--border--hover": "#cddbfb",
+  "--_theme---button--secondary--background--hover": "#cddbfb",
+  "--_theme---button--link--border--pressed": "#06110e",
+  "--_theme---surface<deleted|variable-2019cb58-99b9-a742-2a62-e23f3684c585>": "#f5f2f1",
+  "--_theme---button--primary--background--default": "#2b40eb",
+  "--_theme---button--primary--background--hover": "#1f2da4",
+  "--_theme---button--link--border--hover": "#1f2da4",
+  "--_spacing-sizing---spacing--paddings--xlarge": "3rem",
+  "--_theme---button--link--on-action--default": "#06110e",
+  "--_theme---button--link--on-action--hover": "#1f2da4",
+  "--_theme---button--link--on-action--pressed": "#06110e",
+  "--_theme---text-colors--disabled": "#6e6e6e",
+  "--_spacing-sizing---spacing--paddings--2xlarge": "4rem",
+  "--_spacing-sizing---min-height--29-815": "29.8125rem",
+  "--_spacing-sizing---spacing--xsmall": ".5rem",
+  "--_primitives---opacity--dark-90": "#1c201fe6",
+  "--_spacing-sizing---spacing--2xsmall": ".25rem",
+  "--_theme---on-action-active<deleted|variable-8b68a9e9-4e2f-8a95-612e-e99796fbcbb6>": "#0e4943",
+  "--_spacer-block---spacing--xsmall<deleted|variable-975239c7-7b15-6848-56d5-6bbaf6c14050>": ".5rem",
+  "--_spacing-sizing---max-width--none": "0rem",
+  "--_theme---theme-switcher": "#1f2926",
+  "--_primitives---color--ellis": "#b2c59d",
+  "--_theme---dark-button-stroke<deleted|variable-52d57b7b-7029-f3d8-4415-1dc7420d414b>": "#e2dfdc",
+  "--sizes--xsmall": ".75rem",
+  "--_theme---surface-green<deleted|variable-27422d43-793f-c108-664b-4def3752d7ba>": "#b2c59d",
+  "--_spacing-sizing---spacing--xlarge": "4rem",
+  "--_spacing-sizing---spacing--card-paddings--xlarge": "4rem",
+  "--_theme---on-action-inactive<deleted|variable-01c9a1c1-721b-e4c3-1478-e6a0ffd8d608>": "#a0a29f",
+  "--black-button-stroke<deleted|variable-138ecf27-09d8-cd11-2b9c-d255c273bc86>": "#2c403c",
+  "--_theme---progress-bar--progress": "#2b40eb",
+  "--_spacing-sizing---spacing--sections--hero-height": "75vh",
+  "--_spacing-sizing---spacing--card-paddings--large": "3rem",
+  "--_spacing-sizing---spacing--sections--padding-5": "5%",
+  "--_spacing-sizing---spacing--sections--hero-padding": "20vh",
+  "--_primitives---heading": "articulat-cf,sans-serif",
+  "--_primitives---units--half-rem": ".5rem",
+  "--light--border<deleted|variable-76c47949-d515-a588-5ec0-323dcf25cb44>": "#1f1f1f66",
+  "--_font-sizes---fonts--paragrapph-small<deleted|variable-3a5c9118-a590-6903-d3b3-5787c15fb552>": ".875rem",
+  "--_primitives---color--metro": "#0e4943",
+  "--_primitives---color--metro-dark": "#1f2926",
+  "--_spacer-block---spacing--color<deleted|variable-43bd6b69-8152-f069-715b-e1ef1658abff>": "white",
+  "--_theme---click-indicatior--background-default-2": "#1c201f1a",
+  "--_theme---click-indicatior--background-default": "#0e4943",
+  "--light-grey<deleted|variable-1867ac6b-38e7-13f9-61ad-f8dd5e80c57b>": "#e9eced",
+  "--_theme---surface--scrim": "#f5f2f1e6",
+  "--_theme---theme--cards--border--default": "#eeeae7",
+  "--_theme---accordion--border--hover": "#06110e",
+  "--_theme---accordion--border--pressed": "#06110e",
+  "--_theme---table-of-content--inactive": "#343434",
+  "--_theme---button--secondary--border--disabled": "#a0a29f",
+  "--_theme---button--secondary--on-action--disabled": "#6e6e6e",
+  "--_primitives---color--glass": "#9ab3eb",
+  "--radius--radius-small": "1rem",
+  "--_theme---filter-bg": "#ffffffe6",
+  "--_theme---surface--ui-shadows": "#1c201f33",
+  "--_theme---button--ghost--background--default": "#fff0",
+  "--_theme---button--ghost--background--hover": "#fff0",
+  "--_theme---button--secondary--on-action--hover": "#06110e",
+  "--_theme---surface--ui-containers": "#fff0",
+  "--_theme---filter-chip--on-action-default": "#06110e",
+  "--_theme---filter-chip--background-hover": "#a0a29f",
+  "--_theme---filter-chip--on-action-hover": "#06110e",
+  "--_theme---filter-chip--background-selected": "#06110e",
+  "--_theme---filter-chip--on-action-selected": "#f5f2f1",
+  "--_theme---surface--background-inverse": "#06110e",
+  "--_theme---table-of-content--active": "#06110e",
+  "--_primitives---color--blue": "#2b40eb",
+  "--_theme---surface--opacity-inverse-10": "#1c201f1a",
+  "--_ui-styles---radius--small": ".5rem",
+  "--_primitives---units--125rem": ".125rem",
+  "--_primitives---units--1-125rem": "1.125rem",
+  "--_primitives---units--1-875rem": "1.875rem",
+  "--_primitives---units--3-75rem": "3.75rem",
+  "--_primitives---units--4-5rem": "4.5rem",
+  "--_primitives---units--2-25rem": "2.25rem",
+  "--_primitives---units--2-5rem": "2.5rem",
+  "--_primitives---units--4rem": "4rem",
+  "--_typography---rich-text-styles--figcaption": ".875rem",
+  "--_primitives---units--875rem": ".875rem",
+  "--_primitives---units--3rem": "3rem",
+  "--_primitives---opacity--dark-5": "#06110e0d",
+  "--_ui-styles---card-elements--outer": ".5rem",
+  "--_primitives---units--3-5rem": "3.5rem",
+  "--_spacing-sizing---container--viewport-width": "94.5rem",
+  "--_primitives---units--1-5rem": "1.5rem",
+  "--_primitives---units--8rem": "8rem",
+  "--_primitives---units--11rem": "11rem",
+  "--_primitives---units--17rem": "17rem",
+  "--_ui-styles---card-elements--inner": ".25rem",
+  "--_primitives---units--6-25rem": "6.25rem",
+  "--_primitives---units--10rem": "10rem",
+  "--_spacing-sizing---spacing--gaps--2xlarge": "6rem",
+  "--_ui-styles---radius--regular": "1rem",
+  "--_primitives---units--2rem": "2rem",
+  "--_spacing-sizing---max-width--fig-heading-container": "48rem",
+  "--_ui-styles---radius--medium": "1.5rem",
+  "--_spacing-sizing---spacing--sections--global-marrgin": "6rem",
+  "--_primitives---opacity--dark-3": "#06110e08",
+  "--_spacing-sizing---spacing--gaps--xlarge": "4rem",
+  "--_primitives---units--6rem": "6rem",
+  "--_ui-styles---radius--large": "2rem",
+  "--_spacing-sizing---spacing--sections--section-padding-horizontal": "6rem",
+  "--_typography---rich-text-styles--quote": "1.5rem",
+  "--_theme---surface--image-overlay": "#1c201fb3",
+  "--_theme---surface--page-overlay": "#1c201fe6",
+  "--radius--radius-large": "2rem",
+  "--radius--radius-medium": "1.5rem",
+  "--swatches--white-5": "#ffffff0d",
+  "--sizes--huge": "8rem",
+  "--swatches--white-10": "#ffffff1a",
+  "--sizes--3xlarge": "5rem",
+  "--swatches--white-40": "#fff6",
+  "--sizes--2xlarge": "4rem",
+  "--swatches--white-80": "#fffc",
+  "--lumos_text-style---text-transform": "none",
+  "--lumos---site--viewport-max": "90",
+  "--lumos_theme---heading-accent": "color-mix(in srgb,#c6fb50,black 20%)",
+  "--lumos---site--viewport-min": "20",
+  "--lumos_theme---selection--background": "color-mix(in srgb,#c6fb50,white 40%)",
+  "--lumos_theme---selection--text": "#1f1d1e",
+  "--lumos---focus--width": ".125rem",
+  "--lumos---focus--offset-outer": ".1875rem",
+  "--lumos---swatch--light-100": "white",
+  "--lumos---swatch--light-100-o20": "color-mix(in srgb,white/**/20%,transparent)",
+  "--lumos---swatch--light-200": "#ebebeb",
+  "--lumos---swatch--dark-800": "#2f2b2d",
+  "--lumos---swatch--dark-900-o20": "color-mix(in srgb,#1f1d1e/**/20%,transparent)",
+  "--lumos---swatch--dark-900": "#1f1d1e",
+  "--lumos---swatch--brand-100": "color-mix(in srgb,#c6fb50,white 80%)",
+  "--lumos---swatch--brand-200": "color-mix(in srgb,#c6fb50,white 60%)",
+  "--lumos---swatch--brand-400": "color-mix(in srgb,#c6fb50,white 20%)",
+  "--lumos---swatch--brand-300": "color-mix(in srgb,#c6fb50,white 40%)",
+  "--lumos---swatch--brand-500": "#c6fb50",
+  "--lumos---swatch--brand-900": "color-mix(in srgb,#c6fb50,black 80%)",
+  "--lumos---swatch--brand-800": "color-mix(in srgb,#c6fb50,black 60%)",
+  "--lumos---swatch--brand-700": "color-mix(in srgb,#c6fb50,black 40%)",
+  "--lumos---swatch--brand-600": "color-mix(in srgb,#c6fb50,black 20%)",
+  "--lumos---swatch--brand-text": "#1f1d1e",
+  "--sizes--medium-2xtall": "2rem",
+  "--swatches--dark-2": "#1f1f1f05",
+  "--lumos---swatch--brand-text-o20": "color-mix(in srgb,#1f1d1e/**/20%,transparent)",
+  "--lumos_theme---button-primary--background": "#c6fb50",
+  "--lumos_theme---button-primary--border": "#c6fb50",
+  "--sizes--medium": "1.125rem",
+  "--swatches--dark-40": "#1f1f1f66",
+  "--lumos_theme---button-primary--text": "#1f1d1e",
+  "--lumos_theme---button-primary--background-hover": "#1f1d1e",
+  "--lumos_theme---button-primary--border-hover": "#1f1d1e",
+  "--lumos_theme---button-primary--text-hover": "#ebebeb",
+  "--lumos_theme---button-secondary--background": "transparent",
+  "--lumos_theme---button-secondary--border": "color-mix(in srgb,#1f1d1e/**/20%,transparent)",
+  "--lumos_theme---button-secondary--text": "#1f1d1e",
+  "--lumos_theme---button-secondary--background-hover": "#1f1d1e",
+  "--lumos_theme---button-secondary--border-hover": "#1f1d1e",
+  "--lumos_theme---button-secondary--text-hover": "#ebebeb",
+  "--lumos_theme---nav--background": "white",
+  "--lumos---nav--max-width-outer": "calc(90*1rem)",
+  "--lumos---nav--max-width-inner": "calc(90*1rem)",
+  "--lumos---nav--height": "4rem",
+  "--lumos---nav--banner-height": "2.4rem",
+  "--lumos---nav--height-total": "calc(4rem + clamp(1*1rem,((1 - ((3 - 1)/(90 - 20)*20))*1rem + ((3 - 1)/(90 - 20))*100vw),3*1rem))",
+  "--lumos---nav--spacing-outer-vertical": "clamp(1*1rem,((1 - ((3 - 1)/(90 - 20)*20))*1rem + ((3 - 1)/(90 - 20))*100vw),3*1rem)",
+  "--lumos---nav--spacing-outer-horizontal": "clamp(1*1rem,((1 - ((3 - 1)/(90 - 20)*20))*1rem + ((3 - 1)/(90 - 20))*100vw),3*1rem)",
+  "--lumos---nav--spacing-inner-horizontal": "clamp(1.75*1rem,((1.75 - ((2 - 1.75)/(90 - 20)*20))*1rem + ((2 - 1.75)/(90 - 20))*100vw),2*1rem)",
+  "--lumos---nav--radius": ".5rem",
+  "--lumos---nav--hamburger-thickness": ".094rem",
+  "--lumos---nav--hamburger-gap": "clamp(.625*1rem,((.625 - ((.75 - .625)/(90 - 20)*20))*1rem + ((.75 - .625)/(90 - 20))*100vw),.75*1rem)",
+  "--lumos_typography---font--primary-family": "system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen,Ubuntu,Cantarell,\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+  "--lumos_typography---font--primary-trim-top": ".33em",
+  "--lumos_typography---font--primary-trim-bottom": ".38em",
+  "--lumos_typography---font--primary-medium": "500",
+  "--lumos_typography---letter-spacing--tight": "-.03em",
+  "--lumos_typography---letter-spacing--normal": "0em",
+  "--lumos_typography---line-height--medium": "1.1",
+  "--_theme---error": "#ff8870",
+  "--lumos_typography---font-size--text-main": "clamp(1*1rem,((1 - ((1.125 - 1)/(90 - 20)*20))*1rem + ((1.125 - 1)/(90 - 20))*100vw),1.125*1rem)",
+  "--lumos_typography---font-size--h6": "clamp(1*1rem,((1 - ((1.125 - 1)/(90 - 20)*20))*1rem + ((1.125 - 1)/(90 - 20))*100vw),1.125*1rem)",
+  "--lumos_typography---font-size--h5": "clamp(1.375*1rem,((1.375 - ((1.5 - 1.375)/(90 - 20)*20))*1rem + ((1.5 - 1.375)/(90 - 20))*100vw),1.5*1rem)",
+  "--lumos_typography---font-size--h4": "clamp(1.75*1rem,((1.75 - ((2 - 1.75)/(90 - 20)*20))*1rem + ((2 - 1.75)/(90 - 20))*100vw),2*1rem)",
+  "--lumos_typography---font-size--h3": "clamp(2.25*1rem,((2.25 - ((3 - 2.25)/(90 - 20)*20))*1rem + ((3 - 2.25)/(90 - 20))*100vw),3*1rem)",
+  "--lumos_typography---font-size--h2": "clamp(2.5*1rem,((2.5 - ((4 - 2.5)/(90 - 20)*20))*1rem + ((4 - 2.5)/(90 - 20))*100vw),4*1rem)",
+  "--lumos_typography---font-size--h1": "clamp(3*1rem,((3 - ((5 - 3)/(90 - 20)*20))*1rem + ((5 - 3)/(90 - 20))*100vw),5*1rem)",
+  "--lumos_typography---font-size--display": "clamp(4*1rem,((4 - ((7 - 4)/(90 - 20)*20))*1rem + ((7 - 4)/(90 - 20))*100vw),7*1rem)",
+  "--_theme---image-overlay": "#1c201fb3",
+  "--_theme---filter-box-shadow": "#1c201f33",
+  "--_theme---form--border-hover": "#2b40eb",
+  "--_theme---click-indicator--label-default": "#343434",
+  "--_theme---click-indicator--label-selected": "#343434",
+  "--_theme---click-indicator--background-default": "#0e4943",
+  "--_theme---click-indicator--background-selected": "#0e4943",
+  "--_theme---click-indicator--border-default": "#0e4943",
+  "--_theme---click-indicator--border-selected": "#0e4943",
+  "--_theme---multi-select-chip--on-action-default": "#06110e",
+  "--_theme---multi-select-chip--on-action-hover": "#06110e",
+  "--_theme---multi-select-chip--on-action-selected": "#f5f2f1",
+  "--_theme---multi-select-chip--background-default": "#1c201f1a",
+  "--_theme---multi-select-chip--background-hover": "#a0a29f",
+  "--_theme---multi-select-chip--background-selected": "#06110e",
+  "--_theme---pagination--background--default": "#fff0",
+  "--_theme---pagination--background--hover": "#eeeae7",
+  "--_theme---pagination--background--selected": "#a0a29f",
+  "--_theme---pagination--on-action--default": "#06110e",
+  "--_theme---pagination--on-action--hover": "#06110e",
+  "--_theme---pagination--on-action--selected": "#06110e",
+  "--_theme---toggle-switch--background--default": "#eeeae7",
+  "--_theme---toggle-switch--background--hover": "#e2dfdc",
+  "--_theme---toggle-switch--on-action--default": "#6e6e6e",
+  "--_theme---toggle-switch--on-action--hover": "#6e6e6e",
+  "--_theme---toggle-switch--on-action--selected": "#06110e",
+  "--_theme---tabs--background--default": "#fff0",
+  "--_theme---tabs--background--hover": "#cddbfb",
+  "--_theme---tabs--background--selected": "#9ab3eb",
+  "--_theme---tab--on-action--background": "white",
+  "--_theme---tab--on-action--default": "#343434",
+  "--_theme---tab--on-action--hover": "#343434",
+  "--_theme---tab--on-action--selected": "#343434",
+  "--_theme---cursor--on-action": "#06110e",
+  "--_theme---cursor--background": "#fffc",
+  "--_theme---utility--error": "#923405",
+  "--_theme---utility--success": "#225328",
+  "--_theme---theme--cards--border--hover": "#a0a29f",
+  "--_theme---theme--cards--border--pressed": "#eeeae7",
+  "--_theme---theme--cards--background--hover": "#eeeae7",
+  "--_theme---theme--cards--background--pressed": "#eeeae7",
+  "--_theme---theme--cards--on-action--default": "#06110e",
+  "--_theme---theme--cards--on-action--hover": "#1f2da4",
+  "--_theme---theme--cards--on-action--pressed": "#06110e",
+  "--_theme---theme--cards--onaction-default": "white",
+  "--_theme---table-of-content--hover": "#1f2da4",
+  "--_theme---button--link--border--default": "#fff0",
+  "--_theme---button--link--border--disabled": "#6e6e6e",
+  "--_theme---button--link--on-action--disabled": "#6e6e6e",
+  "--_theme---button--ghost--border--default": "#f5f2f100",
+  "--_theme---button--ghost--border--hover": "#f5f2f100",
+  "--_theme---button--ghost--border--disabled": "#6e6e6e",
+  "--_theme---button--ghost--background--pressed": "#fff0",
+  "--_theme---button--ghost--background--disabled": "#fff0",
+  "--_theme---button--ghost--on-action--pressed": "#f5f2f1",
+  "--_theme---button--ghost--on-action--disabled": "#6e6e6e",
+  "--_theme---button--secondary--border--pressed": "#9ab3eb",
+  "--_theme---button--secondary--background--pressed": "#9ab3eb",
+  "--_theme---button--secondary--background--disabled": "#a0a29f",
+  "--_theme---button--secondary--on-action--pressed": "#06110e",
+  "--_theme---button--primary--border--default": "#2b40eb",
+  "--_theme---button--primary--border--hover": "#1f2da4",
+  "--_theme---button--primary--border--pressed": "#2b40eb",
+  "--_theme---button--primary--border--disabled": "#a0a29f",
+  "--_theme---button--primary--background--pressed": "#2b40eb",
+  "--_theme---button--primary--background--disabled": "#a0a29f",
+  "--_theme---buttons--primary--on-action--pressed": "#f5f2f1",
+  "--_theme---buttons--primary--on-action--disabled": "#f5f2f1",
+  "--_theme---click-indicatior--label-default": "#1f2926",
+  "--_theme---click-indicatior--label-hover": "#0e4943",
+  "--_theme---click-indicatior--label-selected": "#1f2926",
+  "--_theme---click-indicatior--background-hover": "#0e4943",
+  "--_theme---click-indicatior--background-hover-2": "#1f1f1f66",
+  "--_theme---click-indicatior--background-selected": "#343434",
+  "--_theme---click-indicatior--background-selected-2": "#1f1f1f05",
+  "--_theme---click-indicatior--border-hover": "#0e4943",
+  "--_theme---click-indicatior--border-selected": "#a0a29f",
+  "--_theme---accordion--on-action--hover": "#06110e",
+  "--_theme---accordion--on-action--disabled": "#6e6e6e",
+  "--lumos_typography---text-transform--none": "none",
+  "--lumos_typography---text-transform--uppercase": "uppercase",
+  "--lumos_typography---text-transform--capitalize": "capitalize",
+  "--lumos_typography---text-transform--lowercase": "lowercase",
+  "--_primitives---units--5vw": "5vw",
+  "--_primitives---units--10vw": "10vw",
+  "--_primitives---units--80rem": "80rem",
+  "--_primitives---units--100": "100%",
+  "--_primitives---units--0rem": "0rem",
+  "--_primitives---units--50": "50%",
+  "--_primitives---units--75vh": "75vh",
+  "--_primitives---units--5": "5%",
+  "--_primitives---units--0-2em": ".2em",
+  "--_primitives---units--0-2": "-.2em",
+  "--_primitives---units--20vh": "20vh",
+  "--_primitives---units--29-8125rem": "29.8125rem",
+  "--_primitives---units--15vw": "15vw",
+  "--_spacing-sizing---container--30vw": "30vw",
+  "--_primitives---units--30vw": "30vw",
+  "--_primitives---units--23rem": "23rem",
+  "--_spacing-sizing---spacing--gaps--23rem": "23rem",
+  "--_primitives---color--lox": "#ff8870",
+  "--_primitives---color--neon": "#ff4b19",
+  "--_primitives---color--cherry": "#a91e02",
+  "--_primitives---color--frost": "#cddbfb",
+  "--_primitives---color--deep-blue": "#1f2da4",
+  "--_primitives---color--chartreuse": "#cbc308",
+  "--_primitives---color--lamp": "#ffcd72",
+  "--_primitives---color--taxi": "#ffad01",
+  "--_primitives---color--metro-light": "#a9aeac",
+  "--_primitives---color--dim": "#343434",
+  "--_primitives---color--dark": "#1c201f",
+  "--_primitives---units--25rem": ".25rem",
+  "--_primitives---units--5rem": "5rem",
+  "--_spacing-sizing---spacing--offset--medium": "2rem",
+  "--_primitives---color--limbo": "#0d1613",
+  "--_primitives---color--copper": "#923405",
+  "--_primitives---color--peach": "#ff714a",
+  "--_primitives---color--sunlight": "#ffd479",
+  "--_primitives---color--grass": "#225328",
+  "--_primitives---color--apple": "#5eae67",
+  "--_primitives---color--concrete": "#6e6e6e",
+  "--_primitives---color--ochre": "#6f4b00",
+  "--_primitives---units--4-75rem": "4.75rem",
+  "--_primitives---units--7rem": "7rem",
+  "--_typography---display-styles--xlarge": "6rem",
+  "--_primitives---opacity--light-0": "#f5f2f100",
+  "--_primitives---opacity--light-5": "#f5f2f11a",
+  "--_primitives---opacity--light-10": "#ffffff1a",
+  "--_primitives---opacity--light-20": "#f5f2f133",
+  "--_primitives---opacity--light-70": "#f5f2f1b3",
+  "--_primitives---opacity--light-90": "#f5f2f1e6",
+  "--_primitives---opacity--dark-10": "#1c201f1a",
+  "--_primitives---opacity--dark-20": "#1c201f33",
+  "--_primitives---opacity--dark-70": "#1c201fb3",
+  "--_typography---rich-text-styles--heading-1": "3.75rem",
+  "--_typography---rich-text-styles--body": "1.25rem",
+  "--_typography---paragraph--2xlarge": "2.5rem",
+  "--_typography---font-weight--demi-bold": "100",
+  "--_typography---font-weight--medium": "500",
+  "--_primitives---units--24-5rem": "24.5rem",
+  "--_primitives---units--9-25rem": "9.25rem",
+  "--_primitives---units--5-25rem": "5.25rem",
+  "--_primitives---units--15-25rem": "15.25rem",
+  "--_primitives---units--7-5rem": "7.5rem",
+  "--_primitives---units--4-25rem": "4.25rem",
+  "--_primitives---units--175rem": "1.75rem",
+  "--_theme---accordion--border--color": "white",
+  "--_spacing-sizing---max-width--fig-2-col": "26.8331rem",
+  "--_spacing-sizing---max-width--fig-3-col": "40.75rem",
+  "--_spacing-sizing---spacing--huge": "8rem",
+  "--_spacing-sizing---spacing--3xlarge": "6rem",
+  "--_spacing-sizing---spacing--2xlarge": "4rem",
+  "--_spacing-sizing---spacing--card-padding": "3rem"
+ },
+ "cursor": {
+  "cursor": {
+   "cls": "fig-cursor",
+   "html": "<div class=\"fig-cursor\" style=\"translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(390px, 368px, 0px);\"><img src=\"https://cdn.prod.website-files.com/6564d0925f70cdc7742f6a08/6a7a20e2c1da14d5a4298973_greater-figma-cursor.png\" alt=\"\" draggable=\"false\"></div>",
+   "style": {
+    "position": "absolute",
+    "width": "152px",
+    "height": "45px",
+    "pointer-events": "none",
+    "transform": "matrix(1, 0, 0, 1, 390, 368)",
+    "mix-blend-mode": "normal",
+    "z-index": "30"
+   }
+  },
+  "box": {
+   "html": "<div class=\"fig-box\" style=\"translate: none; rotate: none; scale: none; opacity: 1; height: 81px; width: 241px; transform: translate(411.938px, 309px);\"></div>",
+   "style": {
+    "position": "absolute",
+    "width": "241px",
+    "height": "81px",
+    "transform": "matrix(1, 0, 0, 1, 411.938, 309)",
+    "z-index": "29"
+   }
+  }
+ },
+ "scrollThumb": {
+  "html": "<div class=\"scroll-thumb\" aria-hidden=\"true\" style=\"height: 127.541px; transform: translateY(8px);\"></div>",
+  "style": {
+   "position": "fixed",
+   "right": "4px",
+   "top": "0px",
+   "width": "5px",
+   "height": "127.531px",
+   "background-color": "rgba(255, 255, 255, 0.28)",
+   "border-radius": "999px",
+   "opacity": "0"
+  }
+ }
+}

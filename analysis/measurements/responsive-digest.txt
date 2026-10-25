@@ -1,0 +1,231 @@
+﻿=== 1024 doc 6523
+NAV ["|51,47 141x45|articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r0px","RESEARCH|559,51 74x38|Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(6, 17, 14)|bg rgba(255, 255, 255, 0) pad 0px 0px r3.78356px","WORK|663,51 37x38|Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(6, 17, 14)|bg rgba(255, 255, 255, 0) pad 0px 0px r3.78356px","B&A|731,51 28x38|Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(6, 17, 14)|bg rgba(255, 255, 255, 0) pad 0px 0px r3.78356px","CONTACT|777,51 112x38|Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(245, 242, 241)|bg rgb(43, 64, 235) pad 0px 22.7014px r3.78356px","|893,51 38x38|articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0)|bg rgb(238, 234, 231) pad 9.4589px 9.4589px r3.78356px","|935,51 38x38|articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r3.78356px"]
+-- hero {"x":0,"y":136,"w":1024,"h":568} 0px 0px 0px 0px
+  H H1 "Your search for a design partner ends he" 159,197 707x159 :: Perfectlynineties 79.4547px/79.4547px w400 lsnormal none rgb(6, 17, 14)
+  P "Greater builds the brand and experience " 99,371 827x102 :: articulat-cf 22.7014px/34.052px w400 lsnormal none rgb(6, 17, 14)
+  P "WEBFLOW ENTERPRISE PARTNER" 156,540 192x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)
+  P "DRIBBBLE SELECT AGENCY" 393,540 163x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)
+  L A "" 822,317 32x36 :: Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(31, 45, 164) bg rgba(255, 255, 255, 0) r3.78356px
+  L A "" 767,316 34x42 :: Perfectlynineties 15.1342px/15.1342px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  M IMG.frankie_pulse_image 770,308 26x36 fit fill r0px 172,232  70cdc7742f6a08/6a68ece0d8ee2516f1597dcc_frankie-location.png
+  M IMG.icon-image-img w-variant-e995986c-1d77-a 125,538 23x23 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a4fb2c2e82a3be9ff85efc2_webflow.svg
+  M IMG.icon-image-img w-variant-e995986c-1d77-a 363,538 23x23 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a330b89a9c2356eab75a3e7_driblle.png
+  M IMG.icon-image-img w-variant-e995986c-1d77-a 571,538 23x23 fit cover r0px 65,64  6564d0925f70cdc7742f6a08/6a2996723c87c3085623bc82_image.avif
+-- u-section padding-global {"x":0,"y":704,"w":1024,"h":754} 0px 51.2px 0px 51.2px
+  H H2 "Katie and Meghan on their favorite meeti" 97,874 231x188 :: articulat-cf 30.2685px/30.2685px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "+114.2%" 343,968 115x36 :: articulat-cf 30.2685px/30.2685px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "Yemi on the ninjas who got him into Tech" 565,874 231x188 :: articulat-cf 30.2685px/30.2685px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "497%" 812,968 115x36 :: articulat-cf 30.2685px/30.2685px w700 lsnormal none rgb(245, 242, 241)
+  P "$800M+" 51,1157 206x63 :: articulat-cf 52.9698px/61.445px w400 lsnormal none rgb(6, 17, 14)
+  P "raised by our client partners" 287,1163 217x57 :: articulat-cf 18.9178px/28.3767px w400 lsnormal none rgb(6, 17, 14)
+  P "10+" 520,1157 85x63 :: articulat-cf 52.9698px/61.445px w400 lsnormal none rgb(6, 17, 14)
+  L A "ACTIVE | SINCE 2020 Katie and " 51,704 453x362 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r7.56712px
+  L A "ACQUIRED | 4 YEAR PARTNERSHIP " 520,704 453x362 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r7.56712px
+  M IMG.image-100 absolute square-3 51,704 453x373 fit cover r0px 1024,768  f912d7006cf33b5_Archtober%2520Festival%25204-min-p-1080.webp
+  M IMG.logo-partnership text-reveal 97,825 98x49 fit fill r0px 500,250  _Greater%20-%20Partner%20Logo%20-%20Archtober%20(white).avif
+  M IMG.image-100 absolute square-3 520,704 453x373 fit cover r0px 1024,1076  -%20ofcolor-%20testimonial%20-%20thumbnail%20(3)-p-1080.avif
+  M IMG.logo-partnership text-reveal 565,825 98x49 fit fill r0px 500,250  1f_Greater%20-%20Partner%20Logo%20-%20OfColor%20(light).avif
+-- u-section padding-global {"x":0,"y":1459,"w":1024,"h":427} 0px 51.2px 0px 51.2px
+  H H2 "World moving too fast? Uncertain of next" 51,1556 559x206 :: Perfectlynineties 64.3205px/64.3205px w400 lsnormal none rgb(6, 17, 14)
+  P "Ideas and research from our team so you " 51,1764 559x102 :: articulat-cf 22.7014px/34.052px w400 lsnormal none rgb(6, 17, 14)
+-- u-section padding-global {"x":0,"y":1886,"w":1024,"h":1285} 0px 51.2px 0px 51.2px
+  H H2 "The secrets behind Google’s AI Optimizat" 51,2303 438x66 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(6, 17, 14)
+  H H2 "Top questions you should ask before hiri" 520,2303 438x66 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(6, 17, 14)
+  H H2 "Greater named in two of Dribbble's 2026 " 51,2889 438x66 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(6, 17, 14)
+  P "ARTICLE" 60,2269 52x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)
+  P "SEPTEMBER 2, 2026" 128,2269 126x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)
+  P "SANDRA CHAVEZ-FERNANDEZ MORALES" 81,2391 229x19 :: Spacemono 11.3507px/18.6151px w400 ls0.454027px uppercase rgb(6, 17, 14)
+  L A "" 51,1947 453x495 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  L A "" 520,1947 453x540 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  L A "" 51,2532 453x495 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  L A "VIEW MORE +" 437,3072 149x38 :: Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r3.78356px
+  M IMG.image-100 51,1947 453x302 fit cover r0px 1800,1200  %20behind%20Google%27s%20AI%20optimization%20guide%20(1).jpg
+  M IMG.image-100 51,2388 23x23 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp
+  M IMG.image-100 520,1947 453x302 fit cover r0px 1800,1200  ae/6a7f24a7185464a2838861c8_Thumbnail_%20Top%20Questions.jpg
+  M IMG.image-100 520,2434 23x23 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp
+-- u-section padding-global {"x":0,"y":3171,"w":1024,"h":956} 0px 51.2px 0px 51.2px
+  H H2 "Strategic design partnership that evolve" 51,3268 559x206 :: Perfectlynineties 64.3205px/64.3205px w400 lsnormal none rgb(6, 17, 14)
+  H H2 "MVB" 81,4003 178x38 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "Brand Transformation" 397,3970 186x71 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "Embedded Brand Team" 712,3970 178x71 :: articulat-cf 26.4849px/33.1061px w700 lsnormal none rgb(245, 242, 241)
+  P "Specialized creative services to help yo" 51,3612 559x136 :: articulat-cf 22.7014px/34.052px w400 lsnormal none rgb(6, 17, 14)
+  M IMG.image-100 absolute 51,3666 291x400 fit cover r0px 636,848  m/65676a33b1e990dd47caebae/6a0f438b197c74a8df577471_MVB.webp
+  M IMG.plus-con 284,4007 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg
+  M IMG.image-100 absolute 367,3666 291x400 fit cover r0px 636,848  7caebae/6a39678f60766fd43cecdd41_Brand%20transformation.webp
+  M IMG.plus-con 608,4007 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg
+-- u-section padding-global {"x":0,"y":4127,"w":1024,"h":615} 0px 51.2px 0px 51.2px
+  P "BLAKE" 314,4691 41x16 :: Spacemono 13.2425px/15.8909px w400 lsnormal uppercase rgb(6, 17, 14)
+  P "," 354,4691 8x16 :: Spacemono 13.2425px/15.8909px w400 lsnormal uppercase rgb(6, 17, 14)
+  P "CO-FOUNDER, CHIEF PRODUCT & DESIGN OFFIC" 314,4711 340x16 :: Spacemono 13.2425px/15.8909px w400 lsnormal uppercase rgb(6, 17, 14)
+  L BUTTON "" 890,4232 38x38 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(110, 110, 110) bg rgb(160, 162, 159) r3.78356px
+  L BUTTON "" 935,4232 38x38 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgb(154, 179, 235) r3.78356px
+  M IMG.img-100 cover grayscale 51,4316 247x247 fit cover r0px 1024,1024  65676a33b1e990dd47caebae/6ab2f912240280b3a66d4d4c_blake.jpeg
+  M IMG.image-100--contain 66,4480 136x68 fit cover r0px 1024,575  ae/6a2ddf2d3ef2abcf5d971b58_BoomPop_logo_colored-p-1080.webp
+  M IMG.img-100 cover grayscale 51,4316 247x247 fit cover r0px 1024,1024  /65676a33b1e990dd47caebae/6ab2f92f5c174fdf9d033295_allie.png
+  M IMG.image-100--contain 66,4480 136x68 fit cover r0px 1024,575  dd47caebae/6ab3023f3fefcff4ee23ff5f_Atomiq%20logo-p-1080.jpg
+-- u-section padding-global {"x":0,"y":4742,"w":1024,"h":919} 0px 51.2px 0px 51.2px
+  H H2 "Rise above into forever." 51,4802 922x272 :: Perfectlynineties 136.208px/122.587px w400 lsnormal none rgb(6, 17, 14)
+  H H2 "Let's talk about your next project." 165,5426 694x45 :: articulat-cf 45.4027px/45.4027px w700 lsnormal none rgb(6, 17, 14)
+  L A "CONTACT US" 442,5502 140x38 :: Spacemono 15.1342px/15.1342px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r3.78356px
+  M CANVAS.ring3d-canvas 61,5036 903x451 fit fill r0px   
+-- u-section section footer {"x":0,"y":5660,"w":1024,"h":863} 0px 0px 0px 0px
+  L A "" 51,5881 106x106 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  L A "" 172,5881 106x106 :: articulat-cf 15.1342px/22.7014px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  L A "BEFORE & AFTER" 495,5758 136x20 :: Spacemono 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px
+  L A "PARTNERSHIP" 495,5793 136x20 :: Spacemono 15.1342px/22.7014px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px
+  M IMG.badges 51,5881 106x106 fit cover r0px   4f_e83c3a14cb3f4999ff18f6790a397e86_Webflow%20Enterprise.png
+  M IMG.badges 172,5881 106x106 fit cover r0px   ae9de76dd4b67d0dc329cded9e0c_Top%20Branding%20Agency%202.png
+  M svg. 0,6279 1024x215 fit fill r0px   
+  M IMG.custom-cursor 0,0 67x45 fit fill r0px 67,45  7742f6a08/6a6905193bf594a183ff871b_Cursor%20Design%20(1).svg
+=== 768 doc 7580
+NAV ["|38,46 136x43|articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r0px","|653,49 37x37|articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(0, 0, 0)|bg rgb(238, 234, 231) pad 9.12591px 9.12591px r3.65036px","|693,49 37x37|articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r3.65036px"]
+-- hero {"x":0,"y":131,"w":768,"h":558} 0px 0px 0px 0px
+  H H1 "Your search for a design partner ends he" 38,190 691x153 :: Perfectlynineties 76.6576px/76.6576px w400 lsnormal none rgb(6, 17, 14)
+  P "Greater builds the brand and experience " 38,358 691x99 :: articulat-cf 21.9022px/32.8533px w400 lsnormal none rgb(6, 17, 14)
+  P "WEBFLOW ENTERPRISE PARTNER" 66,515 171x36 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)
+  P "DRIBBBLE SELECT AGENCY" 278,515 144x36 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)
+  L A "" 683,306 31x35 :: Spacemono 14.6015px/14.6015px w400 lsnormal uppercase rgb(31, 45, 164) bg rgba(255, 255, 255, 0) r3.65036px
+  L A "" 630,305 33x41 :: Perfectlynineties 14.6015px/14.6015px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  M IMG.frankie_pulse_image 633,297 26x34 fit fill r0px 172,232  70cdc7742f6a08/6a68ece0d8ee2516f1597dcc_frankie-location.png
+  M IMG.icon-image-img w-variant-e995986c-1d77-a 38,522 20x22 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a4fb2c2e82a3be9ff85efc2_webflow.svg
+  M IMG.icon-image-img w-variant-e995986c-1d77-a 251,522 20x22 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a330b89a9c2356eab75a3e7_driblle.png
+  M IMG.icon-image-img w-variant-e995986c-1d77-a 437,522 20x22 fit cover r0px 65,64  6564d0925f70cdc7742f6a08/6a2996723c87c3085623bc82_image.avif
+-- u-section padding-global {"x":0,"y":689,"w":768,"h":1998} 0px 38.4px 0px 38.4px
+  H H2 "Katie and Meghan on their favorite meeti" 82,1249 392x88 :: articulat-cf 29.2029px/29.2029px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "+114.2%" 490,1272 196x29 :: articulat-cf 29.2029px/29.2029px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "Yemi on the ninjas who got him into Tech" 82,1956 392x88 :: articulat-cf 29.2029px/29.2029px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "497%" 490,1980 196x29 :: articulat-cf 29.2029px/29.2029px w700 lsnormal none rgb(245, 242, 241)
+  P "$800M+" 38,2175 324x61 :: articulat-cf 51.1051px/59.2819px w400 lsnormal none rgb(6, 17, 14)
+  P "raised by our client partners" 391,2202 222x27 :: articulat-cf 18.2518px/27.3777px w400 lsnormal none rgb(6, 17, 14)
+  P "10+" 38,2296 324x61 :: articulat-cf 51.1051px/59.2819px w400 lsnormal none rgb(6, 17, 14)
+  L A "ACTIVE | SINCE 2020 Katie and " 38,689 691x691 :: articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r7.30073px
+  L A "ACQUIRED | 4 YEAR PARTNERSHIP " 38,1396 691x691 :: articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r7.30073px
+  M IMG.image-100 absolute square-3 38,689 691x712 fit cover r0px 768,576  1f912d7006cf33b5_Archtober%2520Festival%25204-min-p-800.webp
+  M IMG.logo-partnership text-reveal 82,1202 95x47 fit fill r0px 500,250  _Greater%20-%20Partner%20Logo%20-%20Archtober%20(white).avif
+  M IMG.image-100 absolute square-3 38,1396 691x712 fit cover r0px 768,807  0-%20ofcolor-%20testimonial%20-%20thumbnail%20(3)-p-800.avif
+  M IMG.logo-partnership text-reveal 82,1909 95x47 fit fill r0px 500,250  1f_Greater%20-%20Partner%20Logo%20-%20OfColor%20(light).avif
+-- u-section padding-global {"x":0,"y":2687,"w":768,"h":422} 0px 38.4px 0px 38.4px
+  H H2 "World moving too fast? Uncertain of next" 38,2781 691x124 :: Perfectlynineties 62.0562px/62.0562px w400 lsnormal none rgb(6, 17, 14)
+  P "Ideas and research from our team so you " 38,2920 691x66 :: articulat-cf 21.9022px/32.8533px w400 lsnormal none rgb(6, 17, 14)
+-- u-section padding-global {"x":0,"y":3109,"w":768,"h":1171} 0px 38.4px 0px 38.4px
+  H H2 "The secrets behind Google’s AI Optimizat" 38,3445 324x96 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(6, 17, 14)
+  H H2 "Top questions you should ask before hiri" 391,3445 324x96 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(6, 17, 14)
+  H H2 "Greater named in two of Dribbble's 2026 " 38,3976 324x96 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(6, 17, 14)
+  P "ARTICLE" 47,3412 50x18 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)
+  P "SEPTEMBER 2, 2026" 112,3412 121x18 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)
+  P "SANDRA CHAVEZ-FERNANDEZ MORALES" 68,3561 221x18 :: Spacemono 10.9511px/17.9598px w400 ls0.438044px uppercase rgb(6, 17, 14)
+  L A "" 38,3167 338x443 :: articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  L A "" 391,3167 338x487 :: articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  L A "" 38,3698 338x443 :: articulat-cf 14.6015px/21.9022px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  L A "VIEW MORE +" 312,4185 144x37 :: Spacemono 14.6015px/14.6015px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r3.65036px
+  M IMG.image-100 38,3167 338x226 fit cover r0px 1800,1200  %20behind%20Google%27s%20AI%20optimization%20guide%20(1).jpg
+  M IMG.image-100 38,3559 22x22 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp
+  M IMG.image-100 391,3167 338x226 fit cover r0px 1800,1200  ae/6a7f24a7185464a2838861c8_Thumbnail_%20Top%20Questions.jpg
+  M IMG.image-100 391,3603 22x22 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp
+-- u-section padding-global {"x":0,"y":4280,"w":768,"h":748} 0px 38.4px 0px 38.4px
+  H H2 "Strategic design partnership that evolve" 38,4374 691x124 :: Perfectlynineties 62.0562px/62.0562px w400 lsnormal none rgb(6, 17, 14)
+  H H2 "MVB" 68,4909 105x32 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "Brand Transformation" 306,4877 156x64 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "Embedded Brand Team" 544,4845 127x96 :: articulat-cf 25.5525px/31.9407px w700 lsnormal none rgb(245, 242, 241)
+  P "Specialized creative services to help yo" 38,4513 691x99 :: articulat-cf 21.9022px/32.8533px w400 lsnormal none rgb(6, 17, 14)
+  M IMG.image-100 absolute 38,4676 214x294 fit cover r0px 636,848  m/65676a33b1e990dd47caebae/6a0f438b197c74a8df577471_MVB.webp
+  M IMG.plus-con 196,4913 18x18 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg
+  M IMG.image-100 absolute 277,4676 214x294 fit cover r0px 636,848  7caebae/6a39678f60766fd43cecdd41_Brand%20transformation.webp
+  M IMG.plus-con 486,4913 18x18 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg
+-- u-section padding-global {"x":0,"y":5028,"w":768,"h":685} 0px 38.4px 0px 38.4px
+  P "BLAKE" 38,5369 39x15 :: Spacemono 12.7763px/15.3315px w400 lsnormal uppercase rgb(6, 17, 14)
+  P "," 77,5369 8x15 :: Spacemono 12.7763px/15.3315px w400 lsnormal uppercase rgb(6, 17, 14)
+  P "CO-FOUNDER, CHIEF PRODUCT & DESIGN OFFIC" 38,5387 328x15 :: Spacemono 12.7763px/15.3315px w400 lsnormal uppercase rgb(6, 17, 14)
+  M IMG.image-100--contain 38,5447 131x66 fit cover r0px 768,431  bae/6a2ddf2d3ef2abcf5d971b58_BoomPop_logo_colored-p-800.webp
+  M IMG.image-100--contain 38,5501 131x66 fit cover r0px 768,431  0dd47caebae/6ab3023f3fefcff4ee23ff5f_Atomiq%20logo-p-800.jpg
+  M IMG.image-100--contain 38,5419 131x66 fit cover r0px 768,431  e/699e4984d20fcb991b9024e2_Archtober_logo_colored-p-800.webp
+  M IMG.image-100--contain 38,5501 131x66 fit cover r0px 768,431  ae/699e478de687d05aafff4e4c_Novellia_logo_colored-p-800.webp
+-- u-section padding-global {"x":0,"y":5713,"w":768,"h":860} 0px 38.4px 0px 38.4px
+  H H2 "Rise above into forever." 38,5771 691x210 :: Perfectlynineties 116.812px/105.13px w400 lsnormal none rgb(6, 17, 14)
+  H H2 "Let's talk about your next project." 49,6347 669x44 :: articulat-cf 43.8044px/43.8044px w700 lsnormal none rgb(6, 17, 14)
+  L A "CONTACT US" 316,6420 135x37 :: Spacemono 14.6015px/14.6015px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r3.65036px
+  M CANVAS.ring3d-canvas 58,6038 651x326 fit fill r0px   
+-- u-section section footer {"x":0,"y":6573,"w":768,"h":1007} 0px 0px 0px 0px
+  L A "BEFORE & AFTER" 38,6783 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px
+  L A "PARTNERSHIP" 38,6817 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px
+  L A "ABOUT US" 274,6783 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px
+  L A "STUDIO HOURS" 274,6817 221x19 :: Spacemono 14.6015px/21.9022px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px
+  M IMG.badges 38,7258 102x102 fit cover r0px 453,453  4f_e83c3a14cb3f4999ff18f6790a397e86_Webflow%20Enterprise.png
+  M IMG.badges 155,7258 102x102 fit cover r0px 453,453  ae9de76dd4b67d0dc329cded9e0c_Top%20Branding%20Agency%202.png
+  M IMG.frankie 521,7400 131x180 fit fill r0px 105,143  a187f214686c3a56099d5ad_Frankie%20look%20up%20left-p-500.png
+  M svg. 0,7419 768x161 fit fill r0px   
+=== 390 doc 8233
+NAV ["|20,33 122x46|articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r0px","CONTACT|215,36 113x38|Spacemono 15.2552px/15.2552px w400 lsnormal uppercase rgb(245, 242, 241)|bg rgb(43, 64, 235) pad 0px 22.8828px r3.81381px","|332,36 38x38|articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(0, 0, 0)|bg rgba(0, 0, 0, 0) pad 0px 0px r3.81381px"]
+-- hero {"x":0,"y":137,"w":390,"h":730} 0px 0px 0px 0px
+  H H1 "Your search for a design partner ends he" 20,183 351x160 :: Perfectlynineties 53.3933px/53.3933px w400 lsnormal none rgb(6, 17, 14)
+  P "Greater builds the brand and experience " 20,358 351x143 :: articulat-cf 19.069px/28.6036px w400 lsnormal none rgb(6, 17, 14)
+  P "WEBFLOW ENTERPRISE PARTNER" 113,565 194x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)
+  P "DRIBBBLE SELECT AGENCY" 128,603 164x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)
+  M IMG.icon-image-img w-variant-e995986c-1d77-a 83,563 23x23 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a4fb2c2e82a3be9ff85efc2_webflow.svg
+  M IMG.icon-image-img w-variant-e995986c-1d77-a 98,601 23x23 fit cover r0px 24,24  564d0925f70cdc7742f6a08/6a330b89a9c2356eab75a3e7_driblle.png
+  M IMG.icon-image-img w-variant-e995986c-1d77-a 120,639 23x23 fit cover r0px 65,64  6564d0925f70cdc7742f6a08/6a2996723c87c3085623bc82_image.avif
+  M IMG.icon-image-img w-variant-e995986c-1d77-a 113,678 23x23 fit cover r0px 98,96  dc7742f6a08/6a299672bded9ed717b2e22b_boxed%20icon%20(1).avif
+-- u-section padding-global {"x":0,"y":867,"w":390,"h":1309} 0px 19.5px 0px 19.5px
+  H H2 "Katie and Meghan on their favorite meeti" 35,1036 321x69 :: articulat-cf 22.8828px/22.8828px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "+114.2%" 35,1128 321x23 :: articulat-cf 22.8828px/22.8828px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "Yemi on the ninjas who got him into Tech" 35,1403 321x69 :: articulat-cf 22.8828px/22.8828px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "497%" 35,1495 321x23 :: articulat-cf 22.8828px/22.8828px w700 lsnormal none rgb(245, 242, 241)
+  P "$800M+" 20,1646 336x34 :: articulat-cf 28.6036px/33.1801px w400 lsnormal none rgb(6, 17, 14)
+  P "raised by our client partners" 20,1696 232x29 :: articulat-cf 19.069px/28.6036px w400 lsnormal none rgb(6, 17, 14)
+  P "10+" 20,1771 336x34 :: articulat-cf 28.6036px/33.1801px w400 lsnormal none rgb(6, 17, 14)
+  L A "ACTIVE | SINCE 2020 Katie and " 20,867 351x351 :: articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r7.62761px
+  L A "ACQUIRED | 4 YEAR PARTNERSHIP " 20,1234 351x351 :: articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(238, 234, 231) bg rgba(0, 0, 0, 0) r7.62761px
+  M IMG.image-100 absolute square-3 20,867 351x362 fit cover r0px 390,292  1f912d7006cf33b5_Archtober%2520Festival%25204-min-p-500.webp
+  M IMG.logo-partnership text-reveal 35,987 99x50 fit fill r0px 500,250  _Greater%20-%20Partner%20Logo%20-%20Archtober%20(white).avif
+  M IMG.image-100 absolute square-3 20,1234 351x362 fit cover r0px 390,410  0-%20ofcolor-%20testimonial%20-%20thumbnail%20(3)-p-500.avif
+  M IMG.logo-partnership text-reveal 35,1354 99x50 fit fill r0px 500,250  1f_Greater%20-%20Partner%20Logo%20-%20OfColor%20(light).avif
+-- u-section padding-global {"x":0,"y":2176,"w":390,"h":532} 0px 19.5px 0px 19.5px
+  H H2 "World moving too fast? Uncertain of next" 20,2259 351x137 :: Perfectlynineties 45.7657px/45.7657px w400 lsnormal none rgb(6, 17, 14)
+  P "Ideas and research from our team so you " 20,2412 351x114 :: articulat-cf 19.069px/28.6036px w400 lsnormal none rgb(6, 17, 14)
+-- u-section padding-global {"x":0,"y":2708,"w":390,"h":1667} 0px 19.5px 0px 19.5px
+  H H2 "The secrets behind Google’s AI Optimizat" 20,3043 336x100 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(6, 17, 14)
+  H H2 "Top questions you should ask before hiri" 20,3535 336x100 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(6, 17, 14)
+  H H2 "Greater named in two of Dribbble's 2026 " 20,4073 336x100 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(6, 17, 14)
+  P "ARTICLE" 28,3008 52x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)
+  P "SEPTEMBER 2, 2026" 97,3008 127x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)
+  P "SANDRA CHAVEZ-FERNANDEZ MORALES" 50,3164 231x19 :: Spacemono 11.4414px/18.7639px w400 ls0.457657px uppercase rgb(6, 17, 14)
+  L A "" 20,2754 351x462 :: articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  L A "" 20,3246 351x507 :: articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  L A "" 20,3784 351x462 :: articulat-cf 15.2552px/22.8828px w400 lsnormal none rgb(0, 0, 0) bg rgba(0, 0, 0, 0) r0px
+  L A "VIEW MORE +" 20,4291 351x38 :: Spacemono 15.2552px/15.2552px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r3.81381px
+  M IMG.image-100 20,2754 351x234 fit cover r0px 1800,1200  %20behind%20Google%27s%20AI%20optimization%20guide%20(1).jpg
+  M IMG.image-100 20,3162 23x23 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp
+  M IMG.image-100 20,3246 351x234 fit cover r0px 1800,1200  ae/6a7f24a7185464a2838861c8_Thumbnail_%20Top%20Questions.jpg
+  M IMG.image-100 20,3700 23x23 fit cover r0px 900,900  e990dd47caebae/69cd6dc7934133029cbed872_Headshot_SF%201.webp
+-- u-section padding-global {"x":0,"y":4375,"w":390,"h":908} 0px 19.5px 0px 19.5px
+  H H2 "Strategic design partnership that evolve" 20,4458 351x137 :: Perfectlynineties 45.7657px/45.7657px w400 lsnormal none rgb(6, 17, 14)
+  H H2 "MVB" 50,5173 203x33 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "Brand Transformation" 391,5140 203x67 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)
+  H H2 "Embedded Brand Team" 732,5140 203x67 :: articulat-cf 26.6967px/33.3708px w700 lsnormal none rgb(245, 242, 241)
+  P "Specialized creative services to help yo" 20,4610 351x143 :: articulat-cf 19.069px/28.6036px w400 lsnormal none rgb(6, 17, 14)
+  M IMG.image-100 absolute 20,4802 317x435 fit cover r0px 636,848  m/65676a33b1e990dd47caebae/6a0f438b197c74a8df577471_MVB.webp
+  M IMG.plus-con 277,5178 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg
+  M IMG.image-100 absolute 360,4802 317x435 fit cover r0px 636,848  7caebae/6a39678f60766fd43cecdd41_Brand%20transformation.webp
+  M IMG.plus-con 618,5178 19x19 fit fill r0px 20,20  m/6564d0925f70cdc7742f6a08/6a51050e8d6f9cb8d75ae184_plus.svg
+-- u-section padding-global {"x":0,"y":5283,"w":390,"h":984} 0px 19.5px 0px 19.5px
+  P "BLAKE" 20,5837 41x16 :: Spacemono 13.3483px/16.018px w400 lsnormal uppercase rgb(6, 17, 14)
+  P "," 60,5837 8x16 :: Spacemono 13.3483px/16.018px w400 lsnormal uppercase rgb(6, 17, 14)
+  P "CO-FOUNDER, CHIEF PRODUCT & DESIGN OFFIC" 20,5856 267x32 :: Spacemono 13.3483px/16.018px w400 lsnormal uppercase rgb(6, 17, 14)
+  M IMG.image-100--contain 20,5934 137x69 fit cover r0px 390,219  bae/6a2ddf2d3ef2abcf5d971b58_BoomPop_logo_colored-p-500.webp
+  M IMG.image-100--contain 20,6033 137x69 fit cover r0px 390,219  0dd47caebae/6ab3023f3fefcff4ee23ff5f_Atomiq%20logo-p-500.jpg
+  M IMG.image-100--contain 20,5820 137x69 fit cover r0px 390,219  e/699e4984d20fcb991b9024e2_Archtober_logo_colored-p-500.webp
+  M IMG.image-100--contain 20,6004 137x69 fit cover r0px 390,219  ae/699e478de687d05aafff4e4c_Novellia_logo_colored-p-500.webp
+-- u-section padding-global {"x":0,"y":6267,"w":390,"h":589} 0px 19.5px 0px 19.5px
+  H H2 "Rise above into forever." 20,6313 351x124 :: Perfectlynineties 68.6485px/61.7837px w400 lsnormal none rgb(6, 17, 14)
+  H H2 "Let's talk about your next project." 20,6635 351x61 :: articulat-cf 30.5105px/30.5105px w700 lsnormal none rgb(6, 17, 14)
+  L A "CONTACT US" 20,6726 351x38 :: Spacemono 15.2552px/15.2552px w400 lsnormal uppercase rgb(245, 242, 241) bg rgb(43, 64, 235) r3.81381px
+  M CANVAS.ring3d-canvas 0,6391 390x300 fit fill r0px   
+-- u-section section footer {"x":0,"y":6856,"w":390,"h":1377} 0px 0px 0px 0px
+  L A "BEFORE & AFTER" 20,7113 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px
+  L A "PARTNERSHIP" 20,7148 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px
+  L A "ABOUT US" 20,7236 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px
+  L A "STUDIO HOURS" 20,7271 351x20 :: Spacemono 15.2552px/22.8828px w400 lsnormal none rgb(6, 17, 14) bg rgba(0, 0, 0, 0) r0px
+  M IMG.badges 20,7999 107x107 fit cover r0px 453,453  4f_e83c3a14cb3f4999ff18f6790a397e86_Webflow%20Enterprise.png
+  M IMG.badges 142,7999 107x107 fit cover r0px 453,453  ae9de76dd4b67d0dc329cded9e0c_Top%20Branding%20Agency%202.png
+  M IMG.frankie 255,8129 76x104 fit fill r0px 105,143  a187f214686c3a56099d5ad_Frankie%20look%20up%20left-p-500.png
+  M svg. 0,8151 390x82 fit fill r0px   

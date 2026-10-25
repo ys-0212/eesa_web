@@ -1,0 +1,432 @@
+{
+  "390": {
+    "full.png": {
+      "mismatchPct": 19.64,
+      "refSize": [
+        390,
+        8233
+      ],
+      "localSize": [
+        390,
+        8056
+      ]
+    },
+    "scroll-00.png": {
+      "mismatchPct": 10.55,
+      "refSize": [
+        390,
+        844
+      ],
+      "localSize": [
+        390,
+        844
+      ]
+    },
+    "scroll-01.png": {
+      "mismatchPct": 43.24,
+      "refSize": [
+        390,
+        844
+      ],
+      "localSize": [
+        390,
+        844
+      ]
+    },
+    "scroll-02.png": {
+      "mismatchPct": 5.76,
+      "refSize": [
+        390,
+        844
+      ],
+      "localSize": [
+        390,
+        844
+      ]
+    },
+    "scroll-03.png": {
+      "mismatchPct": 26.17,
+      "refSize": [
+        390,
+        844
+      ],
+      "localSize": [
+        390,
+        844
+      ]
+    },
+    "scroll-04.png": {
+      "mismatchPct": 18.55,
+      "refSize": [
+        390,
+        844
+      ],
+      "localSize": [
+        390,
+        844
+      ]
+    },
+    "scroll-05.png": {
+      "mismatchPct": 18.89,
+      "refSize": [
+        390,
+        844
+      ],
+      "localSize": [
+        390,
+        844
+      ]
+    },
+    "scroll-06.png": {
+      "mismatchPct": 15.04,
+      "refSize": [
+        390,
+        844
+      ],
+      "localSize": [
+        390,
+        844
+      ]
+    },
+    "scroll-07.png": {
+      "mismatchPct": 28.63,
+      "refSize": [
+        390,
+        844
+      ],
+      "localSize": [
+        390,
+        844
+      ]
+    },
+    "scroll-08.png": {
+      "mismatchPct": 11.19,
+      "refSize": [
+        390,
+        844
+      ],
+      "localSize": [
+        390,
+        844
+      ]
+    },
+    "scroll-09.png": {
+      "mismatchPct": 8.09,
+      "refSize": [
+        390,
+        844
+      ],
+      "localSize": [
+        390,
+        844
+      ]
+    },
+    "_meanViewportMismatchPct": 18.61
+  },
+  "768": {
+    "full.png": {
+      "mismatchPct": 19.65,
+      "refSize": [
+        768,
+        7580
+      ],
+      "localSize": [
+        768,
+        7332
+      ]
+    },
+    "scroll-00.png": {
+      "mismatchPct": 25.08,
+      "refSize": [
+        768,
+        1024
+      ],
+      "localSize": [
+        768,
+        1024
+      ]
+    },
+    "scroll-01.png": {
+      "mismatchPct": 44.78,
+      "refSize": [
+        768,
+        1024
+      ],
+      "localSize": [
+        768,
+        1024
+      ]
+    },
+    "scroll-02.png": {
+      "mismatchPct": 8.03,
+      "refSize": [
+        768,
+        1024
+      ],
+      "localSize": [
+        768,
+        1024
+      ]
+    },
+    "scroll-03.png": {
+      "mismatchPct": 26.31,
+      "refSize": [
+        768,
+        1024
+      ],
+      "localSize": [
+        768,
+        1024
+      ]
+    },
+    "scroll-04.png": {
+      "mismatchPct": 11.01,
+      "refSize": [
+        768,
+        1024
+      ],
+      "localSize": [
+        768,
+        1024
+      ]
+    },
+    "scroll-05.png": {
+      "mismatchPct": 18.17,
+      "refSize": [
+        768,
+        1024
+      ],
+      "localSize": [
+        768,
+        1024
+      ]
+    },
+    "scroll-06.png": {
+      "mismatchPct": 9.2,
+      "refSize": [
+        768,
+        1024
+      ],
+      "localSize": [
+        768,
+        1024
+      ]
+    },
+    "scroll-07.png": {
+      "mismatchPct": 9.45,
+      "refSize": [
+        768,
+        1024
+      ],
+      "localSize": [
+        768,
+        1024
+      ]
+    },
+    "_meanViewportMismatchPct": 19
+  },
+  "1024": {
+    "full.png": {
+      "mismatchPct": 19.25,
+      "refSize": [
+        1024,
+        6523
+      ],
+      "localSize": [
+        1024,
+        6299
+      ]
+    },
+    "scroll-00.png": {
+      "mismatchPct": 10.14,
+      "refSize": [
+        1024,
+        768
+      ],
+      "localSize": [
+        1024,
+        768
+      ]
+    },
+    "scroll-01.png": {
+      "mismatchPct": 20.48,
+      "refSize": [
+        1024,
+        768
+      ],
+      "localSize": [
+        1024,
+        768
+      ]
+    },
+    "scroll-02.png": {
+      "mismatchPct": 25.17,
+      "refSize": [
+        1024,
+        768
+      ],
+      "localSize": [
+        1024,
+        768
+      ]
+    },
+    "scroll-03.png": {
+      "mismatchPct": 14.11,
+      "refSize": [
+        1024,
+        768
+      ],
+      "localSize": [
+        1024,
+        768
+      ]
+    },
+    "scroll-04.png": {
+      "mismatchPct": 18.99,
+      "refSize": [
+        1024,
+        768
+      ],
+      "localSize": [
+        1024,
+        768
+      ]
+    },
+    "scroll-05.png": {
+      "mismatchPct": 21.07,
+      "refSize": [
+        1024,
+        768
+      ],
+      "localSize": [
+        1024,
+        768
+      ]
+    },
+    "scroll-06.png": {
+      "mismatchPct": 24.64,
+      "refSize": [
+        1024,
+        768
+      ],
+      "localSize": [
+        1024,
+        768
+      ]
+    },
+    "scroll-07.png": {
+      "mismatchPct": 10.4,
+      "refSize": [
+        1024,
+        768
+      ],
+      "localSize": [
+        1024,
+        768
+      ]
+    },
+    "scroll-08.png": {
+      "mismatchPct": 15.81,
+      "refSize": [
+        1024,
+        768
+      ],
+      "localSize": [
+        1024,
+        768
+      ]
+    },
+    "_meanViewportMismatchPct": 17.87
+  },
+  "1440": {
+    "full.png": {
+      "mismatchPct": 13.27,
+      "refSize": [
+        1440,
+        6238
+      ],
+      "localSize": [
+        1440,
+        6245
+      ]
+    },
+    "scroll-00.png": {
+      "mismatchPct": 11.95,
+      "refSize": [
+        1440,
+        900
+      ],
+      "localSize": [
+        1440,
+        900
+      ]
+    },
+    "scroll-01.png": {
+      "mismatchPct": 13.48,
+      "refSize": [
+        1440,
+        900
+      ],
+      "localSize": [
+        1440,
+        900
+      ]
+    },
+    "scroll-02.png": {
+      "mismatchPct": 10.92,
+      "refSize": [
+        1440,
+        900
+      ],
+      "localSize": [
+        1440,
+        900
+      ]
+    },
+    "scroll-03.png": {
+      "mismatchPct": 19.05,
+      "refSize": [
+        1440,
+        900
+      ],
+      "localSize": [
+        1440,
+        900
+      ]
+    },
+    "scroll-04.png": {
+      "mismatchPct": 12.8,
+      "refSize": [
+        1440,
+        900
+      ],
+      "localSize": [
+        1440,
+        900
+      ]
+    },
+    "scroll-05.png": {
+      "mismatchPct": 23.98,
+      "refSize": [
+        1440,
+        900
+      ],
+      "localSize": [
+        1440,
+        900
+      ]
+    },
+    "scroll-06.png": {
+      "mismatchPct": 13.92,
+      "refSize": [
+        1440,
+        900
+      ],
+      "localSize": [
+        1440,
+        900
+      ]
+    },
+    "_meanViewportMismatchPct": 15.16
+  }
+}

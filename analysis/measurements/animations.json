@@ -1,0 +1,3514 @@
+{
+  "loadFrames": [
+    {
+      "t": 0,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 150,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 300,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 450,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 600,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 750,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 900,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 1050,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 1200,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 1350,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 1500,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 1650,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 1800,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 1950,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 2100,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 2250,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 2400,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 2550,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 2700,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 2850,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    },
+    {
+      "t": 3000,
+      "h1": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "firstSplit": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      },
+      "splitCls": "line",
+      "nav": {
+        "o": "1",
+        "tf": "none",
+        "vis": "visible"
+      }
+    }
+  ],
+  "config": {
+    "gsapVersion": "3.12.2",
+    "triggerCount": 77,
+    "triggers": [
+      {
+        "trigger": "ut-type-headers xlarge",
+        "pin": null,
+        "start": -647,
+        "end": 376,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type w-variant-ca65dd64-65ce-ee35-ef57-81d9650c210e w-richtext",
+        "pin": null,
+        "start": -463,
+        "end": 505,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "eyebrow w-variant-c23cba4d-1c0c-3e7a-27bc-577944162c6f text-reveal",
+        "pin": null,
+        "start": -62,
+        "end": 825,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-8b8bf7c6-f3ec-2a28-7afa-5e0d7a5ce674 text-reveal",
+        "pin": null,
+        "start": 136,
+        "end": 1158,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 1,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-6631fd6a-dcca-04a0-9086-7fdf0b609783 text-reveal",
+        "pin": null,
+        "start": 226,
+        "end": 1119,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-9e1474bb-17ad-8d4e-e3ba-9e6c4e0fd228 text-reveal",
+        "pin": null,
+        "start": 274,
+        "end": 1154,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "eyebrow w-variant-c23cba4d-1c0c-3e7a-27bc-577944162c6f text-reveal",
+        "pin": null,
+        "start": -62,
+        "end": 825,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-8b8bf7c6-f3ec-2a28-7afa-5e0d7a5ce674 text-reveal",
+        "pin": null,
+        "start": 136,
+        "end": 1158,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 1,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-6631fd6a-dcca-04a0-9086-7fdf0b609783 text-reveal",
+        "pin": null,
+        "start": 203,
+        "end": 1097,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-9e1474bb-17ad-8d4e-e3ba-9e6c4e0fd228 text-reveal",
+        "pin": null,
+        "start": 251,
+        "end": 1154,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type w-variant-3eda3a16-b24d-def7-08d1-e62c183999af w-richtext",
+        "pin": null,
+        "start": 440,
+        "end": 1372,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type w-richtext",
+        "pin": null,
+        "start": 475,
+        "end": 1364,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type w-variant-3eda3a16-b24d-def7-08d1-e62c183999af w-richtext",
+        "pin": null,
+        "start": 440,
+        "end": 1372,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type w-richtext",
+        "pin": null,
+        "start": 475,
+        "end": 1364,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type w-variant-3eda3a16-b24d-def7-08d1-e62c183999af w-richtext",
+        "pin": null,
+        "start": 582,
+        "end": 1514,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type w-richtext",
+        "pin": null,
+        "start": 617,
+        "end": 1506,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type w-variant-3eda3a16-b24d-def7-08d1-e62c183999af w-richtext",
+        "pin": null,
+        "start": 582,
+        "end": 1514,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type w-richtext",
+        "pin": null,
+        "start": 617,
+        "end": 1506,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "eyebrow",
+        "pin": null,
+        "start": 820,
+        "end": 1701,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers",
+        "pin": null,
+        "start": 859,
+        "end": 1864,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type w-variant-ca65dd64-65ce-ee35-ef57-81d9650c210e w-richtext",
+        "pin": null,
+        "start": 1011,
+        "end": 1943,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012",
+        "pin": null,
+        "start": 1001,
+        "end": 1882,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 1475,
+        "end": 2435,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.8,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 1584,
+        "end": 2439,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 1475,
+        "end": 2435,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.8,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 1584,
+        "end": 2487,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 1475,
+        "end": 2470,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.9,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 1619,
+        "end": 2474,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "eyebrow",
+        "pin": null,
+        "start": 1920,
+        "end": 2801,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers",
+        "pin": null,
+        "start": 1959,
+        "end": 2963,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type w-variant-ca65dd64-65ce-ee35-ef57-81d9650c210e w-richtext",
+        "pin": null,
+        "start": 2111,
+        "end": 3079,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 2711,
+        "end": 3607,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 2676,
+        "end": 3607,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 2676,
+        "end": 3607,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 2711,
+        "end": 3607,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 2676,
+        "end": 3607,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 2676,
+        "end": 3607,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 2711,
+        "end": 3607,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 2676,
+        "end": 3607,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 2711,
+        "end": 3607,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 2711,
+        "end": 3607,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 2676,
+        "end": 3607,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-b5a0df96-b3ef-e726-121b-961af88de97d",
+        "pin": null,
+        "start": 2676,
+        "end": 3607,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4118,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 1.1,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3381,
+        "end": 4263,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4190,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 1.3,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3405,
+        "end": 4260,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4046,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.9,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3381,
+        "end": 4263,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4154,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 1.2,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3405,
+        "end": 4260,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4082,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 1,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3381,
+        "end": 4263,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4010,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.8,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3381,
+        "end": 4263,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4082,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 1,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3381,
+        "end": 4263,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4154,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 1.2,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3381,
+        "end": 4263,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4010,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.8,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3405,
+        "end": 4260,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4010,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.8,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3405,
+        "end": 4260,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4226,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 1.4,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3405,
+        "end": 4260,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4046,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.9,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3405,
+        "end": 4260,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph w-variant-b66ef569-d5b3-68b3-2bd5-4d44e0679519",
+        "pin": null,
+        "start": 3042,
+        "end": 4010,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.8,
+          "targets": [
+            "",
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-paragraph",
+        "pin": null,
+        "start": 3405,
+        "end": 4260,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers huge text-align-center",
+        "pin": null,
+        "start": 3485,
+        "end": 4628,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.7,
+          "targets": [
+            "",
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "ut-type-headers w-variant-821e1a86-5669-3ffd-2309-a8cb930cf316",
+        "pin": null,
+        "start": 4208,
+        "end": 5111,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012 text-color-accent",
+        "pin": null,
+        "start": 4520,
+        "end": 5401,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012 text-color-accent",
+        "pin": null,
+        "start": 4520,
+        "end": 5401,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012 text-color-accent",
+        "pin": null,
+        "start": 4520,
+        "end": 5401,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012 text-color-accent",
+        "pin": null,
+        "start": 4520,
+        "end": 5401,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012 text-color-accent",
+        "pin": null,
+        "start": 4760,
+        "end": 5641,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      },
+      {
+        "trigger": "eyebrow w-variant-289312df-1dd2-d0c4-a40b-9958ba752012 text-color-accent",
+        "pin": null,
+        "start": 4760,
+        "end": 5641,
+        "scrub": null,
+        "toggleActions": "play",
+        "startVar": "top 95%",
+        "endVar": "",
+        "anim": {
+          "duration": 0.6,
+          "targets": [
+            ""
+          ],
+          "vars": {
+            "y": "100%",
+            "duration": 0.6,
+            "ease": "power2.out",
+            "stagger": 0.1,
+            "immediateRender": true,
+            "runBackwards": 1,
+            "overwrite": false,
+            "delay": 0,
+            "lazy": false
+          }
+        }
+      }
+    ],
+    "lenis": null,
+    "mediaQueries": [
+      "screen and (max-width: 991px)",
+      "screen and (max-width: 767px)",
+      "screen and (max-width: 479px)",
+      "(min-width: 768px)",
+      "screen and (min-width: 1280px)",
+      "screen and (min-width: 1440px)",
+      "screen and (min-width: 1920px)",
+      "(min-width: 993px)",
+      "(max-width: 576px)",
+      "(max-width: 440px)",
+      "(max-width: 352px)",
+      "(max-height: 576px)",
+      "(max-height: 480px)",
+      "(min-width: 576px) and (max-height: 660px)",
+      "(max-width: 845px)",
+      "(max-width: 425px)",
+      "(max-width: 768px)",
+      "(max-width: 480px)",
+      "screen and (max-width: 1920px)",
+      "screen and (max-width: 1440px)",
+      "(prefers-reduced-motion: reduce)",
+      "(max-width: 767px)",
+      "(max-width: 991px)"
+    ],
+    "transitions": [
+      {
+        "sel": "pre.w-code-block code",
+        "transition": "inherit"
+      },
+      {
+        "sel": ".w-webflow-badge, .w-webflow-badge > img",
+        "transition": "unset"
+      },
+      {
+        "sel": ".w-slider-dot",
+        "transition": "background-color 0.1s, color 0.1s"
+      },
+      {
+        "sel": ".w-lightbox-control",
+        "transition": "0.3s"
+      },
+      {
+        "sel": ".lumos--form_ui_visual_inner",
+        "transition": "0.2s"
+      },
+      {
+        "sel": ".button",
+        "transition": "0.4s"
+      },
+      {
+        "sel": "._w-slider-arrow-left",
+        "transition": "0.25s"
+      },
+      {
+        "sel": "._w-slider-arrow-right",
+        "transition": "0.25s"
+      },
+      {
+        "sel": ".g_letter",
+        "transition": "background-color 0.2s"
+      },
+      {
+        "sel": ".clock-center-dot",
+        "transition": "opacity 0.2s"
+      },
+      {
+        "sel": ".wall-field",
+        "transition": "0.325s"
+      },
+      {
+        "sel": ".wall-field-copy",
+        "transition": "0.325s"
+      },
+      {
+        "sel": ".group-comp-wrapper",
+        "transition": "0.2s"
+      },
+      {
+        "sel": ".boxed-card-container.full-height",
+        "transition": "border-color 0.25s cubic-bezier(0.55, 0.085, 0.68, 0.53)"
+      },
+      {
+        "sel": ".theme-icon",
+        "transition": "opacity"
+      },
+      {
+        "sel": ".lighy-icon.light",
+        "transition": "opacity"
+      },
+      {
+        "sel": ".gr-button",
+        "transition": "0.2s"
+      },
+      {
+        "sel": ".image-text-toggle",
+        "transition": "opacity 0.2s"
+      },
+      {
+        "sel": ".mobile-ham",
+        "transition": "0.2s"
+      },
+      {
+        "sel": ".filter-plus-button",
+        "transition": "0.2s"
+      },
+      {
+        "sel": ".lm-button",
+        "transition": "background-color 0.2s"
+      },
+      {
+        "sel": ".svcnav__pill",
+        "transition": "background-color 0.2s, color 0.2s"
+      },
+      {
+        "sel": ".svcnav__cta",
+        "transition": "filter 0.2s"
+      },
+      {
+        "sel": ".search-result-item",
+        "transition": "border-color 0.475s"
+      },
+      {
+        "sel": ".gbar_show-results",
+        "transition": "filter 0.2s"
+      },
+      {
+        "sel": ".gbar_filters-btn",
+        "transition": "filter 0.2s"
+      },
+      {
+        "sel": ".gbar_share",
+        "transition": "opacity 0.2s"
+      },
+      {
+        "sel": ".testimonial_arrow",
+        "transition": "background-color 0.25s, color 0.25s, transform 0.25s"
+      },
+      {
+        "sel": ".frankie-button",
+        "transition": "0.2s"
+      },
+      {
+        "sel": ".work-filter-search",
+        "transition": "border-color 0.2s"
+      },
+      {
+        "sel": ".work-filter-bar",
+        "transition": "background-color 0.2s, box-shadow"
+      },
+      {
+        "sel": ".work-filter-card",
+        "transition": "background-color 0.2s, box-shadow"
+      },
+      {
+        "sel": ".source-dropdown_caret",
+        "transition": "transform 0.3s, margin-top 0.3s"
+      },
+      {
+        "sel": ".scroll-thumb",
+        "transition": "opacity 0.35s"
+      },
+      {
+        "sel": ".lm-input:-webkit-autofill, .lm-input:-webkit-autofill:hover, .lm-input:-webkit-autofill:focus",
+        "transition": "background-color 5000s ease-in-out"
+      },
+      {
+        "sel": ".frankie-button",
+        "transition": "opacity 0.35s cubic-bezier(0, 0, 0.58, 1), translate 0.35s cubic-bezier(0.34, 1.56, 0.64, 1), scale 0.35s cubic-bezier(0.34, 1.56, 0.64, 1), visibility linear 0.35s"
+      },
+      {
+        "sel": ".pulsing_linking:hover .frankie-button",
+        "transition": "opacity 0.35s cubic-bezier(0, 0, 0.58, 1) 0.1s, translate 0.35s cubic-bezier(0.34, 1.56, 0.64, 1) 0.1s, scale 0.35s cubic-bezier(0.34, 1.56, 0.64, 1) 0.1s, visibility linear 0.1s"
+      },
+      {
+        "sel": ".cky-modal.cky-modal-open",
+        "transition": "1s"
+      },
+      {
+        "sel": ".cky-modal",
+        "transition": "all"
+      },
+      {
+        "sel": ".cky-accordion .cky-accordion-chevron i::before",
+        "transition": "0.2s ease-in-out"
+      },
+      {
+        "sel": ".cky-switch input[type=\"checkbox\"]::before",
+        "transition": "0.4s"
+      },
+      {
+        "sel": ".lm-input.site-search:-webkit-autofill, .lm-input.site-search:-webkit-autofill:hover, .lm-input.site-search:-webkit-auto",
+        "transition": "background-color 5000s ease-in-out"
+      },
+      {
+        "sel": ".drag-button",
+        "transition": "opacity 0.22s ease-out, transform 0.22s ease-out"
+      },
+      {
+        "sel": ".accordion-details",
+        "transition": "max-height 0.4s, opacity 0.4s"
+      },
+      {
+        "sel": ".plus-icon",
+        "transition": "opacity 0.3s"
+      },
+      {
+        "sel": ".inner-links, .menu-toggle-hero",
+        "transition": "background-color 0.3s, backdrop-filter 0.3s, -webkit-backdrop-filter 0.3s"
+      }
+    ],
+    "keyEls": {
+      "nav.navigation-wrapper": {
+        "cls": "navigation-wrapper top-nav",
+        "transition": "all",
+        "willChange": "auto",
+        "transform": "none"
+      },
+      ".hero h1": {
+        "cls": "ut-type-headers xlarge",
+        "transition": "all",
+        "willChange": "auto",
+        "transform": "none"
+      },
+      ".hero p": {
+        "cls": "",
+        "transition": "all",
+        "willChange": "auto",
+        "transform": "none"
+      },
+      ".u-section h2": {
+        "cls": "ut-type-headers w-variant-8b8bf7c6-f3ec-2a28-7afa-5e0d7a5ce674 text-reveal",
+        "transition": "all",
+        "willChange": "auto",
+        "transform": "none"
+      },
+      ".button, .w-button, a[class*=\"button\"]": {
+        "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+        "transition": "0.2s",
+        "willChange": "auto",
+        "transform": "none"
+      },
+      ".fig-cursor": {
+        "cls": "fig-cursor",
+        "transition": "all",
+        "willChange": "transform",
+        "transform": "matrix(1, 0, 0, 1, 361, 339)"
+      },
+      ".scroll-thumb": {
+        "cls": "scroll-thumb",
+        "transition": "opacity 0.35s",
+        "willChange": "transform",
+        "transform": "matrix(1, 0, 0, 1, 0, 8)"
+      },
+      ".footer": {
+        "cls": "u-section section footer",
+        "transition": "all",
+        "willChange": "auto",
+        "transform": "none"
+      }
+    },
+    "splitTypeChars": 0,
+    "splitTypeWords": 0,
+    "splitTypeLines": 154
+  },
+  "cursorSamples": [
+    {
+      "mouse": [
+        300,
+        300
+      ],
+      "dt": 0,
+      "cursor": {
+        "x": 361,
+        "y": 339,
+        "w": 152,
+        "h": 45
+      },
+      "cursorOpacity": "1",
+      "box": {
+        "x": 412,
+        "y": 309,
+        "w": 241,
+        "h": 81
+      },
+      "boxText": ""
+    },
+    {
+      "mouse": [
+        300,
+        300
+      ],
+      "dt": 80,
+      "cursor": {
+        "x": 361,
+        "y": 339,
+        "w": 152,
+        "h": 45
+      },
+      "cursorOpacity": "1",
+      "box": {
+        "x": 412,
+        "y": 309,
+        "w": 241,
+        "h": 81
+      },
+      "boxText": ""
+    },
+    {
+      "mouse": [
+        300,
+        300
+      ],
+      "dt": 400,
+      "cursor": {
+        "x": 361,
+        "y": 339,
+        "w": 152,
+        "h": 45
+      },
+      "cursorOpacity": "1",
+      "box": {
+        "x": 412,
+        "y": 309,
+        "w": 241,
+        "h": 81
+      },
+      "boxText": ""
+    },
+    {
+      "mouse": [
+        700,
+        450
+      ],
+      "dt": 0,
+      "cursor": {
+        "x": 361,
+        "y": 339,
+        "w": 152,
+        "h": 45
+      },
+      "cursorOpacity": "1",
+      "box": {
+        "x": 412,
+        "y": 309,
+        "w": 241,
+        "h": 81
+      },
+      "boxText": ""
+    },
+    {
+      "mouse": [
+        700,
+        450
+      ],
+      "dt": 80,
+      "cursor": {
+        "x": 361,
+        "y": 339,
+        "w": 152,
+        "h": 45
+      },
+      "cursorOpacity": "1",
+      "box": {
+        "x": 412,
+        "y": 309,
+        "w": 241,
+        "h": 81
+      },
+      "boxText": ""
+    },
+    {
+      "mouse": [
+        700,
+        450
+      ],
+      "dt": 400,
+      "cursor": {
+        "x": 361,
+        "y": 339,
+        "w": 152,
+        "h": 45
+      },
+      "cursorOpacity": "1",
+      "box": {
+        "x": 412,
+        "y": 309,
+        "w": 241,
+        "h": 81
+      },
+      "boxText": ""
+    },
+    {
+      "mouse": [
+        1100,
+        600
+      ],
+      "dt": 0,
+      "cursor": {
+        "x": 361,
+        "y": 339,
+        "w": 152,
+        "h": 45
+      },
+      "cursorOpacity": "1",
+      "box": {
+        "x": 412,
+        "y": 309,
+        "w": 241,
+        "h": 81
+      },
+      "boxText": ""
+    },
+    {
+      "mouse": [
+        1100,
+        600
+      ],
+      "dt": 80,
+      "cursor": {
+        "x": 361,
+        "y": 339,
+        "w": 152,
+        "h": 45
+      },
+      "cursorOpacity": "1",
+      "box": {
+        "x": 412,
+        "y": 309,
+        "w": 241,
+        "h": 81
+      },
+      "boxText": ""
+    },
+    {
+      "mouse": [
+        1100,
+        600
+      ],
+      "dt": 400,
+      "cursor": {
+        "x": 361,
+        "y": 339,
+        "w": 152,
+        "h": 45
+      },
+      "cursorOpacity": "1",
+      "box": {
+        "x": 412,
+        "y": 309,
+        "w": 241,
+        "h": 81
+      },
+      "boxText": ""
+    }
+  ],
+  "hover": {
+    "nav-link": {
+      "before": {
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tf": "none",
+        "td": "none",
+        "op": "1"
+      },
+      "after": {
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tf": "none",
+        "td": "none",
+        "op": "1"
+      }
+    },
+    "nav-cta": {
+      "before": {
+        "color": "rgb(6, 17, 14)",
+        "bg": "rgba(255, 255, 255, 0)",
+        "tf": "none",
+        "td": "none",
+        "op": "1"
+      },
+      "after": {
+        "color": "rgb(31, 45, 164)",
+        "bg": "rgba(255, 255, 255, 0)",
+        "tf": "none",
+        "td": "none",
+        "op": "1"
+      }
+    },
+    "hero-submit": {
+      "before": {
+        "color": "rgb(245, 242, 241)",
+        "bg": "rgb(43, 64, 235)",
+        "tf": "none",
+        "td": "none",
+        "op": "0.9"
+      },
+      "after": {
+        "color": "rgb(245, 242, 241)",
+        "bg": "rgb(43, 64, 235)",
+        "tf": "none",
+        "td": "none",
+        "op": "0.9"
+      }
+    }
+  },
+  "navOnScroll": [
+    {
+      "y": 0,
+      "scrollY": 0,
+      "pos": "fixed",
+      "tf": "none",
+      "bg": "rgba(0, 0, 0, 0)",
+      "h": 144,
+      "top": 2,
+      "inner": [
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button primary w-node-_13d2692c-6e8c-a9b8-ffc6-d13c9b301496-9b301496 w-inline",
+          "bg": "rgb(43, 64, 235)"
+        },
+        {
+          "cls": "theme-toggle-wrapper ut w-inline-block",
+          "bg": "rgb(238, 234, 231)"
+        },
+        {
+          "cls": "contact-modal-bg",
+          "bg": "rgba(255, 255, 255, 0.8)"
+        }
+      ]
+    },
+    {
+      "y": 400,
+      "scrollY": 403,
+      "pos": "fixed",
+      "tf": "none",
+      "bg": "rgba(0, 0, 0, 0)",
+      "h": 144,
+      "top": 2,
+      "inner": [
+        {
+          "cls": "inner-links is-scrolled",
+          "bg": "rgba(245, 242, 241, 0.9)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button primary w-node-_13d2692c-6e8c-a9b8-ffc6-d13c9b301496-9b301496 w-inline",
+          "bg": "rgb(43, 64, 235)"
+        },
+        {
+          "cls": "theme-toggle-wrapper ut w-inline-block",
+          "bg": "rgb(238, 234, 231)"
+        }
+      ]
+    },
+    {
+      "y": 1200,
+      "scrollY": 1512,
+      "pos": "fixed",
+      "tf": "none",
+      "bg": "rgba(0, 0, 0, 0)",
+      "h": 144,
+      "top": 2,
+      "inner": [
+        {
+          "cls": "inner-links is-scrolled",
+          "bg": "rgba(245, 242, 241, 0.9)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button primary w-node-_13d2692c-6e8c-a9b8-ffc6-d13c9b301496-9b301496 w-inline",
+          "bg": "rgb(43, 64, 235)"
+        },
+        {
+          "cls": "theme-toggle-wrapper ut w-inline-block",
+          "bg": "rgb(238, 234, 231)"
+        }
+      ]
+    },
+    {
+      "y": 2400,
+      "scrollY": 3830,
+      "pos": "fixed",
+      "tf": "none",
+      "bg": "rgba(0, 0, 0, 0)",
+      "h": 144,
+      "top": 2,
+      "inner": [
+        {
+          "cls": "inner-links is-scrolled",
+          "bg": "rgba(245, 242, 241, 0.9)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button primary w-node-_13d2692c-6e8c-a9b8-ffc6-d13c9b301496-9b301496 w-inline",
+          "bg": "rgb(43, 64, 235)"
+        },
+        {
+          "cls": "theme-toggle-wrapper ut w-inline-block",
+          "bg": "rgb(238, 234, 231)"
+        }
+      ]
+    },
+    {
+      "y": 4000,
+      "scrollY": 5338,
+      "pos": "fixed",
+      "tf": "none",
+      "bg": "rgba(0, 0, 0, 0)",
+      "h": 144,
+      "top": 2,
+      "inner": [
+        {
+          "cls": "inner-links is-scrolled",
+          "bg": "rgba(245, 242, 241, 0.9)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button ghost w-variant-aa3a8ddd-c276-bd12-96ab-a6301c4008e0 w-inline-block",
+          "bg": "rgba(255, 255, 255, 0)"
+        },
+        {
+          "cls": "gr-button primary w-node-_13d2692c-6e8c-a9b8-ffc6-d13c9b301496-9b301496 w-inline",
+          "bg": "rgb(43, 64, 235)"
+        },
+        {
+          "cls": "theme-toggle-wrapper ut w-inline-block",
+          "bg": "rgb(238, 234, 231)"
+        }
+      ]
+    }
+  ],
+  "servicesInfo": {
+    "swiper": {
+      "cls": "swiper is-team w-dyn-list swiper-initialized swiper-horizontal",
+      "params": {
+        "init": true,
+        "direction": "horizontal",
+        "oneWayMovement": false,
+        "touchEventsTarget": "wrapper",
+        "initialSlide": 0,
+        "speed": 300,
+        "cssMode": false,
+        "updateOnWindowResize": true,
+        "resizeObserver": true,
+        "nested": false,
+        "createElements": false,
+        "enabled": true,
+        "focusableElements": "input, select, option, textarea, button, video, label",
+        "preventInteractionOnTransition": false,
+        "edgeSwipeDetection": false,
+        "edgeSwipeThreshold": 20,
+        "autoHeight": false,
+        "setWrapperSize": false,
+        "virtualTranslate": false,
+        "effect": "slide",
+        "breakpointsBase": "window",
+        "spaceBetween": 24,
+        "slidesPerView": 3,
+        "slidesPerGroup": 1,
+        "slidesPerGroupSkip": 0,
+        "slidesPerGroupAuto": false,
+        "centeredSlides": false,
+        "centeredSlidesBounds": false,
+        "slidesOffsetBefore": 0,
+        "slidesOffsetAfter": 0,
+        "normalizeSlideIndex": true,
+        "centerInsufficientSlides": false,
+        "watchOverflow": true,
+        "roundLengths": false,
+        "touchRatio": 1,
+        "touchAngle": 45,
+        "simulateTouch": true,
+        "shortSwipes": true,
+        "longSwipes": true,
+        "longSwipesRatio": 0.1,
+        "longSwipesMs": 100,
+        "followFinger": true,
+        "allowTouchMove": true,
+        "threshold": 5,
+        "touchMoveStopPropagation": false,
+        "touchStartPreventDefault": false,
+        "touchStartForcePreventDefault": false,
+        "touchReleaseOnEdges": false,
+        "uniqueNavElements": true,
+        "resistance": true,
+        "resistanceRatio": 0.85,
+        "watchSlidesProgress": false,
+        "grabCursor": false,
+        "preventClicks": true,
+        "preventClicksPropagation": true,
+        "slideToClickedSlide": false,
+        "loop": false,
+        "loopPreventsSliding": true,
+        "rewind": false,
+        "allowSlidePrev": true,
+        "allowSlideNext": true,
+        "noSwiping": true,
+        "noSwipingClass": "swiper-no-swiping",
+        "passiveListeners": true,
+        "maxBackfaceHiddenSlides": 10,
+        "containerModifierClass": "swiper-",
+        "slideClass": "swiper-slide",
+        "slideActiveClass": "swiper-slide-active",
+        "slideVisibleClass": "swiper-slide-visible",
+        "slideNextClass": "swiper-slide-next",
+        "slidePrevClass": "swiper-slide-prev",
+        "wrapperClass": "swiper-wrapper",
+        "lazyPreloaderClass": "swiper-lazy-preloader",
+        "lazyPreloadPrevNext": 0,
+        "runCallbacksOnInit": true,
+        "_emitClasses": false,
+        "observer": false,
+        "observeParents": false,
+        "observeSlideChildren": false,
+        "el": ".swiper.is-team"
+      }
+    },
+    "cards": [
+      {
+        "cls": "card_overlay",
+        "w": 368,
+        "h": 491,
+        "text": "MVB The essential brand foundations that allow you to launch fast without looking like you're still in beta."
+      },
+      {
+        "cls": "card_overlay",
+        "w": 368,
+        "h": 491,
+        "text": "Brand Transformation A full strategic rebrand, so everything you put out finally matches where you're headed."
+      },
+      {
+        "cls": "card_overlay",
+        "w": 368,
+        "h": 491,
+        "text": "Embedded Brand Team Senior creative talent plugged directly into your team, without the commitment of a full in-house hire."
+      },
+      {
+        "cls": "card_overlay",
+        "w": 368,
+        "h": 491,
+        "text": "Content OS Voice and brand system that allow you to create impactful content that’s on brand, every time."
+      },
+      {
+        "cls": "card_overlay",
+        "w": 368,
+        "h": 491,
+        "text": "Promotional Videos The best ad you'll ever run looks nothing like one. We move your audience from curious to sold."
+      },
+      {
+        "cls": "card_overlay",
+        "w": 368,
+        "h": 491,
+        "text": "Embedded Content Team Dedicated content experts who learn your brand inside out to strategize, plan, and create content that actually connects with your audience."
+      },
+      {
+        "cls": "card_overlay",
+        "w": 368,
+        "h": 491,
+        "text": "Site Migration Say goodbye to site paralysis. We not only handle site migration, but ensure your site is set up for your team to make the best use of it from day one."
+      },
+      {
+        "cls": "card_overlay",
+        "w": 368,
+        "h": 491,
+        "text": "Component Libraries Scalable component libraries so not only every page and section feels cohesive, but you can scale and iterate quickly."
+      }
+    ]
+  },
+  "testimonialSwiper": [
+    {
+      "cls": "swiper is-team w-dyn-list swiper-initialized swiper-horizontal",
+      "slides": 12,
+      "params": {
+        "init": true,
+        "direction": "horizontal",
+        "oneWayMovement": false,
+        "touchEventsTarget": "wrapper",
+        "initialSlide": 0,
+        "speed": 300,
+        "cssMode": false,
+        "updateOnWindowResize": true,
+        "resizeObserver": true,
+        "nested": false,
+        "createElements": false,
+        "enabled": true,
+        "focusableElements": "input, select, option, textarea, button, video, label",
+        "preventInteractionOnTransition": false,
+        "edgeSwipeDetection": false,
+        "edgeSwipeThreshold": 20,
+        "autoHeight": false,
+        "setWrapperSize": false,
+        "virtualTranslate": false,
+        "effect": "slide",
+        "breakpointsBase": "window",
+        "spaceBetween": 24,
+        "slidesPerView": 3,
+        "slidesPerGroup": 1,
+        "slidesPerGroupSkip": 0,
+        "slidesPerGroupAuto": false,
+        "centeredSlides": false,
+        "centeredSlidesBounds": false,
+        "slidesOffsetBefore": 0,
+        "slidesOffsetAfter": 0,
+        "normalizeSlideIndex": true,
+        "centerInsufficientSlides": false,
+        "watchOverflow": true,
+        "roundLengths": false,
+        "touchRatio": 1,
+        "touchAngle": 45,
+        "simulateTouch": true,
+        "shortSwipes": true,
+        "longSwipes": true,
+        "longSwipesRatio": 0.1,
+        "longSwipesMs": 100,
+        "followFinger": true,
+        "allowTouchMove": true,
+        "threshold": 5,
+        "touchMoveStopPropagation": false,
+        "touchStartPreventDefault": false,
+        "touchStartForcePreventDefault": false,
+        "touchReleaseOnEdges": false,
+        "uniqueNavElements": true,
+        "resistance": true,
+        "resistanceRatio": 0.85,
+        "watchSlidesProgress": false,
+        "grabCursor": false,
+        "preventClicks": true,
+        "preventClicksPropagation": true,
+        "slideToClickedSlide": false,
+        "loop": false,
+        "loopPreventsSliding": true,
+        "rewind": false,
+        "allowSlidePrev": true,
+        "allowSlideNext": true,
+        "noSwiping": true,
+        "noSwipingClass": "swiper-no-swiping",
+        "passiveListeners": true,
+        "maxBackfaceHiddenSlides": 10,
+        "containerModifierClass": "swiper-",
+        "slideClass": "swiper-slide",
+        "slideActiveClass": "swiper-slide-active",
+        "slideVisibleClass": "swiper-slide-visible",
+        "slideNextClass": "swiper-slide-next",
+        "slidePrevClass": "swiper-slide-prev",
+        "wrapperClass": "swiper-wrapper",
+        "lazyPreloaderClass": "swiper-lazy-preloader",
+        "lazyPreloadPrevNext": 0,
+        "runCallbacksOnInit": true,
+        "_emitClasses": false,
+        "observer": false,
+        "observeParents": false,
+        "observeSlideChildren": false,
+        "el": ".swiper.is-team"
+      }
+    }
+  ],
+  "ctaCylinder": {
+    "canvas": {
+      "w": 1312,
+      "h": 656,
+      "cls": "ring3d-canvas"
+    },
+    "imgs": 8,
+    "samples": [
+      [
+        {
+          "cls": "",
+          "tf": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "cls": "",
+          "tf": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "cls": "",
+          "tf": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      [
+        {
+          "cls": "",
+          "tf": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "cls": "",
+          "tf": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "cls": "",
+          "tf": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      [
+        {
+          "cls": "",
+          "tf": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "cls": "",
+          "tf": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "cls": "",
+          "tf": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      [
+        {
+          "cls": "",
+          "tf": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "cls": "",
+          "tf": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "cls": "",
+          "tf": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ]
+    ]
+  },
+  "menu": {
+    "burgerFound": 1,
+    "burgerCls": "menu-toggle-hero w-inline-block is-scrolled",
+    "open": []
+  },
+  "darkTheme": {
+    "htmlCls": "w-mod-js u-theme-light wf-articulatcf-n4-active wf-articulatcf-n7-active wf-peridotpevariable-n1-inactive wf-articulatcf-n2-active wf-articulatcf-n3-active wf-articulatcf-n5-active wf-articulatcf-n6-a",
+    "bodyBg": "rgb(6, 17, 14)",
+    "color": "rgb(245, 242, 241)",
+    "h1": "rgb(245, 242, 241)"
+  },
+  "mobileMenu": [
+    "WORK",
+    "RESEARCH",
+    "BEFORE & AFTER",
+    "ABOUT",
+    "SHOP",
+    "CONTACT",
+    "WEBFLOW ENTERPRISE",
+    "DRIBBBLE"
+  ]
+}
